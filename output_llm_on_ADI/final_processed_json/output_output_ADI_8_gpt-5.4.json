@@ -1,0 +1,3977 @@
+{
+    "promptVersion": "P2_SANTANDER_FMSB_MAPPER_V1.0",
+    "rulesVersion": "Santander-FMSB-v2.0.3-Custom-Final",
+    "documentName": "",
+    "records": [
+        {
+            "recordId": "SSI-001",
+            "sourceBlockId": "table-3-row-1",
+            "recordScopeStatus": "ACTION_NOT_STATED",
+            "fields": [
+                {
+                    "fieldId": "F-01",
+                    "fieldName": "action",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-02",
+                    "fieldName": "instructingParty.identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-03",
+                    "fieldName": "instructingParty.lei",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-04",
+                    "fieldName": "instructingParty.bic",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-05",
+                    "fieldName": "instructingParty.proprietaryIdentification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-06",
+                    "fieldName": "instructingParty.proprietarySchemeName",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-07",
+                    "fieldName": "beneficiary.entityIdentification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-08",
+                    "fieldName": "effectiveDate.parameter",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-09",
+                    "fieldName": "effectiveDate.start",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-10",
+                    "fieldName": "effectiveDate.end",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-11",
+                    "fieldName": "market.settlementPurpose",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-12",
+                    "fieldName": "market.settlementCountry",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-13",
+                    "fieldName": "market.classificationIdentifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-14",
+                    "fieldName": "market.isin",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-15",
+                    "fieldName": "market.settlementCurrency",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-16",
+                    "fieldName": "market.psafeBic",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-17",
+                    "fieldName": "depository.psetBic",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-18",
+                    "fieldName": "party1.identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-19",
+                    "fieldName": "party1.bic",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-20",
+                    "fieldName": "party1.accountIdentification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-21",
+                    "fieldName": "party1.accountName",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-22",
+                    "fieldName": "party2.identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-23",
+                    "fieldName": "party2.bic",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-24",
+                    "fieldName": "party2.accountIdentification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-25",
+                    "fieldName": "party2.accountName",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-26",
+                    "fieldName": "party3.identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-27",
+                    "fieldName": "party3.bic",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-28",
+                    "fieldName": "party3.accountIdentification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-29",
+                    "fieldName": "party3.accountName",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-30",
+                    "fieldName": "party4.identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-31",
+                    "fieldName": "party4.bic",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-32",
+                    "fieldName": "party4.accountIdentification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-33",
+                    "fieldName": "party4.accountName",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                }
+            ],
+            "recordReviewRequired": true,
+            "recordReviewReasonCodes": [
+                "ACTION_NOT_STATED",
+                "PSET_NOT_EXPLICITLY_LABELLED"
+            ]
+        },
+        {
+            "recordId": "SSI-002",
+            "sourceBlockId": "table-3-row-2",
+            "recordScopeStatus": "ACTION_NOT_STATED",
+            "fields": [
+                {
+                    "fieldId": "F-01",
+                    "fieldName": "action",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-02",
+                    "fieldName": "instructingParty.identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-03",
+                    "fieldName": "instructingParty.lei",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-04",
+                    "fieldName": "instructingParty.bic",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-05",
+                    "fieldName": "instructingParty.proprietaryIdentification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-06",
+                    "fieldName": "instructingParty.proprietarySchemeName",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-07",
+                    "fieldName": "beneficiary.entityIdentification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-08",
+                    "fieldName": "effectiveDate.parameter",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-09",
+                    "fieldName": "effectiveDate.start",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-10",
+                    "fieldName": "effectiveDate.end",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-11",
+                    "fieldName": "market.settlementPurpose",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-12",
+                    "fieldName": "market.settlementCountry",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-13",
+                    "fieldName": "market.classificationIdentifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-14",
+                    "fieldName": "market.isin",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-15",
+                    "fieldName": "market.settlementCurrency",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-16",
+                    "fieldName": "market.psafeBic",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-17",
+                    "fieldName": "depository.psetBic",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-18",
+                    "fieldName": "party1.identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-19",
+                    "fieldName": "party1.bic",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-20",
+                    "fieldName": "party1.accountIdentification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-21",
+                    "fieldName": "party1.accountName",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-22",
+                    "fieldName": "party2.identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-23",
+                    "fieldName": "party2.bic",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-24",
+                    "fieldName": "party2.accountIdentification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-25",
+                    "fieldName": "party2.accountName",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-26",
+                    "fieldName": "party3.identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-27",
+                    "fieldName": "party3.bic",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-28",
+                    "fieldName": "party3.accountIdentification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-29",
+                    "fieldName": "party3.accountName",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-30",
+                    "fieldName": "party4.identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-31",
+                    "fieldName": "party4.bic",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-32",
+                    "fieldName": "party4.accountIdentification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-33",
+                    "fieldName": "party4.accountName",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                }
+            ],
+            "recordReviewRequired": true,
+            "recordReviewReasonCodes": [
+                "ACTION_NOT_STATED",
+                "PSET_NOT_EXPLICITLY_LABELLED"
+            ]
+        },
+        {
+            "recordId": "SSI-003",
+            "sourceBlockId": "table-3-row-3",
+            "recordScopeStatus": "ACTION_NOT_STATED",
+            "fields": [
+                {
+                    "fieldId": "F-01",
+                    "fieldName": "action",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-02",
+                    "fieldName": "instructingParty.identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-03",
+                    "fieldName": "instructingParty.lei",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-04",
+                    "fieldName": "instructingParty.bic",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-05",
+                    "fieldName": "instructingParty.proprietaryIdentification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-06",
+                    "fieldName": "instructingParty.proprietarySchemeName",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-07",
+                    "fieldName": "beneficiary.entityIdentification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-08",
+                    "fieldName": "effectiveDate.parameter",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-09",
+                    "fieldName": "effectiveDate.start",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-10",
+                    "fieldName": "effectiveDate.end",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-11",
+                    "fieldName": "market.settlementPurpose",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-12",
+                    "fieldName": "market.settlementCountry",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-13",
+                    "fieldName": "market.classificationIdentifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-14",
+                    "fieldName": "market.isin",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-15",
+                    "fieldName": "market.settlementCurrency",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-16",
+                    "fieldName": "market.psafeBic",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-17",
+                    "fieldName": "depository.psetBic",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-18",
+                    "fieldName": "party1.identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-19",
+                    "fieldName": "party1.bic",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-20",
+                    "fieldName": "party1.accountIdentification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-21",
+                    "fieldName": "party1.accountName",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-22",
+                    "fieldName": "party2.identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-23",
+                    "fieldName": "party2.bic",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-24",
+                    "fieldName": "party2.accountIdentification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-25",
+                    "fieldName": "party2.accountName",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-26",
+                    "fieldName": "party3.identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-27",
+                    "fieldName": "party3.bic",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-28",
+                    "fieldName": "party3.accountIdentification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-29",
+                    "fieldName": "party3.accountName",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-30",
+                    "fieldName": "party4.identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-31",
+                    "fieldName": "party4.bic",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-32",
+                    "fieldName": "party4.accountIdentification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-33",
+                    "fieldName": "party4.accountName",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                }
+            ],
+            "recordReviewRequired": true,
+            "recordReviewReasonCodes": [
+                "ACTION_NOT_STATED",
+                "PSET_NOT_EXPLICITLY_LABELLED"
+            ]
+        },
+        {
+            "recordId": "SSI-004",
+            "sourceBlockId": "table-3-row-4",
+            "recordScopeStatus": "ACTION_NOT_STATED",
+            "fields": [
+                {
+                    "fieldId": "F-01",
+                    "fieldName": "action",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-02",
+                    "fieldName": "instructingParty.identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-03",
+                    "fieldName": "instructingParty.lei",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-04",
+                    "fieldName": "instructingParty.bic",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-05",
+                    "fieldName": "instructingParty.proprietaryIdentification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-06",
+                    "fieldName": "instructingParty.proprietarySchemeName",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-07",
+                    "fieldName": "beneficiary.entityIdentification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-08",
+                    "fieldName": "effectiveDate.parameter",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-09",
+                    "fieldName": "effectiveDate.start",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-10",
+                    "fieldName": "effectiveDate.end",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-11",
+                    "fieldName": "market.settlementPurpose",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-12",
+                    "fieldName": "market.settlementCountry",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-13",
+                    "fieldName": "market.classificationIdentifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-14",
+                    "fieldName": "market.isin",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-15",
+                    "fieldName": "market.settlementCurrency",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-16",
+                    "fieldName": "market.psafeBic",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-17",
+                    "fieldName": "depository.psetBic",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-18",
+                    "fieldName": "party1.identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-19",
+                    "fieldName": "party1.bic",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-20",
+                    "fieldName": "party1.accountIdentification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-21",
+                    "fieldName": "party1.accountName",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-22",
+                    "fieldName": "party2.identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-23",
+                    "fieldName": "party2.bic",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-24",
+                    "fieldName": "party2.accountIdentification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-25",
+                    "fieldName": "party2.accountName",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-26",
+                    "fieldName": "party3.identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-27",
+                    "fieldName": "party3.bic",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-28",
+                    "fieldName": "party3.accountIdentification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-29",
+                    "fieldName": "party3.accountName",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-30",
+                    "fieldName": "party4.identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-31",
+                    "fieldName": "party4.bic",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-32",
+                    "fieldName": "party4.accountIdentification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-33",
+                    "fieldName": "party4.accountName",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                }
+            ],
+            "recordReviewRequired": true,
+            "recordReviewReasonCodes": [
+                "ACTION_NOT_STATED",
+                "PSET_NOT_EXPLICITLY_LABELLED"
+            ]
+        }
+    ],
+    "unmappedAndReview": [
+        {
+            "sourceBlockId": "doc-header-1",
+            "reviewRequired": true,
+            "reason": "ACTION_NOT_STATED",
+            "sourceValues": [
+                "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                "Securities Settlement Instruction List for Agricultural Bank of China limited, Head office SWIFT ABOCCNBJ"
+            ],
+            "evidence": [
+                "No explicit Create/New SSI wording found"
+            ]
+        },
+        {
+            "sourceBlockId": "table-3-row-1",
+            "reviewRequired": true,
+            "reason": "PSET_NOT_EXPLICITLY_LABELLED",
+            "sourceValues": [
+                "Market: ICSD",
+                "Bic Code: CEDELULL"
+            ],
+            "evidence": [
+                "ICSD/Custodian row present but no explicit PSET label"
+            ]
+        },
+        {
+            "sourceBlockId": "table-3-row-2",
+            "reviewRequired": true,
+            "reason": "PSET_NOT_EXPLICITLY_LABELLED",
+            "sourceValues": [
+                "Market: ICSD",
+                "Bic Code: MGTCBEBEECL"
+            ],
+            "evidence": [
+                "ICSD/Custodian row present but no explicit PSET label"
+            ]
+        },
+        {
+            "sourceBlockId": "table-3-row-3",
+            "reviewRequired": true,
+            "reason": "PSET_NOT_EXPLICITLY_LABELLED",
+            "sourceValues": [
+                "Market: United States(FEDWIRE)",
+                "Bic Code: IRVTUS3NIBK"
+            ],
+            "evidence": [
+                "Market/Custodian row present but no explicit PSET label"
+            ]
+        },
+        {
+            "sourceBlockId": "table-3-row-4",
+            "reviewRequired": true,
+            "reason": "PSET_NOT_EXPLICITLY_LABELLED",
+            "sourceValues": [
+                "Market: United States(DTC)",
+                "Bic Code: CHASGB2L"
+            ],
+            "evidence": [
+                "Market/Custodian row present but no explicit PSET label"
+            ]
+        },
+        {
+            "sourceBlockId": "page-2-non-english-cny-section",
+            "reviewRequired": true,
+            "reason": "OPERATIONS_CLARIFICATION_REQUIRED",
+            "sourceValues": [
+                "Currency:CNY(大额支付系统)",
+                "开户行行名:中国农业银行资金清算中心",
+                "大额支付系统行号:103100000026",
+                "户名:中国农业银行 账号:9099990112104001",
+                "Currency: CNY(VIA CIPS)",
+                "Correspondent Bank:Agricultural Bank of China",
+                "Correspondent Bank's SWIFT:ABOCCNBJXXX",
+                "Account Number:907000",
+                "Beneficiary's SWIFT:ABOCCNBJXXX",
+                "Beneficiary's Name in English:Agricultural Bank of China",
+                "Beneficiary's Name in Chinese:中国农业银行"
+            ],
+            "evidence": [
+                "Non-English / non-tabular mixed section present; not mapped to load-ready securities SSI records under current rules"
+            ]
+        },
+        {
+            "sourceBlockId": "tables-1-and-2",
+            "reviewRequired": true,
+            "reason": "OUT_OF_SCOPE_NON_SECURITIES_CONTENT",
+            "sourceValues": [
+                "CCY / SWIFT of CORR. Bank / ACCOUNT / INTERMEDIARY rows for AED, AUD, CAD, CHF, DKK, EUR, GBP, HKD, JPY, KRW, KZT, MNT, MYR, NOK, NZD, SAR, SEK, SGD, THB, USD, ZAR, MOP, PLN, HUF, IDR, RUB, MXN"
+            ],
+            "evidence": [
+                "Document contains FX/Money Markets/Derivative/correspondent settlement content outside approved securities create mapping scope"
+            ]
+        },
+        {
+            "recordId": "SSI-001",
+            "reason": "NON_APPROVED_FIELDS_RETURNED",
+            "fields": [
+                {
+                    "fieldId": "action",
+                    "fieldName": "Action",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.identifier",
+                    "fieldName": "Instructing Party Identifier",
+                    "mappedValue": "BIC",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Document-level instructing party/account owner SWIFT explicitly stated"
+                    ],
+                    "sourceGroupIds": [
+                        "doc-header-1"
+                    ],
+                    "sourceValues": [
+                        "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ"
+                    ],
+                    "evidence": [
+                        "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.lei",
+                    "fieldName": "Instructing Entity LEI",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.bic",
+                    "fieldName": "Instructing Party BIC",
+                    "mappedValue": "ABOCCNBJ",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Document-level instructing party/account owner SWIFT explicitly stated"
+                    ],
+                    "sourceGroupIds": [
+                        "doc-header-1"
+                    ],
+                    "sourceValues": [
+                        "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ"
+                    ],
+                    "evidence": [
+                        "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.proprietaryIdentification",
+                    "fieldName": "Proprietary Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.proprietarySchemeName",
+                    "fieldName": "Proprietary Scheme Name",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "beneficiary.entityIdentification",
+                    "fieldName": "Beneficiary Entity Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "effectiveDate.parameter",
+                    "fieldName": "Effective Date Parameter",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "effectiveDate.start",
+                    "fieldName": "Effective Start Date",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [
+                        "Last update: 9th-MAR-2026"
+                    ],
+                    "evidence": [
+                        "Last update: 9th-MAR-2026"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "effectiveDate.end",
+                    "fieldName": "Effective End Date",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.settlementPurpose",
+                    "fieldName": "Settlement Purpose",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [
+                        "Securities Settlement Instruction List for Agricultural Bank of China limited, Head office SWIFT ABOCCNBJ"
+                    ],
+                    "evidence": [
+                        "Securities Settlement Instruction List for Agricultural Bank of China limited, Head office SWIFT ABOCCNBJ"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.settlementCountry",
+                    "fieldName": "Settlement Country",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "table-3-row-1"
+                    ],
+                    "sourceValues": [
+                        "ICSD"
+                    ],
+                    "evidence": [
+                        "Market: ICSD"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.classificationIdentifier",
+                    "fieldName": "Classification Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "table-3-row-1"
+                    ],
+                    "sourceValues": [
+                        "Account(ISIN)",
+                        "80358 -For International Bond(XS,DE,GB.JP,HK,CA,AU)"
+                    ],
+                    "evidence": [
+                        "Account(ISIN)",
+                        "80358 -For International Bond(XS,DE,GB.JP,HK,CA,AU)"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.isin",
+                    "fieldName": "ISIN",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "table-3-row-1"
+                    ],
+                    "sourceValues": [
+                        "80358 -For International Bond(XS,DE,GB.JP,HK,CA,AU)"
+                    ],
+                    "evidence": [
+                        "80358 -For International Bond(XS,DE,GB.JP,HK,CA,AU)"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.settlementCurrency",
+                    "fieldName": "Settlement Currency",
+                    "mappedValue": "ALL",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Explicit Currency column value for SSI row"
+                    ],
+                    "sourceGroupIds": [
+                        "table-3-row-1"
+                    ],
+                    "sourceValues": [
+                        "ALL"
+                    ],
+                    "evidence": [
+                        "Currency: ALL"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.psafeBic",
+                    "fieldName": "PSAFE BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "depository.psetBic",
+                    "fieldName": "PSET Party Identifier - BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "table-3-row-1"
+                    ],
+                    "sourceValues": [
+                        "CEDELULL"
+                    ],
+                    "evidence": [
+                        "Bic Code: CEDELULL"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party1.identifier",
+                    "fieldName": "Party 1 Party Identifier",
+                    "mappedValue": "BIC",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Source party group contains BIC"
+                    ],
+                    "sourceGroupIds": [
+                        "table-3-row-1-custodian"
+                    ],
+                    "sourceValues": [
+                        "CEDELULL"
+                    ],
+                    "evidence": [
+                        "Custodian: CLEARSTREAM",
+                        "Bic Code: CEDELULL"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party1.bic",
+                    "fieldName": "Party 1 BIC",
+                    "mappedValue": "CEDELULL",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Explicit BIC in source party group"
+                    ],
+                    "sourceGroupIds": [
+                        "table-3-row-1-custodian"
+                    ],
+                    "sourceValues": [
+                        "CEDELULL"
+                    ],
+                    "evidence": [
+                        "Custodian: CLEARSTREAM",
+                        "Bic Code: CEDELULL"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party1.accountIdentification",
+                    "fieldName": "Party 1 Account Identification",
+                    "mappedValue": "80358 -For International Bond(XS,DE,GB.JP,HK,CA,AU)",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Single account value in same source party group"
+                    ],
+                    "sourceGroupIds": [
+                        "table-3-row-1-custodian"
+                    ],
+                    "sourceValues": [
+                        "80358 -For International Bond(XS,DE,GB.JP,HK,CA,AU)"
+                    ],
+                    "evidence": [
+                        "Account(ISIN): 80358 -For International Bond(XS,DE,GB.JP,HK,CA,AU)"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party1.accountName",
+                    "fieldName": "Party 1 Account Name",
+                    "mappedValue": "CLEARSTREAM",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Role-labelled institution name in same source party group"
+                    ],
+                    "sourceGroupIds": [
+                        "table-3-row-1-custodian"
+                    ],
+                    "sourceValues": [
+                        "CLEARSTREAM"
+                    ],
+                    "evidence": [
+                        "Custodian: CLEARSTREAM"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party2.identifier",
+                    "fieldName": "Party 2 Party Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party2.bic",
+                    "fieldName": "Party 2 BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party2.accountIdentification",
+                    "fieldName": "Party 2 Account Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party2.accountName",
+                    "fieldName": "Party 2 Account Name",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party3.identifier",
+                    "fieldName": "Party 3 Party Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party3.bic",
+                    "fieldName": "Party 3 BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party3.accountIdentification",
+                    "fieldName": "Party 3 Account Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party3.accountName",
+                    "fieldName": "Party 3 Account Name",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party4.identifier",
+                    "fieldName": "Party 4 Party Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party4.bic",
+                    "fieldName": "Party 4 BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party4.accountIdentification",
+                    "fieldName": "Party 4 Account Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party4.accountName",
+                    "fieldName": "Party 4 Account Name",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                }
+            ]
+        },
+        {
+            "recordId": "SSI-002",
+            "reason": "NON_APPROVED_FIELDS_RETURNED",
+            "fields": [
+                {
+                    "fieldId": "action",
+                    "fieldName": "Action",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.identifier",
+                    "fieldName": "Instructing Party Identifier",
+                    "mappedValue": "BIC",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Document-level instructing party/account owner SWIFT explicitly stated"
+                    ],
+                    "sourceGroupIds": [
+                        "doc-header-1"
+                    ],
+                    "sourceValues": [
+                        "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ"
+                    ],
+                    "evidence": [
+                        "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.lei",
+                    "fieldName": "Instructing Entity LEI",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.bic",
+                    "fieldName": "Instructing Party BIC",
+                    "mappedValue": "ABOCCNBJ",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Document-level instructing party/account owner SWIFT explicitly stated"
+                    ],
+                    "sourceGroupIds": [
+                        "doc-header-1"
+                    ],
+                    "sourceValues": [
+                        "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ"
+                    ],
+                    "evidence": [
+                        "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.proprietaryIdentification",
+                    "fieldName": "Proprietary Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.proprietarySchemeName",
+                    "fieldName": "Proprietary Scheme Name",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "beneficiary.entityIdentification",
+                    "fieldName": "Beneficiary Entity Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "effectiveDate.parameter",
+                    "fieldName": "Effective Date Parameter",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "effectiveDate.start",
+                    "fieldName": "Effective Start Date",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [
+                        "Last update: 9th-MAR-2026"
+                    ],
+                    "evidence": [
+                        "Last update: 9th-MAR-2026"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "effectiveDate.end",
+                    "fieldName": "Effective End Date",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.settlementPurpose",
+                    "fieldName": "Settlement Purpose",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [
+                        "Securities Settlement Instruction List for Agricultural Bank of China limited, Head office SWIFT ABOCCNBJ"
+                    ],
+                    "evidence": [
+                        "Securities Settlement Instruction List for Agricultural Bank of China limited, Head office SWIFT ABOCCNBJ"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.settlementCountry",
+                    "fieldName": "Settlement Country",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "table-3-row-2"
+                    ],
+                    "sourceValues": [
+                        "ICSD"
+                    ],
+                    "evidence": [
+                        "Market: ICSD"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.classificationIdentifier",
+                    "fieldName": "Classification Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "table-3-row-2"
+                    ],
+                    "sourceValues": [
+                        "Account(ISIN)",
+                        "23861-For Corporate Bond(US)"
+                    ],
+                    "evidence": [
+                        "Account(ISIN)",
+                        "23861-For Corporate Bond(US)"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.isin",
+                    "fieldName": "ISIN",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "table-3-row-2"
+                    ],
+                    "sourceValues": [
+                        "23861-For Corporate Bond(US)"
+                    ],
+                    "evidence": [
+                        "23861-For Corporate Bond(US)"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.settlementCurrency",
+                    "fieldName": "Settlement Currency",
+                    "mappedValue": "USD",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Explicit Currency column value for SSI row"
+                    ],
+                    "sourceGroupIds": [
+                        "table-3-row-2"
+                    ],
+                    "sourceValues": [
+                        "USD"
+                    ],
+                    "evidence": [
+                        "Currency: USD"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.psafeBic",
+                    "fieldName": "PSAFE BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "depository.psetBic",
+                    "fieldName": "PSET Party Identifier - BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "table-3-row-2"
+                    ],
+                    "sourceValues": [
+                        "MGTCBEBEECL"
+                    ],
+                    "evidence": [
+                        "Bic Code: MGTCBEBEECL"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party1.identifier",
+                    "fieldName": "Party 1 Party Identifier",
+                    "mappedValue": "BIC",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Source party group contains BIC"
+                    ],
+                    "sourceGroupIds": [
+                        "table-3-row-2-custodian"
+                    ],
+                    "sourceValues": [
+                        "MGTCBEBEECL"
+                    ],
+                    "evidence": [
+                        "Custodian: EUROCLEAR",
+                        "Bic Code: MGTCBEBEECL"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party1.bic",
+                    "fieldName": "Party 1 BIC",
+                    "mappedValue": "MGTCBEBEECL",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Explicit BIC in source party group"
+                    ],
+                    "sourceGroupIds": [
+                        "table-3-row-2-custodian"
+                    ],
+                    "sourceValues": [
+                        "MGTCBEBEECL"
+                    ],
+                    "evidence": [
+                        "Custodian: EUROCLEAR",
+                        "Bic Code: MGTCBEBEECL"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party1.accountIdentification",
+                    "fieldName": "Party 1 Account Identification",
+                    "mappedValue": "23861-For Corporate Bond(US)",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Single account value in same source party group"
+                    ],
+                    "sourceGroupIds": [
+                        "table-3-row-2-custodian"
+                    ],
+                    "sourceValues": [
+                        "23861-For Corporate Bond(US)"
+                    ],
+                    "evidence": [
+                        "Account(ISIN): 23861-For Corporate Bond(US)"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party1.accountName",
+                    "fieldName": "Party 1 Account Name",
+                    "mappedValue": "EUROCLEAR",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Role-labelled institution name in same source party group"
+                    ],
+                    "sourceGroupIds": [
+                        "table-3-row-2-custodian"
+                    ],
+                    "sourceValues": [
+                        "EUROCLEAR"
+                    ],
+                    "evidence": [
+                        "Custodian: EUROCLEAR"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party2.identifier",
+                    "fieldName": "Party 2 Party Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party2.bic",
+                    "fieldName": "Party 2 BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party2.accountIdentification",
+                    "fieldName": "Party 2 Account Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party2.accountName",
+                    "fieldName": "Party 2 Account Name",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party3.identifier",
+                    "fieldName": "Party 3 Party Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party3.bic",
+                    "fieldName": "Party 3 BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party3.accountIdentification",
+                    "fieldName": "Party 3 Account Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party3.accountName",
+                    "fieldName": "Party 3 Account Name",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party4.identifier",
+                    "fieldName": "Party 4 Party Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party4.bic",
+                    "fieldName": "Party 4 BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party4.accountIdentification",
+                    "fieldName": "Party 4 Account Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party4.accountName",
+                    "fieldName": "Party 4 Account Name",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                }
+            ]
+        },
+        {
+            "recordId": "SSI-003",
+            "reason": "NON_APPROVED_FIELDS_RETURNED",
+            "fields": [
+                {
+                    "fieldId": "action",
+                    "fieldName": "Action",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.identifier",
+                    "fieldName": "Instructing Party Identifier",
+                    "mappedValue": "BIC",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Document-level instructing party/account owner SWIFT explicitly stated"
+                    ],
+                    "sourceGroupIds": [
+                        "doc-header-1"
+                    ],
+                    "sourceValues": [
+                        "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ"
+                    ],
+                    "evidence": [
+                        "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.lei",
+                    "fieldName": "Instructing Entity LEI",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.bic",
+                    "fieldName": "Instructing Party BIC",
+                    "mappedValue": "ABOCCNBJ",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Document-level instructing party/account owner SWIFT explicitly stated"
+                    ],
+                    "sourceGroupIds": [
+                        "doc-header-1"
+                    ],
+                    "sourceValues": [
+                        "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ"
+                    ],
+                    "evidence": [
+                        "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.proprietaryIdentification",
+                    "fieldName": "Proprietary Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.proprietarySchemeName",
+                    "fieldName": "Proprietary Scheme Name",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "beneficiary.entityIdentification",
+                    "fieldName": "Beneficiary Entity Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "effectiveDate.parameter",
+                    "fieldName": "Effective Date Parameter",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "effectiveDate.start",
+                    "fieldName": "Effective Start Date",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [
+                        "Last update: 9th-MAR-2026"
+                    ],
+                    "evidence": [
+                        "Last update: 9th-MAR-2026"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "effectiveDate.end",
+                    "fieldName": "Effective End Date",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.settlementPurpose",
+                    "fieldName": "Settlement Purpose",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [
+                        "Securities Settlement Instruction List for Agricultural Bank of China limited, Head office SWIFT ABOCCNBJ"
+                    ],
+                    "evidence": [
+                        "Securities Settlement Instruction List for Agricultural Bank of China limited, Head office SWIFT ABOCCNBJ"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.settlementCountry",
+                    "fieldName": "Settlement Country",
+                    "mappedValue": "US",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Explicit market country/market wording converted to ISO alpha-2"
+                    ],
+                    "sourceGroupIds": [
+                        "table-3-row-3"
+                    ],
+                    "sourceValues": [
+                        "United States(FEDWIRE)"
+                    ],
+                    "evidence": [
+                        "Market: United States(FEDWIRE)"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.classificationIdentifier",
+                    "fieldName": "Classification Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "table-3-row-3"
+                    ],
+                    "sourceValues": [
+                        "Account(ISIN)",
+                        "ABA 021000018 BANK OF NYC/CUST/358200"
+                    ],
+                    "evidence": [
+                        "Account(ISIN)",
+                        "ABA 021000018 BANK OF NYC/CUST/358200"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.isin",
+                    "fieldName": "ISIN",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "table-3-row-3"
+                    ],
+                    "sourceValues": [
+                        "ABA 021000018 BANK OF NYC/CUST/358200"
+                    ],
+                    "evidence": [
+                        "ABA 021000018 BANK OF NYC/CUST/358200"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.settlementCurrency",
+                    "fieldName": "Settlement Currency",
+                    "mappedValue": "USD",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Explicit Currency column value for SSI row"
+                    ],
+                    "sourceGroupIds": [
+                        "table-3-row-3"
+                    ],
+                    "sourceValues": [
+                        "USD"
+                    ],
+                    "evidence": [
+                        "Currency: USD"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.psafeBic",
+                    "fieldName": "PSAFE BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "depository.psetBic",
+                    "fieldName": "PSET Party Identifier - BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "table-3-row-3"
+                    ],
+                    "sourceValues": [
+                        "IRVTUS3NIBK"
+                    ],
+                    "evidence": [
+                        "Bic Code: IRVTUS3NIBK"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party1.identifier",
+                    "fieldName": "Party 1 Party Identifier",
+                    "mappedValue": "BIC",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Source party group contains BIC"
+                    ],
+                    "sourceGroupIds": [
+                        "table-3-row-3-custodian"
+                    ],
+                    "sourceValues": [
+                        "IRVTUS3NIBK"
+                    ],
+                    "evidence": [
+                        "Custodian: BANK OF NEW YORK",
+                        "Bic Code: IRVTUS3NIBK"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party1.bic",
+                    "fieldName": "Party 1 BIC",
+                    "mappedValue": "IRVTUS3NIBK",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Explicit BIC in source party group"
+                    ],
+                    "sourceGroupIds": [
+                        "table-3-row-3-custodian"
+                    ],
+                    "sourceValues": [
+                        "IRVTUS3NIBK"
+                    ],
+                    "evidence": [
+                        "Custodian: BANK OF NEW YORK",
+                        "Bic Code: IRVTUS3NIBK"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party1.accountIdentification",
+                    "fieldName": "Party 1 Account Identification",
+                    "mappedValue": "ABA 021000018 BANK OF NYC/CUST/358200",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Single account value in same source party group"
+                    ],
+                    "sourceGroupIds": [
+                        "table-3-row-3-custodian"
+                    ],
+                    "sourceValues": [
+                        "ABA 021000018 BANK OF NYC/CUST/358200"
+                    ],
+                    "evidence": [
+                        "Account(ISIN): ABA 021000018 BANK OF NYC/CUST/358200"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party1.accountName",
+                    "fieldName": "Party 1 Account Name",
+                    "mappedValue": "BANK OF NEW YORK",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Role-labelled institution name in same source party group"
+                    ],
+                    "sourceGroupIds": [
+                        "table-3-row-3-custodian"
+                    ],
+                    "sourceValues": [
+                        "BANK OF NEW YORK"
+                    ],
+                    "evidence": [
+                        "Custodian: BANK OF NEW YORK"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party2.identifier",
+                    "fieldName": "Party 2 Party Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party2.bic",
+                    "fieldName": "Party 2 BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party2.accountIdentification",
+                    "fieldName": "Party 2 Account Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party2.accountName",
+                    "fieldName": "Party 2 Account Name",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party3.identifier",
+                    "fieldName": "Party 3 Party Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party3.bic",
+                    "fieldName": "Party 3 BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party3.accountIdentification",
+                    "fieldName": "Party 3 Account Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party3.accountName",
+                    "fieldName": "Party 3 Account Name",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party4.identifier",
+                    "fieldName": "Party 4 Party Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party4.bic",
+                    "fieldName": "Party 4 BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party4.accountIdentification",
+                    "fieldName": "Party 4 Account Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party4.accountName",
+                    "fieldName": "Party 4 Account Name",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                }
+            ]
+        },
+        {
+            "recordId": "SSI-004",
+            "reason": "NON_APPROVED_FIELDS_RETURNED",
+            "fields": [
+                {
+                    "fieldId": "action",
+                    "fieldName": "Action",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.identifier",
+                    "fieldName": "Instructing Party Identifier",
+                    "mappedValue": "BIC",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Document-level instructing party/account owner SWIFT explicitly stated"
+                    ],
+                    "sourceGroupIds": [
+                        "doc-header-1"
+                    ],
+                    "sourceValues": [
+                        "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ"
+                    ],
+                    "evidence": [
+                        "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.lei",
+                    "fieldName": "Instructing Entity LEI",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.bic",
+                    "fieldName": "Instructing Party BIC",
+                    "mappedValue": "ABOCCNBJ",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Document-level instructing party/account owner SWIFT explicitly stated"
+                    ],
+                    "sourceGroupIds": [
+                        "doc-header-1"
+                    ],
+                    "sourceValues": [
+                        "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ"
+                    ],
+                    "evidence": [
+                        "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.proprietaryIdentification",
+                    "fieldName": "Proprietary Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.proprietarySchemeName",
+                    "fieldName": "Proprietary Scheme Name",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "beneficiary.entityIdentification",
+                    "fieldName": "Beneficiary Entity Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "effectiveDate.parameter",
+                    "fieldName": "Effective Date Parameter",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "effectiveDate.start",
+                    "fieldName": "Effective Start Date",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [
+                        "Last update: 9th-MAR-2026"
+                    ],
+                    "evidence": [
+                        "Last update: 9th-MAR-2026"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "effectiveDate.end",
+                    "fieldName": "Effective End Date",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.settlementPurpose",
+                    "fieldName": "Settlement Purpose",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [
+                        "Securities Settlement Instruction List for Agricultural Bank of China limited, Head office SWIFT ABOCCNBJ"
+                    ],
+                    "evidence": [
+                        "Securities Settlement Instruction List for Agricultural Bank of China limited, Head office SWIFT ABOCCNBJ"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.settlementCountry",
+                    "fieldName": "Settlement Country",
+                    "mappedValue": "US",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Explicit market country/market wording converted to ISO alpha-2"
+                    ],
+                    "sourceGroupIds": [
+                        "table-3-row-4"
+                    ],
+                    "sourceValues": [
+                        "United States(DTC)"
+                    ],
+                    "evidence": [
+                        "Market: United States(DTC)"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.classificationIdentifier",
+                    "fieldName": "Classification Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "table-3-row-4"
+                    ],
+                    "sourceValues": [
+                        "Account(ISIN)",
+                        "DTC ID 0902 Sub account PS75350"
+                    ],
+                    "evidence": [
+                        "Account(ISIN)",
+                        "DTC ID 0902 Sub account PS75350"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.isin",
+                    "fieldName": "ISIN",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "table-3-row-4"
+                    ],
+                    "sourceValues": [
+                        "DTC ID 0902 Sub account PS75350"
+                    ],
+                    "evidence": [
+                        "DTC ID 0902 Sub account PS75350"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.settlementCurrency",
+                    "fieldName": "Settlement Currency",
+                    "mappedValue": "USD",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Explicit Currency column value for SSI row"
+                    ],
+                    "sourceGroupIds": [
+                        "table-3-row-4"
+                    ],
+                    "sourceValues": [
+                        "USD"
+                    ],
+                    "evidence": [
+                        "Currency: USD"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.psafeBic",
+                    "fieldName": "PSAFE BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "depository.psetBic",
+                    "fieldName": "PSET Party Identifier - BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "table-3-row-4"
+                    ],
+                    "sourceValues": [
+                        "CHASGB2L"
+                    ],
+                    "evidence": [
+                        "Bic Code: CHASGB2L"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party1.identifier",
+                    "fieldName": "Party 1 Party Identifier",
+                    "mappedValue": "BIC",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Source party group contains BIC"
+                    ],
+                    "sourceGroupIds": [
+                        "table-3-row-4-custodian"
+                    ],
+                    "sourceValues": [
+                        "CHASGB2L"
+                    ],
+                    "evidence": [
+                        "Custodian: JPMCB NEW YORK",
+                        "Bic Code: CHASGB2L"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party1.bic",
+                    "fieldName": "Party 1 BIC",
+                    "mappedValue": "CHASGB2L",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Explicit BIC in source party group"
+                    ],
+                    "sourceGroupIds": [
+                        "table-3-row-4-custodian"
+                    ],
+                    "sourceValues": [
+                        "CHASGB2L"
+                    ],
+                    "evidence": [
+                        "Custodian: JPMCB NEW YORK",
+                        "Bic Code: CHASGB2L"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party1.accountIdentification",
+                    "fieldName": "Party 1 Account Identification",
+                    "mappedValue": "DTC ID 0902 Sub account PS75350",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Single account value in same source party group"
+                    ],
+                    "sourceGroupIds": [
+                        "table-3-row-4-custodian"
+                    ],
+                    "sourceValues": [
+                        "DTC ID 0902 Sub account PS75350"
+                    ],
+                    "evidence": [
+                        "Account(ISIN): DTC ID 0902 Sub account PS75350"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party1.accountName",
+                    "fieldName": "Party 1 Account Name",
+                    "mappedValue": "JPMCB NEW YORK",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Role-labelled institution name in same source party group"
+                    ],
+                    "sourceGroupIds": [
+                        "table-3-row-4-custodian"
+                    ],
+                    "sourceValues": [
+                        "JPMCB NEW YORK"
+                    ],
+                    "evidence": [
+                        "Custodian: JPMCB NEW YORK"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party2.identifier",
+                    "fieldName": "Party 2 Party Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party2.bic",
+                    "fieldName": "Party 2 BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party2.accountIdentification",
+                    "fieldName": "Party 2 Account Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party2.accountName",
+                    "fieldName": "Party 2 Account Name",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party3.identifier",
+                    "fieldName": "Party 3 Party Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party3.bic",
+                    "fieldName": "Party 3 BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party3.accountIdentification",
+                    "fieldName": "Party 3 Account Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party3.accountName",
+                    "fieldName": "Party 3 Account Name",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party4.identifier",
+                    "fieldName": "Party 4 Party Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party4.bic",
+                    "fieldName": "Party 4 BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party4.accountIdentification",
+                    "fieldName": "Party 4 Account Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party4.accountName",
+                    "fieldName": "Party 4 Account Name",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                }
+            ]
+        }
+    ]
+}

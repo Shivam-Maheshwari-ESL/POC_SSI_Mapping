@@ -1,0 +1,150 @@
+{
+    "document_metadata": {
+        "total_pages": 1,
+        "processing_mode": "ocr"
+    },
+    "ssi_records": [
+        {
+            "ssi_id": "SSI_1",
+            "fields": {
+                "date": {
+                    "value": "08 July 2026",
+                    "source_text": "Date: 08 July 2026",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "subject": {
+                    "value": "Nakilat Conventional Inc SSI",
+                    "source_text": "Sub: Nakilat Conventional Inc SSI",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "account_maintained_with": {
+                    "value": "HSBC Bank plc.",
+                    "source_text": "Please be informed of the following SSI for Nakilat Conventional Inc. Account maintained with HSBC Bank plc.",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "account_name": {
+                    "value": "Senior Debt Service Account",
+                    "source_text": "Senior Debt Service Account",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "account_number": {
+                    "value": "99217231",
+                    "source_text": "99217231",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "iban": {
+                    "value": "GB58MIDL40051599217231",
+                    "source_text": "GB58MIDL40051599217231",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "account_currency": {
+                    "value": "USD",
+                    "source_text": "USD",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "account_holder": {
+                    "value": "Nakilat Conventional Inc.",
+                    "source_text": "Account Holder:\nNakilat Conventional Inc.",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_address": {
+                    "value": "Tower 121, The Pearl, P.O.Box: 22271, Doha, State of Qatar",
+                    "source_text": "Beneficiary Address: Tower 121, The Pearl, P.O.Box: 22271, Doha, State of Qatar",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_bank": {
+                    "value": "HSBC Bank plc",
+                    "source_text": "Beneficiary Bank:\nHSBC Bank plc",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "sort_code": {
+                    "value": "400515",
+                    "source_text": "Sort Code:\n400515",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "swift": {
+                    "value": "MIDLGB22",
+                    "source_text": "SWIFT:\nMIDLGB22",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "authorized_signatory_1": {
+                    "value": "Syed Shamsul Arfin Authorized Signatory",
+                    "source_text": "Syed Shamsul Arfin Authorized Signatory",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "authorized_signatory_2": {
+                    "value": "Hani Abuaker Authorized Signatory",
+                    "source_text": "Hani Abuaker Authorized Signatory",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [
+                {
+                    "table_name": "account_details",
+                    "headers": [
+                        "Account Name",
+                        "Account Number",
+                        "IBAN",
+                        "Account Currency"
+                    ],
+                    "rows": [
+                        [
+                            "Senior Debt Service Account",
+                            "99217231",
+                            "GB58MIDL40051599217231",
+                            "USD"
+                        ]
+                    ]
+                },
+                {
+                    "table_name": "routing_details",
+                    "headers": [
+                        "Please find below",
+                        "routing details for each of the above account:"
+                    ],
+                    "rows": [
+                        [
+                            "Account Holder:",
+                            "Nakilat Conventional Inc."
+                        ],
+                        [
+                            "Beneficiary Address:",
+                            "Tower 121, The Pearl, P.O.Box: 22271, Doha, State of Qatar"
+                        ],
+                        [
+                            "Beneficiary Bank:",
+                            "HSBC Bank plc"
+                        ],
+                        [
+                            "Sort Code:",
+                            "400515"
+                        ],
+                        [
+                            "SWIFT:",
+                            "MIDLGB22"
+                        ]
+                    ]
+                }
+            ],
+            "extraction_notes": [
+                "One SSI record identified for USD based on the single account row and associated routing details.",
+                "The handwritten/OCR text 'netylus' was excluded because it is not a clear SSI field label or value.",
+                "Footer/company registration text was excluded because it does not form part of the settlement instructions."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,728 @@
+{
+    "promptVersion": "P2_SANTANDER_FMSB_MAPPER_V1.0",
+    "rulesVersion": "Santander-FMSB-v2.0.3-Custom-Final",
+    "documentName": "",
+    "records": [
+        {
+            "recordId": "SSI-001",
+            "sourceBlockId": "/sections/0",
+            "recordScopeStatus": "OPERATIONS_CLARIFICATION_REQUIRED",
+            "fields": [
+                {
+                    "fieldId": "1",
+                    "fieldName": "Action",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [
+                        "No explicit create request wording found",
+                        "Source states 'Please be informed of the following SSI'"
+                    ],
+                    "sourceGroupIds": [
+                        "/paragraphs/6"
+                    ],
+                    "sourceValues": [
+                        "Please be informed of the following SSI for Nakilat Conventional Inc. Account maintained with HSBC Bank plc."
+                    ],
+                    "evidence": [
+                        {
+                            "sourceBlockId": "/paragraphs/6",
+                            "text": "Please be informed of the following SSI for Nakilat Conventional Inc. Account maintained with HSBC Bank plc."
+                        }
+                    ],
+                    "reviewRequired": true,
+                    "reviewReasonCodes": [
+                        "NON_ENGLISH_OR_NON_TABULAR_SOURCE"
+                    ]
+                },
+                {
+                    "fieldId": "2",
+                    "fieldName": "Instructing Party Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [
+                        "No explicit instructing party identifier provided"
+                    ],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "3",
+                    "fieldName": "Instructing Entity LEI",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [
+                        "No explicit LEI provided"
+                    ],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "4",
+                    "fieldName": "Instructing Party BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [
+                        "No explicit instructing party BIC provided"
+                    ],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "5",
+                    "fieldName": "Proprietary Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [
+                        "No explicit instructing party proprietary identifier provided"
+                    ],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "6",
+                    "fieldName": "Proprietary Scheme Name",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [
+                        "No explicit proprietary scheme name provided"
+                    ],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "7",
+                    "fieldName": "Beneficiary Entity Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [
+                        "Source provides account holder name but no explicit beneficiary entity identifier/reference"
+                    ],
+                    "sourceGroupIds": [
+                        "/paragraphs/17",
+                        "/paragraphs/18"
+                    ],
+                    "sourceValues": [
+                        "Account Holder:",
+                        "Nakilat Conventional Inc."
+                    ],
+                    "evidence": [
+                        {
+                            "sourceBlockId": "/paragraphs/17",
+                            "text": "Account Holder:"
+                        },
+                        {
+                            "sourceBlockId": "/paragraphs/18",
+                            "text": "Nakilat Conventional Inc."
+                        }
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "8",
+                    "fieldName": "Effective Date Parameter",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [
+                        "No explicit SETT or TRAD wording provided"
+                    ],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "9",
+                    "fieldName": "Effective Start Date",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [
+                        "Document date present but no explicit effective start date wording"
+                    ],
+                    "sourceGroupIds": [
+                        "/paragraphs/3"
+                    ],
+                    "sourceValues": [
+                        "Date: 08 July 2026"
+                    ],
+                    "evidence": [
+                        {
+                            "sourceBlockId": "/paragraphs/3",
+                            "text": "Date: 08 July 2026"
+                        }
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "10",
+                    "fieldName": "Effective End Date",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [
+                        "No explicit end date provided"
+                    ],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "11",
+                    "fieldName": "Settlement Purpose",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [
+                        "No explicit settlement purpose wording provided"
+                    ],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "12",
+                    "fieldName": "Settlement Country",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [
+                        "No explicit settlement country or settlement market linked to SSI record"
+                    ],
+                    "sourceGroupIds": [
+                        "/paragraphs/19",
+                        "/paragraphs/29"
+                    ],
+                    "sourceValues": [
+                        "Beneficiary Address:\nBeneficiary Bank:",
+                        "F A Qatari Public Shareholding Company (aole aghó àcolico àsua) . C.R.No.(O .(a): 28566 Issued and paid up capital (Jloil gel;): QR 5,540,263,600 . Tower 121, The Pearl ogigil.121 2s P.O. Box: 22271, Doha, Qatar . Tel: +974 4496 8811 . www.nakilat.com 1. R"
+                    ],
+                    "evidence": [
+                        {
+                            "sourceBlockId": "/paragraphs/19",
+                            "text": "Beneficiary Address:\nBeneficiary Bank:"
+                        },
+                        {
+                            "sourceBlockId": "/paragraphs/29",
+                            "text": "F A Qatari Public Shareholding Company (aole aghó àcolico àsua) . C.R.No.(O .(a): 28566 Issued and paid up capital (Jloil gel;): QR 5,540,263,600 . Tower 121, The Pearl ogigil.121 2s P.O. Box: 22271, Doha, Qatar . Tel: +974 4496 8811 . www.nakilat.com 1. R"
+                        }
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "13",
+                    "fieldName": "Classification Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [
+                        "No explicit ISIN, CFI, or alternate classification scheme provided"
+                    ],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "14",
+                    "fieldName": "ISIN",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [
+                        "No explicit ISIN provided"
+                    ],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "15",
+                    "fieldName": "Settlement Currency",
+                    "mappedValue": "USD",
+                    "components": [
+                        {
+                            "type": "currency",
+                            "value": "USD"
+                        }
+                    ],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Explicit 'Account Currency' provided in SSI account table"
+                    ],
+                    "sourceGroupIds": [
+                        "/tables/0/cells/7",
+                        "/paragraphs/14"
+                    ],
+                    "sourceValues": [
+                        "USD",
+                        "USD"
+                    ],
+                    "evidence": [
+                        {
+                            "sourceBlockId": "/tables/0/cells/7",
+                            "text": "USD"
+                        },
+                        {
+                            "sourceBlockId": "/paragraphs/14",
+                            "text": "USD"
+                        }
+                    ],
+                    "reviewRequired": true,
+                    "reviewReasonCodes": [
+                        "NON_ENGLISH_OR_NON_TABULAR_SOURCE"
+                    ]
+                },
+                {
+                    "fieldId": "16",
+                    "fieldName": "PSAFE BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [
+                        "No explicit PSAFE or Place of Safekeeping BIC provided"
+                    ],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "17",
+                    "fieldName": "PSET Party Identifier - BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [
+                        "No explicit PSET or Place of Settlement BIC provided"
+                    ],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "18",
+                    "fieldName": "Party 1 Party Identifier",
+                    "mappedValue": "BIC",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "First source party group with explicit BIC is Beneficiary Bank"
+                    ],
+                    "sourceGroupIds": [
+                        "/tables/1/cells/6",
+                        "/tables/1/cells/10"
+                    ],
+                    "sourceValues": [
+                        "HSBC Bank plc",
+                        "MIDLGB22"
+                    ],
+                    "evidence": [
+                        {
+                            "sourceBlockId": "/tables/1/cells/6",
+                            "text": "HSBC Bank plc"
+                        },
+                        {
+                            "sourceBlockId": "/tables/1/cells/10",
+                            "text": "MIDLGB22"
+                        }
+                    ],
+                    "reviewRequired": true,
+                    "reviewReasonCodes": [
+                        "NON_ENGLISH_OR_NON_TABULAR_SOURCE"
+                    ]
+                },
+                {
+                    "fieldId": "19",
+                    "fieldName": "Party 1 BIC",
+                    "mappedValue": "MIDLGB22",
+                    "components": [
+                        {
+                            "type": "bic",
+                            "value": "MIDLGB22"
+                        }
+                    ],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Explicit SWIFT provided for Beneficiary Bank source group"
+                    ],
+                    "sourceGroupIds": [
+                        "/paragraphs/24",
+                        "/paragraphs/25"
+                    ],
+                    "sourceValues": [
+                        "SWIFT:",
+                        "MIDLGB22"
+                    ],
+                    "evidence": [
+                        {
+                            "sourceBlockId": "/paragraphs/24",
+                            "text": "SWIFT:"
+                        },
+                        {
+                            "sourceBlockId": "/paragraphs/25",
+                            "text": "MIDLGB22"
+                        }
+                    ],
+                    "reviewRequired": true,
+                    "reviewReasonCodes": [
+                        "NON_ENGLISH_OR_NON_TABULAR_SOURCE"
+                    ]
+                },
+                {
+                    "fieldId": "20",
+                    "fieldName": "Party 1 Account Identification",
+                    "mappedValue": "IBAN: GB58MIDL40051599217231\nA/C: 99217231",
+                    "components": [
+                        {
+                            "type": "IBAN",
+                            "value": "GB58MIDL40051599217231"
+                        },
+                        {
+                            "type": "A/C",
+                            "value": "99217231"
+                        },
+                        {
+                            "type": "sortCode",
+                            "value": "400515"
+                        }
+                    ],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "One IBAN and one account number explicitly provided for the same SSI account details",
+                        "Sort code retained as machine-readable component"
+                    ],
+                    "sourceGroupIds": [
+                        "/tables/0/cells/5",
+                        "/tables/0/cells/6",
+                        "/tables/1/cells/8"
+                    ],
+                    "sourceValues": [
+                        "99217231",
+                        "GB58MIDL40051599217231",
+                        "400515"
+                    ],
+                    "evidence": [
+                        {
+                            "sourceBlockId": "/tables/0/cells/5",
+                            "text": "99217231"
+                        },
+                        {
+                            "sourceBlockId": "/tables/0/cells/6",
+                            "text": "GB58MIDL40051599217231"
+                        },
+                        {
+                            "sourceBlockId": "/tables/1/cells/8",
+                            "text": "400515"
+                        }
+                    ],
+                    "reviewRequired": true,
+                    "reviewReasonCodes": [
+                        "NON_ENGLISH_OR_NON_TABULAR_SOURCE"
+                    ]
+                },
+                {
+                    "fieldId": "21",
+                    "fieldName": "Party 1 Account Name",
+                    "mappedValue": "HSBC Bank plc",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "No explicit account name within bank routing group; role-labelled institution name used per priority 2"
+                    ],
+                    "sourceGroupIds": [
+                        "/paragraphs/19",
+                        "/paragraphs/21"
+                    ],
+                    "sourceValues": [
+                        "Beneficiary Bank:\nHSBC Bank plc",
+                        "HSBC Bank plc"
+                    ],
+                    "evidence": [
+                        {
+                            "sourceBlockId": "/paragraphs/19",
+                            "text": "Beneficiary Address:\nBeneficiary Bank:"
+                        },
+                        {
+                            "sourceBlockId": "/paragraphs/21",
+                            "text": "HSBC Bank plc"
+                        }
+                    ],
+                    "reviewRequired": true,
+                    "reviewReasonCodes": [
+                        "NON_ENGLISH_OR_NON_TABULAR_SOURCE"
+                    ]
+                },
+                {
+                    "fieldId": "22",
+                    "fieldName": "Party 2 Party Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [
+                        "No second supported party group identified"
+                    ],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "23",
+                    "fieldName": "Party 2 BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [
+                        "No second supported party group identified"
+                    ],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "24",
+                    "fieldName": "Party 2 Account Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [
+                        "No second supported party group identified"
+                    ],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "25",
+                    "fieldName": "Party 2 Account Name",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [
+                        "No second supported party group identified"
+                    ],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "26",
+                    "fieldName": "Party 3 Party Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [
+                        "No third supported party group identified"
+                    ],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "27",
+                    "fieldName": "Party 3 BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [
+                        "No third supported party group identified"
+                    ],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "28",
+                    "fieldName": "Party 3 Account Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [
+                        "No third supported party group identified"
+                    ],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "29",
+                    "fieldName": "Party 3 Account Name",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [
+                        "No third supported party group identified"
+                    ],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "30",
+                    "fieldName": "Party 4 Party Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [
+                        "No fourth supported party group identified"
+                    ],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "31",
+                    "fieldName": "Party 4 BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [
+                        "No fourth supported party group identified"
+                    ],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "32",
+                    "fieldName": "Party 4 Account Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [
+                        "No fourth supported party group identified"
+                    ],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "33",
+                    "fieldName": "Party 4 Account Name",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [
+                        "No fourth supported party group identified"
+                    ],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                }
+            ],
+            "recordReviewRequired": true,
+            "recordReviewReasonCodes": [
+                "NON_ENGLISH_OR_NON_TABULAR_SOURCE",
+                "OPERATIONS_CLARIFICATION_REQUIRED"
+            ]
+        }
+    ],
+    "unmappedAndReview": [
+        {
+            "recordId": "SSI-001",
+            "reviewRequired": true,
+            "reason": "NON_ENGLISH_OR_NON_TABULAR_SOURCE",
+            "details": [
+                "Source contains mixed English and non-English content",
+                "Create action not explicitly stated",
+                "No explicit settlement country linked to SSI record",
+                "No explicit PSET or PSAFE provided",
+                "Account Holder 'Nakilat Conventional Inc.' preserved as evidence only and not mapped to Beneficiary Entity Identification because no explicit beneficiary identifier/reference label is present"
+            ],
+            "sourceEvidence": [
+                {
+                    "sourceBlockId": "/paragraphs/2",
+                    "text": "QATAR GAS TRANSPORT COMPANY LTD.(NAKILAT) Q.P.S.C. شركة قطر لنقل الغاز المحدودة (ناقلات) ش.م.ق.ع"
+                },
+                {
+                    "sourceBlockId": "/paragraphs/5",
+                    "text": "Sub: Nakilat Conventional Inc SSI"
+                },
+                {
+                    "sourceBlockId": "/paragraphs/6",
+                    "text": "Please be informed of the following SSI for Nakilat Conventional Inc. Account maintained with HSBC Bank plc."
+                },
+                {
+                    "sourceBlockId": "/paragraphs/18",
+                    "text": "Nakilat Conventional Inc."
+                },
+                {
+                    "sourceBlockId": "/paragraphs/20",
+                    "text": "Tower 121, The Pearl, P.O.Box: 22271, Doha, State of Qatar"
+                },
+                {
+                    "sourceBlockId": "/paragraphs/21",
+                    "text": "HSBC Bank plc"
+                },
+                {
+                    "sourceBlockId": "/paragraphs/23",
+                    "text": "400515"
+                },
+                {
+                    "sourceBlockId": "/paragraphs/25",
+                    "text": "MIDLGB22"
+                }
+            ]
+        }
+    ]
+}

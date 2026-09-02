@@ -1,0 +1,164 @@
+{
+    "document_metadata": {
+        "total_pages": 1,
+        "processing_mode": "mixed"
+    },
+    "ssi_records": [
+        {
+            "ssi_id": "SSI-001",
+            "fields": {
+                "document_title": {
+                    "value": "Standard Settlement Instructions",
+                    "source_text": "Standard Settlement Instructions",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "effective_date": {
+                    "value": "25/04/2025",
+                    "source_text": "Effective 25/04/2025",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "section": {
+                    "value": "CASH",
+                    "source_text": "CASH",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "currency": {
+                    "value": "GBP",
+                    "source_text": "GBP",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Account Name": {
+                    "value": "Vida Bank Limited",
+                    "source_text": "Vida Bank Limited",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Account Bank": {
+                    "value": "Barclays Bank Plc",
+                    "source_text": "Barclays Bank Plc",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "SWIFT": {
+                    "value": "BARCGB22",
+                    "source_text": "BARCGB22",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "IBAN": {
+                    "value": "GB12 BARC 2019 9003 8090 72",
+                    "source_text": "GB12 BARC 2019 9003 8090 72",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Sort Code": {
+                    "value": "20-19-90",
+                    "source_text": "20-19-90",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Account Number": {
+                    "value": "03809072",
+                    "source_text": "03809072",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "queries_contact": {
+                    "value": "treasuryops@vidabank.co.uk",
+                    "source_text": "For any queries, please email treasuryops@vidabank.co.uk",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [
+                {
+                    "table_name": "CASH GBP",
+                    "headers": [],
+                    "rows": [
+                        [
+                            "Account Name",
+                            "Vida Bank Limited"
+                        ],
+                        [
+                            "Account Bank",
+                            "Barclays Bank Plc"
+                        ],
+                        [
+                            "SWIFT",
+                            "BARCGB22"
+                        ],
+                        [
+                            "IBAN",
+                            "GB12 BARC 2019 9003 8090 72"
+                        ],
+                        [
+                            "Sort Code",
+                            "20-19-90"
+                        ],
+                        [
+                            "Account Number",
+                            "03809072"
+                        ]
+                    ]
+                }
+            ],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-002",
+            "fields": {
+                "document_title": {
+                    "value": "Standard Settlement Instructions",
+                    "source_text": "Standard Settlement Instructions",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "effective_date": {
+                    "value": "25/04/2025",
+                    "source_text": "Effective 25/04/2025",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "section": {
+                    "value": "CUSTODY",
+                    "source_text": "CUSTODY",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "CREST (Gilts/CDs)": {
+                    "value": "BKNY1",
+                    "source_text": "CREST (Gilts/CDs): BKNY1",
+                    "source_page": 1,
+                    "confidence": "MEDIUM"
+                },
+                "CREST (Equity)": {
+                    "value": "BO01",
+                    "source_text": "CREST (Equity): BO01",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Euroclear": {
+                    "value": "21625",
+                    "source_text": "Euroclear : 21625",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "queries_contact": {
+                    "value": "treasuryops@vidabank.co.uk",
+                    "source_text": "For any queries, please email treasuryops@vidabank.co.uk",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "The value 'BKNY1' has lower OCR word confidence in the page words and is therefore marked MEDIUM despite being explicitly present in the line/paragraph content.",
+                "No currency is explicitly stated within the CUSTODY section."
+            ]
+        }
+    ]
+}

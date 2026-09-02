@@ -1,0 +1,2342 @@
+{
+    "promptVersion": "P2_SANTANDER_FMSB_MAPPER_V1.0",
+    "rulesVersion": "Santander-FMSB-v2.0.3-Custom-Final",
+    "documentName": "",
+    "records": [
+        {
+            "recordId": "SSI-001",
+            "sourceBlockId": "AUD",
+            "recordScopeStatus": "ACTION_NOT_STATED",
+            "fields": [
+                {
+                    "fieldId": "action",
+                    "fieldName": "Action",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "AUD"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.identifier",
+                    "fieldName": "Instructing Party Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "AUD"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.lei",
+                    "fieldName": "Instructing Entity LEI",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "AUD"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.bic",
+                    "fieldName": "Instructing Party BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "AUD"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.proprietaryIdentification",
+                    "fieldName": "Proprietary Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "AUD"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.proprietarySchemeName",
+                    "fieldName": "Proprietary Scheme Name",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "AUD"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "beneficiary.entityIdentification",
+                    "fieldName": "Beneficiary Entity Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "AUD"
+                    ],
+                    "sourceValues": [
+                        "FFC: Fund Name & Account Number (according to Schedule A)"
+                    ],
+                    "evidence": [
+                        "FFC: Fund Name & Account Number (according to Schedule A)"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "effectiveDate.parameter",
+                    "fieldName": "Effective Date Parameter",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "AUD"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "effectiveDate.start",
+                    "fieldName": "Effective Start Date",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "AUD"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "effectiveDate.end",
+                    "fieldName": "Effective End Date",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "AUD"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.settlementPurpose",
+                    "fieldName": "Settlement Purpose",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "AUD"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.settlementCountry",
+                    "fieldName": "Settlement Country",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "AUD"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.classificationIdentifier",
+                    "fieldName": "Classification Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "AUD"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.isin",
+                    "fieldName": "ISIN",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "AUD"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.settlementCurrency",
+                    "fieldName": "Settlement Currency",
+                    "mappedValue": "AUD",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Explicit currency row header linked to SSI block"
+                    ],
+                    "sourceGroupIds": [
+                        "AUD"
+                    ],
+                    "sourceValues": [
+                        "AUD"
+                    ],
+                    "evidence": [
+                        "AUD"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.psafeBic",
+                    "fieldName": "PSAFE BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "AUD"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "depository.psetBic",
+                    "fieldName": "PSET Party Identifier - BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "AUD"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party1.identifier",
+                    "fieldName": "Party 1 Party Identifier",
+                    "mappedValue": "BIC",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "First source party group contains explicit BIC"
+                    ],
+                    "sourceGroupIds": [
+                        "AUD-G1"
+                    ],
+                    "sourceValues": [
+                        "BIC: CITIAU2X"
+                    ],
+                    "evidence": [
+                        "Bank: Citibank Melbourne",
+                        "BIC: CITIAU2X"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party1.bic",
+                    "fieldName": "Party 1 BIC",
+                    "mappedValue": "CITIAU2X",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Explicit BIC in first source party group"
+                    ],
+                    "sourceGroupIds": [
+                        "AUD-G1"
+                    ],
+                    "sourceValues": [
+                        "CITIAU2X"
+                    ],
+                    "evidence": [
+                        "BIC: CITIAU2X"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party1.accountIdentification",
+                    "fieldName": "Party 1 Account Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "AUD-G1"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [
+                        "Bank: Citibank Melbourne",
+                        "BIC: CITIAU2X"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party1.accountName",
+                    "fieldName": "Party 1 Account Name",
+                    "mappedValue": "Citibank Melbourne",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Role-labelled institution name under same source party group"
+                    ],
+                    "sourceGroupIds": [
+                        "AUD-G1"
+                    ],
+                    "sourceValues": [
+                        "Citibank Melbourne"
+                    ],
+                    "evidence": [
+                        "Bank: Citibank Melbourne"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party2.identifier",
+                    "fieldName": "Party 2 Party Identifier",
+                    "mappedValue": "BIC",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Second source party group contains explicit BIC"
+                    ],
+                    "sourceGroupIds": [
+                        "AUD-G2"
+                    ],
+                    "sourceValues": [
+                        "BIC: BSINYU33"
+                    ],
+                    "evidence": [
+                        "A/C: Citigroup Global Markets Inc.",
+                        "BIC: BSINYU33",
+                        "Cash A/C: 021000003"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party2.bic",
+                    "fieldName": "Party 2 BIC",
+                    "mappedValue": "BSINYU33",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Explicit BIC in second source party group"
+                    ],
+                    "sourceGroupIds": [
+                        "AUD-G2"
+                    ],
+                    "sourceValues": [
+                        "BSINYU33"
+                    ],
+                    "evidence": [
+                        "BIC: BSINYU33"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party2.accountIdentification",
+                    "fieldName": "Party 2 Account Identification",
+                    "mappedValue": "021000003",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Single explicit account linked to same source party group"
+                    ],
+                    "sourceGroupIds": [
+                        "AUD-G2"
+                    ],
+                    "sourceValues": [
+                        "021000003"
+                    ],
+                    "evidence": [
+                        "Cash A/C: 021000003"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party2.accountName",
+                    "fieldName": "Party 2 Account Name",
+                    "mappedValue": "Citigroup Global Markets Inc.",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Role-labelled institution/account name under same source party group"
+                    ],
+                    "sourceGroupIds": [
+                        "AUD-G2"
+                    ],
+                    "sourceValues": [
+                        "Citigroup Global Markets Inc."
+                    ],
+                    "evidence": [
+                        "A/C: Citigroup Global Markets Inc."
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party3.identifier",
+                    "fieldName": "Party 3 Party Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "AUD"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party3.bic",
+                    "fieldName": "Party 3 BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "AUD"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party3.accountIdentification",
+                    "fieldName": "Party 3 Account Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "AUD"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party3.accountName",
+                    "fieldName": "Party 3 Account Name",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "AUD"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party4.identifier",
+                    "fieldName": "Party 4 Party Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "AUD"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party4.bic",
+                    "fieldName": "Party 4 BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "AUD"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party4.accountIdentification",
+                    "fieldName": "Party 4 Account Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "AUD"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party4.accountName",
+                    "fieldName": "Party 4 Account Name",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "AUD"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                }
+            ],
+            "recordReviewRequired": false,
+            "recordReviewReasonCodes": []
+        },
+        {
+            "recordId": "SSI-002",
+            "sourceBlockId": "CAD",
+            "recordScopeStatus": "ACTION_NOT_STATED",
+            "fields": [
+                {
+                    "fieldId": "action",
+                    "fieldName": "Action",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CAD"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.identifier",
+                    "fieldName": "Instructing Party Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CAD"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.lei",
+                    "fieldName": "Instructing Entity LEI",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CAD"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.bic",
+                    "fieldName": "Instructing Party BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CAD"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.proprietaryIdentification",
+                    "fieldName": "Proprietary Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CAD"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.proprietarySchemeName",
+                    "fieldName": "Proprietary Scheme Name",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CAD"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "beneficiary.entityIdentification",
+                    "fieldName": "Beneficiary Entity Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CAD"
+                    ],
+                    "sourceValues": [
+                        "FFC: Fund Name & Account Number (according to Schedule A)"
+                    ],
+                    "evidence": [
+                        "FFC: Fund Name & Account Number (according to Schedule A)"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "effectiveDate.parameter",
+                    "fieldName": "Effective Date Parameter",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CAD"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "effectiveDate.start",
+                    "fieldName": "Effective Start Date",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CAD"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "effectiveDate.end",
+                    "fieldName": "Effective End Date",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CAD"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.settlementPurpose",
+                    "fieldName": "Settlement Purpose",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CAD"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.settlementCountry",
+                    "fieldName": "Settlement Country",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CAD"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.classificationIdentifier",
+                    "fieldName": "Classification Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CAD"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.isin",
+                    "fieldName": "ISIN",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CAD"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.settlementCurrency",
+                    "fieldName": "Settlement Currency",
+                    "mappedValue": "CAD",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Explicit currency row header linked to SSI block"
+                    ],
+                    "sourceGroupIds": [
+                        "CAD"
+                    ],
+                    "sourceValues": [
+                        "CAD"
+                    ],
+                    "evidence": [
+                        "CAD"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.psafeBic",
+                    "fieldName": "PSAFE BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CAD"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "depository.psetBic",
+                    "fieldName": "PSET Party Identifier - BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CAD"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party1.identifier",
+                    "fieldName": "Party 1 Party Identifier",
+                    "mappedValue": "BIC",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "First source party group contains explicit BIC"
+                    ],
+                    "sourceGroupIds": [
+                        "CAD-G1"
+                    ],
+                    "sourceValues": [
+                        "BIC: CITICATT"
+                    ],
+                    "evidence": [
+                        "Bank: Citibank Toronto, Canada",
+                        "BIC: CITICATT"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party1.bic",
+                    "fieldName": "Party 1 BIC",
+                    "mappedValue": "CITICATT",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Explicit BIC in first source party group"
+                    ],
+                    "sourceGroupIds": [
+                        "CAD-G1"
+                    ],
+                    "sourceValues": [
+                        "CITICATT"
+                    ],
+                    "evidence": [
+                        "BIC: CITICATT"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party1.accountIdentification",
+                    "fieldName": "Party 1 Account Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CAD-G1"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [
+                        "Bank: Citibank Toronto, Canada",
+                        "BIC: CITICATT"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party1.accountName",
+                    "fieldName": "Party 1 Account Name",
+                    "mappedValue": "Citibank Toronto, Canada",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Role-labelled institution name under same source party group"
+                    ],
+                    "sourceGroupIds": [
+                        "CAD-G1"
+                    ],
+                    "sourceValues": [
+                        "Citibank Toronto, Canada"
+                    ],
+                    "evidence": [
+                        "Bank: Citibank Toronto, Canada"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party2.identifier",
+                    "fieldName": "Party 2 Party Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "UNABLE_TO_DETERMINE",
+                    "mappingBasis": [
+                        "Second source party group has no explicit BIC; account name and cash account present"
+                    ],
+                    "sourceGroupIds": [
+                        "CAD-G2"
+                    ],
+                    "sourceValues": [
+                        "A/C: Citigroup Global Markets Inc.",
+                        "Cash A/C: 2-010896-046"
+                    ],
+                    "evidence": [
+                        "A/C: Citigroup Global Markets Inc.",
+                        "Cash A/C: 2-010896-046"
+                    ],
+                    "reviewRequired": true,
+                    "reviewReasonCodes": [
+                        "UNIDENTIFIED_PARTY_WITHOUT_BIC"
+                    ]
+                },
+                {
+                    "fieldId": "party2.bic",
+                    "fieldName": "Party 2 BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CAD-G2"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [
+                        "A/C: Citigroup Global Markets Inc.",
+                        "Cash A/C: 2-010896-046"
+                    ],
+                    "reviewRequired": true,
+                    "reviewReasonCodes": [
+                        "UNIDENTIFIED_PARTY_WITHOUT_BIC"
+                    ]
+                },
+                {
+                    "fieldId": "party2.accountIdentification",
+                    "fieldName": "Party 2 Account Identification",
+                    "mappedValue": "2-010896-046",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Single explicit account linked to same source party group"
+                    ],
+                    "sourceGroupIds": [
+                        "CAD-G2"
+                    ],
+                    "sourceValues": [
+                        "2-010896-046"
+                    ],
+                    "evidence": [
+                        "Cash A/C: 2-010896-046"
+                    ],
+                    "reviewRequired": true,
+                    "reviewReasonCodes": [
+                        "UNIDENTIFIED_PARTY_WITHOUT_BIC"
+                    ]
+                },
+                {
+                    "fieldId": "party2.accountName",
+                    "fieldName": "Party 2 Account Name",
+                    "mappedValue": "Citigroup Global Markets Inc.",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Role-labelled institution/account name under same source party group"
+                    ],
+                    "sourceGroupIds": [
+                        "CAD-G2"
+                    ],
+                    "sourceValues": [
+                        "Citigroup Global Markets Inc."
+                    ],
+                    "evidence": [
+                        "A/C: Citigroup Global Markets Inc."
+                    ],
+                    "reviewRequired": true,
+                    "reviewReasonCodes": [
+                        "UNIDENTIFIED_PARTY_WITHOUT_BIC"
+                    ]
+                },
+                {
+                    "fieldId": "party3.identifier",
+                    "fieldName": "Party 3 Party Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CAD"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party3.bic",
+                    "fieldName": "Party 3 BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CAD"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party3.accountIdentification",
+                    "fieldName": "Party 3 Account Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CAD"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party3.accountName",
+                    "fieldName": "Party 3 Account Name",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CAD"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party4.identifier",
+                    "fieldName": "Party 4 Party Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CAD"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party4.bic",
+                    "fieldName": "Party 4 BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CAD"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party4.accountIdentification",
+                    "fieldName": "Party 4 Account Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CAD"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party4.accountName",
+                    "fieldName": "Party 4 Account Name",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CAD"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                }
+            ],
+            "recordReviewRequired": true,
+            "recordReviewReasonCodes": [
+                "UNIDENTIFIED_PARTY_WITHOUT_BIC"
+            ]
+        },
+        {
+            "recordId": "SSI-003",
+            "sourceBlockId": "CHF",
+            "recordScopeStatus": "ACTION_NOT_STATED",
+            "fields": [
+                {
+                    "fieldId": "action",
+                    "fieldName": "Action",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CHF"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.identifier",
+                    "fieldName": "Instructing Party Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CHF"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.lei",
+                    "fieldName": "Instructing Entity LEI",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CHF"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.bic",
+                    "fieldName": "Instructing Party BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CHF"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.proprietaryIdentification",
+                    "fieldName": "Proprietary Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CHF"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.proprietarySchemeName",
+                    "fieldName": "Proprietary Scheme Name",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CHF"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "beneficiary.entityIdentification",
+                    "fieldName": "Beneficiary Entity Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CHF"
+                    ],
+                    "sourceValues": [
+                        "FFC: Fund Name & Account Number (according to Schedule A)"
+                    ],
+                    "evidence": [
+                        "FFC: Fund Name & Account Number (according to Schedule A)"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "effectiveDate.parameter",
+                    "fieldName": "Effective Date Parameter",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CHF"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "effectiveDate.start",
+                    "fieldName": "Effective Start Date",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CHF"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "effectiveDate.end",
+                    "fieldName": "Effective End Date",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CHF"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.settlementPurpose",
+                    "fieldName": "Settlement Purpose",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CHF"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.settlementCountry",
+                    "fieldName": "Settlement Country",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CHF"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.classificationIdentifier",
+                    "fieldName": "Classification Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CHF"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.isin",
+                    "fieldName": "ISIN",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CHF"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.settlementCurrency",
+                    "fieldName": "Settlement Currency",
+                    "mappedValue": "CHF",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Explicit currency row header linked to SSI block"
+                    ],
+                    "sourceGroupIds": [
+                        "CHF"
+                    ],
+                    "sourceValues": [
+                        "CHF"
+                    ],
+                    "evidence": [
+                        "CHF"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.psafeBic",
+                    "fieldName": "PSAFE BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CHF"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "depository.psetBic",
+                    "fieldName": "PSET Party Identifier - BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CHF"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party1.identifier",
+                    "fieldName": "Party 1 Party Identifier",
+                    "mappedValue": "BIC",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "First source party group contains explicit BIC"
+                    ],
+                    "sourceGroupIds": [
+                        "CHF-G1"
+                    ],
+                    "sourceValues": [
+                        "BIC: CITIGB2LXXX"
+                    ],
+                    "evidence": [
+                        "Bank: Citi London",
+                        "BIC: CITIGB2LXXX"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party1.bic",
+                    "fieldName": "Party 1 BIC",
+                    "mappedValue": "CITIGB2LXXX",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Explicit BIC in first source party group"
+                    ],
+                    "sourceGroupIds": [
+                        "CHF-G1"
+                    ],
+                    "sourceValues": [
+                        "CITIGB2LXXX"
+                    ],
+                    "evidence": [
+                        "BIC: CITIGB2LXXX"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party1.accountIdentification",
+                    "fieldName": "Party 1 Account Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CHF-G1"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [
+                        "Bank: Citi London",
+                        "BIC: CITIGB2LXXX"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party1.accountName",
+                    "fieldName": "Party 1 Account Name",
+                    "mappedValue": "Citi London",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Role-labelled institution name under same source party group"
+                    ],
+                    "sourceGroupIds": [
+                        "CHF-G1"
+                    ],
+                    "sourceValues": [
+                        "Citi London"
+                    ],
+                    "evidence": [
+                        "Bank: Citi London"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party2.identifier",
+                    "fieldName": "Party 2 Party Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "UNABLE_TO_DETERMINE",
+                    "mappingBasis": [
+                        "Second source party group has account name and one IBAN plus one A/C but no explicit BIC"
+                    ],
+                    "sourceGroupIds": [
+                        "CHF-G2"
+                    ],
+                    "sourceValues": [
+                        "A/C: Citibank N.A. London, Cayley Wharf E14",
+                        "A/C: 10547557",
+                        "IBAN: GB62CITI18500810547557"
+                    ],
+                    "evidence": [
+                        "A/C: Citibank N.A. London, Cayley Wharf E14",
+                        "Cayley Wharf E14",
+                        "A/C: 10547557",
+                        "IBAN: GB62CITI18500810547557"
+                    ],
+                    "reviewRequired": true,
+                    "reviewReasonCodes": [
+                        "UNIDENTIFIED_PARTY_WITHOUT_BIC"
+                    ]
+                },
+                {
+                    "fieldId": "party2.bic",
+                    "fieldName": "Party 2 BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CHF-G2"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [
+                        "A/C: Citibank N.A. London, Cayley Wharf E14",
+                        "A/C: 10547557",
+                        "IBAN: GB62CITI18500810547557"
+                    ],
+                    "reviewRequired": true,
+                    "reviewReasonCodes": [
+                        "UNIDENTIFIED_PARTY_WITHOUT_BIC"
+                    ]
+                },
+                {
+                    "fieldId": "party2.accountIdentification",
+                    "fieldName": "Party 2 Account Identification",
+                    "mappedValue": "IBAN: GB62CITI18500810547557\nA/C: 10547557",
+                    "components": [
+                        {
+                            "type": "IBAN",
+                            "value": "GB62CITI18500810547557"
+                        },
+                        {
+                            "type": "A/C",
+                            "value": "10547557"
+                        }
+                    ],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "One explicit IBAN plus one explicit A/C in same source party group"
+                    ],
+                    "sourceGroupIds": [
+                        "CHF-G2"
+                    ],
+                    "sourceValues": [
+                        "IBAN: GB62CITI18500810547557",
+                        "A/C: 10547557"
+                    ],
+                    "evidence": [
+                        "A/C: 10547557",
+                        "IBAN: GB62CITI18500810547557"
+                    ],
+                    "reviewRequired": true,
+                    "reviewReasonCodes": [
+                        "UNIDENTIFIED_PARTY_WITHOUT_BIC"
+                    ]
+                },
+                {
+                    "fieldId": "party2.accountName",
+                    "fieldName": "Party 2 Account Name",
+                    "mappedValue": "Citibank N.A. London, Cayley Wharf E14",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Role-labelled institution/account name under same source party group"
+                    ],
+                    "sourceGroupIds": [
+                        "CHF-G2"
+                    ],
+                    "sourceValues": [
+                        "Citibank N.A. London, Cayley Wharf E14"
+                    ],
+                    "evidence": [
+                        "A/C: Citibank N.A. London, Cayley Wharf E14"
+                    ],
+                    "reviewRequired": true,
+                    "reviewReasonCodes": [
+                        "UNIDENTIFIED_PARTY_WITHOUT_BIC"
+                    ]
+                },
+                {
+                    "fieldId": "party3.identifier",
+                    "fieldName": "Party 3 Party Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CHF"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party3.bic",
+                    "fieldName": "Party 3 BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CHF"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party3.accountIdentification",
+                    "fieldName": "Party 3 Account Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CHF"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party3.accountName",
+                    "fieldName": "Party 3 Account Name",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CHF"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party4.identifier",
+                    "fieldName": "Party 4 Party Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CHF"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party4.bic",
+                    "fieldName": "Party 4 BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CHF"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party4.accountIdentification",
+                    "fieldName": "Party 4 Account Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CHF"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party4.accountName",
+                    "fieldName": "Party 4 Account Name",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CHF"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                }
+            ],
+            "recordReviewRequired": true,
+            "recordReviewReasonCodes": [
+                "UNIDENTIFIED_PARTY_WITHOUT_BIC"
+            ]
+        },
+        {
+            "recordId": "SSI-004",
+            "sourceBlockId": "CZK",
+            "recordScopeStatus": "ACTION_NOT_STATED",
+            "fields": [
+                {
+                    "fieldId": "action",
+                    "fieldName": "Action",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CZK"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.identifier",
+                    "fieldName": "Instructing Party Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CZK"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.lei",
+                    "fieldName": "Instructing Entity LEI",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CZK"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.bic",
+                    "fieldName": "Instructing Party BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CZK"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.proprietaryIdentification",
+                    "fieldName": "Proprietary Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CZK"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.proprietarySchemeName",
+                    "fieldName": "Proprietary Scheme Name",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CZK"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "beneficiary.entityIdentification",
+                    "fieldName": "Beneficiary Entity Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CZK"
+                    ],
+                    "sourceValues": [
+                        "FFC: Fund Name & Account Number (according to Schedule A)"
+                    ],
+                    "evidence": [
+                        "FFC: Fund Name & Account Number (according to Schedule A)"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "effectiveDate.parameter",
+                    "fieldName": "Effective Date Parameter",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CZK"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "effectiveDate.start",
+                    "fieldName": "Effective Start Date",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CZK"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "effectiveDate.end",
+                    "fieldName": "Effective End Date",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CZK"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.settlementPurpose",
+                    "fieldName": "Settlement Purpose",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CZK"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.settlementCountry",
+                    "fieldName": "Settlement Country",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CZK"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.classificationIdentifier",
+                    "fieldName": "Classification Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CZK"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.isin",
+                    "fieldName": "ISIN",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CZK"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.settlementCurrency",
+                    "fieldName": "Settlement Currency",
+                    "mappedValue": "CZK",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Explicit currency row header linked to SSI block"
+                    ],
+                    "sourceGroupIds": [
+                        "CZK"
+                    ],
+                    "sourceValues": [
+                        "CZK"
+                    ],
+                    "evidence": [
+                        "CZK"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.psafeBic",
+                    "fieldName": "PSAFE BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CZK"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "depository.psetBic",
+                    "fieldName": "PSET Party Identifier - BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CZK"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party1.identifier",
+                    "fieldName": "Party 1 Party Identifier",
+                    "mappedValue": "BIC",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "First source party group contains explicit BIC"
+                    ],
+                    "sourceGroupIds": [
+                        "CZK-G1"
+                    ],
+                    "sourceValues": [
+                        "BIC: CITICZPX"
+                    ],
+                    "evidence": [
+                        "Bank: Citibank Prague",
+                        "BIC: CITICZPX"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party1.bic",
+                    "fieldName": "Party 1 BIC",
+                    "mappedValue": "CITICZPX",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Explicit BIC in first source party group"
+                    ],
+                    "sourceGroupIds": [
+                        "CZK-G1"
+                    ],
+                    "sourceValues": [
+                        "CITICZPX"
+                    ],
+                    "evidence": [
+                        "BIC: CITICZPX"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party1.accountIdentification",
+                    "fieldName": "Party 1 Account Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CZK-G1"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [
+                        "Bank: Citibank Prague",
+                        "BIC: CITICZPX"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party1.accountName",
+                    "fieldName": "Party 1 Account Name",
+                    "mappedValue": "Citibank Prague",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Role-labelled institution name under same source party group"
+                    ],
+                    "sourceGroupIds": [
+                        "CZK-G1"
+                    ],
+                    "sourceValues": [
+                        "Citibank Prague"
+                    ],
+                    "evidence": [
+                        "Bank: Citibank Prague"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party2.identifier",
+                    "fieldName": "Party 2 Party Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "UNABLE_TO_DETERMINE",
+                    "mappingBasis": [
+                        "Second source party group has no explicit BIC; account name and cash account present"
+                    ],
+                    "sourceGroupIds": [
+                        "CZK-G2"
+                    ],
+                    "sourceValues": [
+                        "A/C: Citigroup Global Markets Inc.",
+                        "Cash A/C: 201369037"
+                    ],
+                    "evidence": [
+                        "A/C: Citigroup Global Markets Inc.",
+                        "Cash A/C: 201369037"
+                    ],
+                    "reviewRequired": true,
+                    "reviewReasonCodes": [
+                        "UNIDENTIFIED_PARTY_WITHOUT_BIC"
+                    ]
+                },
+                {
+                    "fieldId": "party2.bic",
+                    "fieldName": "Party 2 BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CZK-G2"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [
+                        "A/C: Citigroup Global Markets Inc.",
+                        "Cash A/C: 201369037"
+                    ],
+                    "reviewRequired": true,
+                    "reviewReasonCodes": [
+                        "UNIDENTIFIED_PARTY_WITHOUT_BIC"
+                    ]
+                },
+                {
+                    "fieldId": "party2.accountIdentification",
+                    "fieldName": "Party 2 Account Identification",
+                    "mappedValue": "201369037",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Single explicit account linked to same source party group"
+                    ],
+                    "sourceGroupIds": [
+                        "CZK-G2"
+                    ],
+                    "sourceValues": [
+                        "201369037"
+                    ],
+                    "evidence": [
+                        "Cash A/C: 201369037"
+                    ],
+                    "reviewRequired": true,
+                    "reviewReasonCodes": [
+                        "UNIDENTIFIED_PARTY_WITHOUT_BIC"
+                    ]
+                },
+                {
+                    "fieldId": "party2.accountName",
+                    "fieldName": "Party 2 Account Name",
+                    "mappedValue": "Citigroup Global Markets Inc.",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Role-labelled institution/account name under same source party group"
+                    ],
+                    "sourceGroupIds": [
+                        "CZK-G2"
+                    ],
+                    "sourceValues": [
+                        "Citigroup Global Markets Inc."
+                    ],
+                    "evidence": [
+                        "A/C: Citigroup Global Markets Inc."
+                    ],
+                    "reviewRequired": true,
+                    "reviewReasonCodes": [
+                        "UNIDENTIFIED_PARTY_WITHOUT_BIC"
+                    ]
+                },
+                {
+                    "fieldId": "party3.identifier",
+                    "fieldName": "Party 3 Party Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CZK"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party3.bic",
+                    "fieldName": "Party 3 BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CZK"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party3.accountIdentification",
+                    "fieldName": "Party 3 Account Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CZK"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party3.accountName",
+                    "fieldName": "Party 3 Account Name",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CZK"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party4.identifier",
+                    "fieldName": "Party 4 Party Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CZK"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party4.bic",
+                    "fieldName": "Party 4 BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CZK"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party4.accountIdentification",
+                    "fieldName": "Party 4 Account Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CZK"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party4.accountName",
+                    "fieldName": "Party 4 Account Name",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "CZK"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                }
+            ],
+            "recordReviewRequired": true,
+            "recordReviewReasonCodes": [
+                "UNIDENTIFIED_PARTY_WITHOUT_BIC"
+            ]
+        }
+    ],
+    "unmappedAndReview": [
+        {
+            "recordId": "SSI-001",
+            "sourceBlockId": "AUD",
+            "reviewRequired": false,
+            "reason": "ACTION_NOT_STATED",
+            "details": [
+                "No explicit Create/New SSI request wording found in source."
+            ]
+        },
+        {
+            "recordId": "SSI-002",
+            "sourceBlockId": "CAD",
+            "reviewRequired": true,
+            "reason": "UNIDENTIFIED_PARTY_WITHOUT_BIC",
+            "details": [
+                "Source group contains A/C: Citigroup Global Markets Inc. and Cash A/C: 2-010896-046 but no explicit BIC in same group.",
+                "Action not stated."
+            ]
+        },
+        {
+            "recordId": "SSI-003",
+            "sourceBlockId": "CHF",
+            "reviewRequired": true,
+            "reason": "UNIDENTIFIED_PARTY_WITHOUT_BIC",
+            "details": [
+                "Source group contains A/C: Citibank N.A. London, Cayley Wharf E14, A/C: 10547557 and IBAN: GB62CITI18500810547557 but no explicit BIC in same group.",
+                "Action not stated."
+            ]
+        },
+        {
+            "recordId": "SSI-004",
+            "sourceBlockId": "CZK",
+            "reviewRequired": true,
+            "reason": "UNIDENTIFIED_PARTY_WITHOUT_BIC",
+            "details": [
+                "Source group contains A/C: Citigroup Global Markets Inc. and Cash A/C: 201369037 but no explicit BIC in same group.",
+                "Action not stated."
+            ]
+        },
+        {
+            "reviewRequired": true,
+            "reason": "OUT_OF_SCOPE_SOURCE_DATA",
+            "details": [
+                "Fund names at document header preserved as source evidence only: FFI Fund Ltd.; FYI Ltd.; Olifant Fund Ltd.",
+                "Legal Address and Mailing Address are outside approved 33 target fields.",
+                "FFC placeholder wording preserved but not mapped to Beneficiary Entity Identification because no explicit beneficiary identifier/reference value is provided.",
+                "No explicit settlement country, PSET, PSAFE, ISIN, classification identifier, settlement purpose, effective dates, or instructing party details found."
+            ]
+        }
+    ]
+}

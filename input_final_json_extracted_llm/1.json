@@ -1,0 +1,693 @@
+{
+    "document_metadata": {
+        "total_pages": 5,
+        "processing_mode": "native_text"
+    },
+    "ssi_records": [
+        {
+            "ssi_id": "SSI-001",
+            "fields": {
+                "country": {
+                    "value": "Australia",
+                    "source_text": "Australia",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "security_instructions": {
+                    "value": "Citibank, Melbourne PID: 20018 / HIN: 607339 Austraclear # CITI35 BIC: CITIAU3X (Field 95p) BIC: SBILGB2LIPB (Field 95p) Citigroup Global Markets Limited IPB A/C: 2100380000 (Field 97a)",
+                    "source_text": "Citibank, Melbourne PID: 20018 / HIN: 607339 Austraclear # CITI35 BIC: CITIAU3X (Field 95p) BIC: SBILGB2LIPB (Field 95p) Citigroup Global Markets Limited IPB A/C: 2100380000 (Field 97a)",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "cash_instructions": {
+                    "value": "Citibank, Melbourne BIC: CITIAU2X (Field 57) A/C: 0210038019 (Field 59) BIC: SBILGB2LIPB (Field 59) Citigroup Global Markets Limited IPB FFC: Client Account Number (Field 70) FFC: Client Account Name (Field 70)",
+                    "source_text": "Citibank, Melbourne BIC: CITIAU2X (Field 57) A/C: 0210038019 (Field 59) BIC: SBILGB2LIPB (Field 59) Citigroup Global Markets Limited IPB FFC: Client Account Number (Field 70) FFC: Client Account Name (Field 70)",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-002",
+            "fields": {
+                "country": {
+                    "value": "Austria",
+                    "source_text": "Austria",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "security_instructions": {
+                    "value": "Citibank Austria BIC: CITIAT21002 (Field 95p) BIC: SBILGB2LIPB (Field 95p) Citigroup Global Markets Limited IPB A/C: 0007894319 (Field 97a)",
+                    "source_text": "Citibank Austria BIC: CITIAT21002 (Field 95p) BIC: SBILGB2LIPB (Field 95p) Citigroup Global Markets Limited IPB A/C: 0007894319 (Field 97a)",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "cash_instructions": {
+                    "value": "See Cash Instructions for EURO",
+                    "source_text": "See Cash Instructions for EURO",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-003",
+            "fields": {
+                "country": {
+                    "value": "Belgium",
+                    "source_text": "Belgium",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "security_instructions": {
+                    "value": "Citibank International PLC Participant code: EGSP 00186 BIC: CITTGB2L (Field 95p) BIC: SBILGB2LIPB (Field 95p) Citigroup Global Markets Limited IPB A/C: 0006002999 (Field 97a)",
+                    "source_text": "Citibank International PLC Participant code: EGSP 00186 BIC: CITTGB2L (Field 95p) BIC: SBILGB2LIPB (Field 95p) Citigroup Global Markets Limited IPB A/C: 0006002999 (Field 97a)",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "cash_instructions": {
+                    "value": "See Cash Instructions for EURO",
+                    "source_text": "See Cash Instructions for EURO",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-004",
+            "fields": {
+                "country": {
+                    "value": "Brazil",
+                    "source_text": "Brazil",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "security_instructions": {
+                    "value": "Citibank, San Paulo BIC: CITIUS33BRR *Beneficial Ownership Market: Please contact your client service representative for further details.",
+                    "source_text": "Citibank, San Paulo BIC: CITIUS33BRR *Beneficial Ownership Market: Please contact your client service representative for further details.",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "No separate cash instructions were explicitly provided for Brazil."
+            ]
+        },
+        {
+            "ssi_id": "SSI-005",
+            "fields": {
+                "country": {
+                    "value": "Canada",
+                    "source_text": "Canada",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "security_instructions": {
+                    "value": "Citibank, Toronto Canada Cuid: CITC BIC: CITIUS33TOR (Field 95p) BIC: SBILGB2LIPB (Field 95p) Citigroup Global Markets Limited IPB A/C: 6014562004 (Field 97a)",
+                    "source_text": "Citibank, Toronto Canada Cuid: CITC\nBIC: CITIUS33TOR (Field 95p) BIC: SBILGB2LIPB (Field 95p) Citigroup Global Markets Limited IPB A/C: 6014562004 (Field 97a)",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "cash_instructions": {
+                    "value": "Citibank, Toronto Canada Cuid: CITC BIC: CITICATT (Field 57) A/C: 2014562026 (Field 59) BIC: SBILGB2LIPB (Field 59) Citigroup Global Markets Limited IPB FFC: Client Account Number (Field 70) FFC: Client Account Name (Field 70)",
+                    "source_text": "Citibank, Toronto Canada Cuid: CITC\nBIC: CITICATT (Field 57) A/C: 2014562026 (Field 59) BIC: SBILGB2LIPB (Field 59) Citigroup Global Markets Limited IPB FFC: Client Account Number (Field 70) FFC: Client Account Name (Field 70)",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-006",
+            "fields": {
+                "country": {
+                    "value": "Chile",
+                    "source_text": "Chile",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "security_instructions": {
+                    "value": "Banco de Chile, Santiago BIC: CITIUS33SAN *Beneficial Ownership Market: Please contact your client service representative for further details",
+                    "source_text": "Banco de Chile, Santiago BIC: CITIUS33SAN *Beneficial Ownership Market: Please contact your client service representative for further details",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "No separate cash instructions were explicitly provided for Chile."
+            ]
+        },
+        {
+            "ssi_id": "SSI-007",
+            "fields": {
+                "country": {
+                    "value": "China B shs (Shenzhen)",
+                    "source_text": "China B shs (Shenzhen)",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "security_instructions": {
+                    "value": "Citibank Hong Kong BIC: CITIHKHX *Beneficial Ownership Market: Please contact your client service representative for further details",
+                    "source_text": "Citibank Hong Kong BIC: CITIHKHX *Beneficial Ownership Market: Please contact your client service representative for further details",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "No separate cash instructions were explicitly provided for China B shs (Shenzhen)."
+            ]
+        },
+        {
+            "ssi_id": "SSI-008",
+            "fields": {
+                "country": {
+                    "value": "China B shs (Shanghai)",
+                    "source_text": "China B shs (Shanghai)",
+                    "source_page": 3,
+                    "confidence": "HIGH"
+                },
+                "security_instructions": {
+                    "value": "Citibank Hong Kong BIC: CITIHKHX *Beneficial Ownership Market: Please contact your client service representative for further details",
+                    "source_text": "Citibank Hong Kong BIC: CITIHKHX\n*Beneficial Ownership Market: Please contact\nyour client service representative for further details",
+                    "source_page": 3,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "No separate cash instructions were explicitly provided for China B shs (Shanghai)."
+            ]
+        },
+        {
+            "ssi_id": "SSI-009",
+            "fields": {
+                "country": {
+                    "value": "Cyprus",
+                    "source_text": "Cyprus",
+                    "source_page": 3,
+                    "confidence": "HIGH"
+                },
+                "security_instructions": {
+                    "value": "Citibank International PLC, Greece BIC: CITIGRAA *Beneficial Ownership Market: Please contact your client service representative for further details",
+                    "source_text": "Citibank International PLC, Greece BIC: CITIGRAA\n*Beneficial Ownership Market: Please contact\nyour client service representative for further details",
+                    "source_page": 3,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "No separate cash instructions were explicitly provided for Cyprus."
+            ]
+        },
+        {
+            "ssi_id": "SSI-010",
+            "fields": {
+                "country": {
+                    "value": "Czech Republic",
+                    "source_text": "Czech Republic",
+                    "source_page": 3,
+                    "confidence": "HIGH"
+                },
+                "security_instructions": {
+                    "value": "Citibank Europe, PLC, Organizacni Slozka BIC: CITICZPX *Beneficial Ownership Market: Please contact your client service representative for further details",
+                    "source_text": "Citibank Europe, PLC, Organizacni Slozka BIC: CITICZPX *Beneficial Ownership Market: Please contact your client service representative for further\ndetails",
+                    "source_page": 3,
+                    "confidence": "HIGH"
+                },
+                "cash_instructions": {
+                    "value": "Citibank Europe, PLC, Organizacni Slozka BIC: CITICZPXXXX (Field 57) A/C: CZ1826000000001009480500 (Field 59) BIC: SBILGB2LIPB (Field 59) Citigroup Global Markets Limited IPB FFC: Client Account Number (Field 70) FFC: Client Account Name (Field 70)",
+                    "source_text": "Citibank Europe, PLC, Organizacni Slozka BIC: CITICZPXXXX (Field 57) A/C: CZ1826000000001009480500 (Field 59) BIC: SBILGB2LIPB (Field 59)\nCitigroup Global Markets Limited IPB FFC: Client Account Number (Field 70) FFC: Client Account Name (Field 70)",
+                    "source_page": 3,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-011",
+            "fields": {
+                "country": {
+                    "value": "Denmark",
+                    "source_text": "Denmark",
+                    "source_page": 3,
+                    "confidence": "HIGH"
+                },
+                "security_instructions": {
+                    "value": "Citigroup Global Markets Ltd BIC: SBILGB2LXXX (Field 95p) BIC: SBILGB2LIPB (Field 95p) Citigroup Global Markets Limited IPB A/C: 5193100001 (Field 97a)",
+                    "source_text": "Citigroup Global Markets Ltd BIC: SBILGB2LXXX (Field 95p) BIC: SBILGB2LIPB (Field 95p)\nCitigroup Global Markets Limited IPB A/C: 5193100001 (Field 97a)",
+                    "source_page": 3,
+                    "confidence": "HIGH"
+                },
+                "cash_instructions": {
+                    "value": "Nordea Denmark Intermediary BIC: NDEADKKK (Field 56) Intermediary Acc: 5000014600 (Field 57) Citibank Europe PLC BIC: CITIIE2XXXX (Field 57) A/C: 0019310647 (Field 59) BIC: SBILGB2LIPB (Field 59) Citigroup Global Markets Limited IPB FFC: Client Account Number (Field 70) FFC: Client Account Name (Field 70)",
+                    "source_text": "Nordea Denmark Intermediary BIC: NDEADKKK (Field 56) Intermediary Acc: 5000014600 (Field 57)\nCitibank Europe PLC BIC: CITIIE2XXXX (Field 57) A/C: 0019310647 (Field 59) BIC: SBILGB2LIPB (Field 59) Citigroup Global Markets Limited IPB FFC: Client Account Number (Field 70) FFC: Client Account Name (Field 70)",
+                    "source_page": 3,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-012",
+            "fields": {
+                "country": {
+                    "value": "Euroclear",
+                    "source_text": "Euroclear",
+                    "source_page": 3,
+                    "confidence": "HIGH"
+                },
+                "security_instructions": {
+                    "value": "Euroclear BIC: MGTCBEBEECL (Field 95p) BIC: SBILGB2LIPB (Field 95p) Citigroup Global Markets Limited IPB A/C: 23518 (Field 97a) / ECLR 23518 (Field 95r)",
+                    "source_text": "Euroclear BIC: MGTCBEBEECL (Field 95p) BIC: SBILGB2LIPB (Field 95p) Citigroup Global Markets Limited IPB A/C: 23518 (Field 97a) / ECLR 23518 (Field 95r)",
+                    "source_page": 3,
+                    "confidence": "HIGH"
+                },
+                "cash_instructions": {
+                    "value": "NA",
+                    "source_text": "NA",
+                    "source_page": 3,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-013",
+            "fields": {
+                "country": {
+                    "value": "Euro (Cash Instructions)",
+                    "source_text": "Euro (Cash Instructions)",
+                    "source_page": 3,
+                    "confidence": "HIGH"
+                },
+                "cash_instructions": {
+                    "value": "Citibank Europe PLC Intermediary BIC:CITIIE2X (Field 56) Citibank London BIC: CITIGB2LXXX (Field 57) IBAN: GB80CITI18500810231789 (A/C: 10231789) (Field 59) BIC: SBILGB2LIPB (Field 59) Citigroup Global Markets Limited IPB FFC: Client Account Number (Field 70) FFC: Client Account Name (Field 70)",
+                    "source_text": "Citibank Europe PLC Intermediary BIC:CITIIE2X (Field 56) Citibank London BIC: CITIGB2LXXX (Field 57) IBAN: GB80CITI18500810231789 (A/C: 10231789) (Field 59) BIC: SBILGB2LIPB (Field 59) Citigroup Global Markets Limited IPB FFC: Client Account Number (Field 70) FFC: Client Account Name (Field 70)",
+                    "source_page": 3,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "This entry is presented as a standalone cash instruction section rather than a country-specific security/cash pair."
+            ]
+        },
+        {
+            "ssi_id": "SSI-014",
+            "fields": {
+                "country": {
+                    "value": "Finland",
+                    "source_text": "Finland",
+                    "source_page": 4,
+                    "confidence": "HIGH"
+                },
+                "security_instructions": {
+                    "value": "Citibank International PLC BIC: CITIIE2XXXX (Field 95p) BIC: SBILGB2LIPB (Field 95p) Citigroup Global Markets Limited IPB A/C: APKE9000000000006410000000000085592 (Field 97a)",
+                    "source_text": "Citibank International PLC BIC: CITIIE2XXXX (Field 95p) BIC: SBILGB2LIPB (Field 95p) Citigroup Global Markets Limited IPB A/C: APKE9000000000006410000000000085592 (Field 97a)",
+                    "source_page": 4,
+                    "confidence": "HIGH"
+                },
+                "cash_instructions": {
+                    "value": "See Cash Instructions for EURO",
+                    "source_text": "See Cash Instructions for EURO",
+                    "source_page": 4,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-015",
+            "fields": {
+                "country": {
+                    "value": "France",
+                    "source_text": "France",
+                    "source_page": 4,
+                    "confidence": "HIGH"
+                },
+                "security_instructions": {
+                    "value": "Citibank International PLC Participant code: EG SP 4047 BIC: CITTGB21007 (Field 95p) BIC: SBILGB2LIPB (Field 95p) Citigroup Global Markets Limited IPB A/C: 0655320067 (Field 97a)",
+                    "source_text": "Citibank International PLC Participant code: EG SP 4047 BIC: CITTGB21007 (Field 95p) BIC: SBILGB2LIPB (Field 95p) Citigroup Global Markets Limited IPB A/C: 0655320067 (Field 97a)",
+                    "source_page": 4,
+                    "confidence": "HIGH"
+                },
+                "cash_instructions": {
+                    "value": "See Cash Instructions for EURO",
+                    "source_text": "See Cash Instructions for EURO",
+                    "source_page": 4,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-016",
+            "fields": {
+                "country": {
+                    "value": "Germany",
+                    "source_text": "Germany",
+                    "source_page": 4,
+                    "confidence": "HIGH"
+                },
+                "security_instructions": {
+                    "value": "Citigroup Global Markets Deutschland AG KV 7372 BIC: CITIDEFF (Field 95p) BIC: SBILGB2LIPB (Field 95p) Citigroup Global Markets Limited IPB A/C: 0012515100 (Field 97a)",
+                    "source_text": "Citigroup Global Markets Deutschland AG KV 7372 BIC: CITIDEFF (Field 95p) BIC: SBILGB2LIPB (Field 95p) Citigroup Global Markets Limited IPB A/C: 0012515100 (Field 97a)",
+                    "source_page": 4,
+                    "confidence": "HIGH"
+                },
+                "cash_instructions": {
+                    "value": "See Cash Instructions for EURO",
+                    "source_text": "See Cash Instructions for EURO",
+                    "source_page": 4,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-017",
+            "fields": {
+                "country": {
+                    "value": "Greece",
+                    "source_text": "Greece",
+                    "source_page": 4,
+                    "confidence": "HIGH"
+                },
+                "security_instructions": {
+                    "value": "Citibank, Athens BIC: CITIGRAA *Beneficial Ownership Market: Please contact your client service representative for further details",
+                    "source_text": "Citibank, Athens BIC: CITIGRAA *Beneficial Ownership Market: Please contact your client service representative for further details",
+                    "source_page": 4,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "No separate cash instructions were explicitly provided for Greece."
+            ]
+        },
+        {
+            "ssi_id": "SSI-018",
+            "fields": {
+                "country": {
+                    "value": "Hong Kong",
+                    "source_text": "Hong Kong",
+                    "source_page": 4,
+                    "confidence": "HIGH"
+                },
+                "security_instructions": {
+                    "value": "Citibank, Hong Kong CCASS Participant # C00010 BIC: CITIHKHX (Field 95p) BIC: SBILGB2LIPB (Field 95p) Citigroup Global Markets Limited IPB A/C: 7783580000 (Field 97a)",
+                    "source_text": "Citibank, Hong Kong CCASS Participant # C00010 BIC: CITIHKHX (Field 95p) BIC: SBILGB2LIPB (Field 95p) Citigroup Global Markets Limited IPB A/C: 7783580000 (Field 97a)",
+                    "source_page": 4,
+                    "confidence": "HIGH"
+                },
+                "cash_instructions": {
+                    "value": "Citibank, Hong Kong CCASS Participant # C00010 BIC: CITIHKHX (Field 57) A/C: 1778358006 (Field 59) BIC: SBILGB2LIPB (Field 59) Citigroup Global Markets Limited IPB FFC: Client Account Number (Field 70) FFC: Client Account Name (Field 70)",
+                    "source_text": "Citibank, Hong Kong CCASS Participant # C00010 BIC: CITIHKHX (Field 57) A/C: 1778358006 (Field 59) BIC: SBILGB2LIPB (Field 59) Citigroup Global Markets Limited IPB FFC: Client Account Number (Field 70) FFC: Client Account Name (Field 70)",
+                    "source_page": 4,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-019",
+            "fields": {
+                "country": {
+                    "value": "Hong Kong - RMB Denominated Bonds",
+                    "source_text": "Hong Kong - RMB Denominated Bonds",
+                    "source_page": 4,
+                    "confidence": "HIGH"
+                },
+                "security_instructions": {
+                    "value": "Citibank, Hong Kong CMU CIHK001 BIC: CITIHKHX (Field 95p) BIC: SBILGB2LIPB (Field 95p) Citigroup Global Markets Limited IPB A/C: 9615380000 (Field 97a)",
+                    "source_text": "Citibank, Hong Kong CMU CIHK001 BIC: CITIHKHX (Field 95p) BIC: SBILGB2LIPB (Field 95p) Citigroup Global Markets Limited IPB A/C: 9615380000 (Field 97a)",
+                    "source_page": 4,
+                    "confidence": "HIGH"
+                },
+                "cash_instructions": {
+                    "value": "Citibank, Hong Kong BIC: CITIHKHX (Field 57) A/C: 1173295002 (Field 59) BIC: SBILGB2LIPB (Field 59) Citigroup Global Markets Limited IPB FFC: Client Account Number (Field 70) FFC: Client Account Name (Field 70)",
+                    "source_text": "Citibank, Hong Kong BIC: CITIHKHX (Field 57) A/C: 1173295002 (Field 59) BIC: SBILGB2LIPB (Field 59) Citigroup Global Markets Limited IPB FFC: Client Account Number (Field 70) FFC: Client Account Name (Field 70)",
+                    "source_page": 4,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-020",
+            "fields": {
+                "country": {
+                    "value": "Hong Kong - Shanghai A (Stock Connect)",
+                    "source_text": "Hong Kong - Shanghai A (Stock Connect)",
+                    "source_page": 4,
+                    "confidence": "HIGH"
+                },
+                "security_instructions": {
+                    "value": "Citibank, Hong Kong BIC: CITIHKHX (Field 95p) BIC: SBILGB2LIPB (Field 95p) Citigroup Global Markets Limited IPB \"Beneficial Ownership Market: Please contact your client service representative for further details.",
+                    "source_text": "Citibank, Hong Kong BIC: CITIHKHX (Field 95p) BIC: SBILGB2LIPB (Field 95p) Citigroup Global Markets Limited IPB \"Beneficial Ownership Market: Please contact your client service representative for further details.",
+                    "source_page": 4,
+                    "confidence": "MEDIUM"
+                },
+                "cash_instructions": {
+                    "value": "Citibank, Hong Kong BIC: CITIHKHX (Field 57) A/C: 1173295002 (Field 59) BIC: SBILGB2LIPB (Field 59) Citigroup Global Markets Limited IPB FFC: Client Account Number (Field 70) FFC: Client Account Name (Field 70)",
+                    "source_text": "Citibank, Hong Kong BIC: CITIHKHX (Field 57) A/C: 1173295002 (Field 59) BIC: SBILGB2LIPB (Field 59) Citigroup Global Markets Limited IPB FFC: Client Account Number (Field 70) FFC: Client Account Name (Field 70)",
+                    "source_page": 4,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "Security instructions contain OCR/formatting anomaly: the text shows 'Citigroup Global Markets Limited IPB \"Beneficial Ownership Market...' and no explicit security account number is present in the extracted text."
+            ]
+        },
+        {
+            "ssi_id": "SSI-021",
+            "fields": {
+                "country": {
+                    "value": "Hungary",
+                    "source_text": "Hungary",
+                    "source_page": 5,
+                    "confidence": "HIGH"
+                },
+                "security_instructions": {
+                    "value": "Citibank, Budapest KELER Code 0410 BIC: CITIHUHXCUS (Field 95p) BIC: SBILGB2LIPB (Field 95p) Citigroup Global Markets Limited IPB A/C: 7050034075 (Field 97a)",
+                    "source_text": "Citibank, Budapest KELER Code 0410 BIC: CITIHUHXCUS (Field 95p) BIC: SBILGB2LIPB (Field 95p) Citigroup Global Markets Limited IPB A/C: 7050034075 (Field 97a)",
+                    "source_page": 5,
+                    "confidence": "HIGH"
+                },
+                "cash_instructions": {
+                    "value": "Citibank, Budapest BIC: CITIHUHX (Field 57) IBAN: HU39108000074000000050034127 (A/C: 50034127) (Field 59) BIC: SBILGB2LIPB (Field 59) Citigroup Global Markets Limited IPB FFC: Client Account Number (Field 70) FFC: Client Account Name (Field 70)",
+                    "source_text": "Citibank, Budapest BIC: CITIHUHX (Field 57) IBAN: HU39108000074000000050034127 (A/C: 50034127) (Field 59) BIC: SBILGB2LIPB (Field 59) Citigroup Global Markets Limited IPB FFC: Client Account Number (Field 70) FFC: Client Account Name (Field 70)",
+                    "source_page": 5,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-022",
+            "fields": {
+                "country": {
+                    "value": "India",
+                    "source_text": "India",
+                    "source_page": 5,
+                    "confidence": "HIGH"
+                },
+                "security_instructions": {
+                    "value": "Citibank N.A, Mumbai BIC: CITIINBX *Beneficial Ownership Market: Please contact your client service representative for further details",
+                    "source_text": "Citibank N.A, Mumbai BIC: CITIINBX *Beneficial Ownership Market: Please contact your client service representative for further details",
+                    "source_page": 5,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "No separate cash instructions were explicitly provided for India."
+            ]
+        },
+        {
+            "ssi_id": "SSI-023",
+            "fields": {
+                "country": {
+                    "value": "Indonesia",
+                    "source_text": "Indonesia",
+                    "source_page": 5,
+                    "confidence": "HIGH"
+                },
+                "security_instructions": {
+                    "value": "Citibank, Jakarta BIC: CITIIDJX (Field 95p) BIC: SBILGB2LIPB (Field 95p) Citigroup Global Markets Limited IPB A/C # 8002490003 (AutoFx) (Field 97a) A/C # 8002490007 (Non AutoFx) (Field 97a)",
+                    "source_text": "Citibank, Jakarta BIC: CITIIDJX (Field 95p) BIC: SBILGB2LIPB (Field 95p) Citigroup Global Markets Limited IPB A/C # 8002490003 (AutoFx) (Field 97a) A/C # 8002490007 (Non AutoFx) (Field 97a)",
+                    "source_page": 5,
+                    "confidence": "HIGH"
+                },
+                "cash_instructions": {
+                    "value": "Citibank, Jakarta BIC: CITIIDJX (Field 57) A/C: 0800249023 (IDR) (Field 59) BIC: SBILGB2LIPB (Field 59) Citigroup Global Markets Limited IPB FFC: Client Account Number (Field 70) FFC: Client Account Name (Field 70)",
+                    "source_text": "Citibank, Jakarta BIC: CITIIDJX (Field 57) A/C: 0800249023 (IDR) (Field 59) BIC: SBILGB2LIPB (Field 59) Citigroup Global Markets Limited IPB FFC: Client Account Number (Field 70) FFC: Client Account Name (Field 70)",
+                    "source_page": 5,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-024",
+            "fields": {
+                "country": {
+                    "value": "Ireland",
+                    "source_text": "Ireland",
+                    "source_page": 5,
+                    "confidence": "HIGH"
+                },
+                "security_instructions": {
+                    "value": "See Cash Instructions for Euroclear",
+                    "source_text": "See Cash Instructions for Euroclear",
+                    "source_page": 5,
+                    "confidence": "HIGH"
+                },
+                "cash_instructions": {
+                    "value": "See Cash Instructions for EURO",
+                    "source_text": "See Cash Instructions for EURO",
+                    "source_page": 5,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "This row contains only cross-references and no standalone bank/account details."
+            ]
+        },
+        {
+            "ssi_id": "SSI-025",
+            "fields": {
+                "country": {
+                    "value": "Israel",
+                    "source_text": "Israel",
+                    "source_page": 5,
+                    "confidence": "HIGH"
+                },
+                "security_instructions": {
+                    "value": "Citibank N.A, Tel Aviv BIC: CITIILIT (Field 57) A/C: 6200860087 (Field 59) BIC: SBILGB2LIPB (Field 59) Citigroup Global Markets Limited IPB FFC: Client Account Number (Field 70) FFC: Client Account Name (Field 70) *Beneficial Ownership Market: Please contact your client service representative for further details",
+                    "source_text": "Citibank N.A, Tel Aviv BIC: CITIILIT (Field 57) A/C: 6200860087 (Field 59) BIC: SBILGB2LIPB (Field 59) Citigroup Global Markets Limited IPB FFC: Client Account Number (Field 70) FFC: Client Account Name (Field 70) *Beneficial Ownership Market: Please contact your client service representative for further details",
+                    "source_page": 5,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "The document presents this Israel instruction in the Security Instructions column even though it contains Field 57/59 cash-style details."
+            ]
+        },
+        {
+            "ssi_id": "SSI-026",
+            "fields": {
+                "country": {
+                    "value": "Israel",
+                    "source_text": "Israel",
+                    "source_page": 5,
+                    "confidence": "HIGH"
+                },
+                "cash_instructions": {
+                    "value": "Citibank N.A, Tel Aviv BIC: CITIILIT (Field 57) IBAN: IL 130220010000620086061 (A/C: 0620086061) (Field 59) BIC: SBILGB2LIPB (Field 59) Citigroup Global Markets Limited IPB FFC: Client Account Number (Field 70) FFC: Client Account Name (Field 70)",
+                    "source_text": "Citibank N.A, Tel Aviv BIC: CITIILIT (Field 57) IBAN: IL 130220010000620086061 (A/C: 0620086061) (Field 59) BIC: SBILGB2LIPB (Field 59) Citigroup Global Markets Limited IPB FFC: Client Account Number (Field 70) FFC: Client Account Name (Field 70)",
+                    "source_page": 5,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "This is a distinct Israel instruction because the account detail differs from the other Israel entry."
+            ]
+        },
+        {
+            "ssi_id": "SSI-027",
+            "fields": {
+                "country": {
+                    "value": "Italy",
+                    "source_text": "Italy",
+                    "source_page": 5,
+                    "confidence": "HIGH"
+                },
+                "security_instructions": {
+                    "value": "Citibank, Milan BIC: CITIITM1006 (Field 95p) BIC: SBILGB2LIPB (Field 95p) Citigroup Global Markets Limited IPB A/C: 0001193729 (Field 97a)",
+                    "source_text": "Citibank, Milan BIC: CITIITM1006 (Field 95p) BIC: SBILGB2LIPB (Field 95p) Citigroup Global Markets Limited IPB A/C: 0001193729 (Field 97a)",
+                    "source_page": 5,
+                    "confidence": "HIGH"
+                },
+                "cash_instructions": {
+                    "value": "See Cash Instructions for EURO",
+                    "source_text": "See Cash Instructions for EURO",
+                    "source_page": 5,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-028",
+            "fields": {
+                "country": {
+                    "value": "Japan",
+                    "source_text": "Japan",
+                    "source_page": 5,
+                    "confidence": "HIGH"
+                },
+                "security_instructions": {
+                    "value": "Citibank, Tokyo BIC: CITIJPJT (Field 95p) BIC: SBILGB2LIPB (Field 95p) Citigroup Global Markets Limited IPB A/C: 158745 (Field 97a)",
+                    "source_text": "Citibank, Tokyo BIC: CITIJPJT (Field 95p) BIC: SBILGB2LIPB (Field 95p) Citigroup Global Markets Limited IPB A/C: 158745 (Field 97a)",
+                    "source_page": 5,
+                    "confidence": "HIGH"
+                },
+                "cash_instructions": {
+                    "value": "Citibank, Tokyo BIC: CITIJPJT (Field 57) A/C: 0158745402 (Field 59) BIC: SBILGB2LIPB (Field 59) Citigroup Global Markets Limited IPB FFC: Client Account Number (Field 70) FFC: Client Account Name (Field 70)",
+                    "source_text": "Citibank, Tokyo BIC: CITIJPJT (Field 57) A/C: 0158745402 (Field 59) BIC: SBILGB2LIPB (Field 59) Citigroup Global Markets Limited IPB FFC: Client Account Number (Field 70) FFC: Client Account Name (Field 70)",
+                    "source_page": 5,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-029",
+            "fields": {
+                "country": {
+                    "value": "Kenya",
+                    "source_text": "Kenya",
+                    "source_page": 5,
+                    "confidence": "HIGH"
+                },
+                "security_instructions": {
+                    "value": "Standard Chartered Bank Kenya Limited BIC: SCBLKENX *Beneficial Ownership Market: Please contact your client service representative for further details",
+                    "source_text": "Standard Chartered Bank Kenya Limited BIC: SCBLKENX *Beneficial Ownership Market: Please contact your client service representative for further details",
+                    "source_page": 5,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "No separate cash instructions were explicitly provided for Kenya."
+            ]
+        }
+    ]
+}

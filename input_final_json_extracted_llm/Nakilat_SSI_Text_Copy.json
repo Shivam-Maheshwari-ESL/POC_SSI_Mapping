@@ -1,0 +1,150 @@
+{
+    "document_metadata": {
+        "total_pages": 1,
+        "processing_mode": "native_text"
+    },
+    "ssi_records": [
+        {
+            "ssi_id": "SSI-001",
+            "fields": {
+                "sub": {
+                    "value": "Nakilat Conventional Inc SSI",
+                    "source_text": "Sub: Nakilat Conventional Inc SSI",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "intro_statement": {
+                    "value": "Please be informed of the following SSI for Nakilat Conventional Inc. Account maintained with HSBC Bank plc.",
+                    "source_text": "Please be informed of the following SSI for Nakilat Conventional Inc. Account maintained with HSBC Bank plc.",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "account_name": {
+                    "value": "Senior Debt Service Account",
+                    "source_text": "Senior Debt Service Account",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "account_number": {
+                    "value": "99217231",
+                    "source_text": "99217231",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "iban": {
+                    "value": "GB58MIDL40051599217231",
+                    "source_text": "GB58MIDL40051599217231",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "account_currency": {
+                    "value": "USD",
+                    "source_text": "USD",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "routing_details_statement": {
+                    "value": "Please find below routing details for each of the above account:",
+                    "source_text": "Please find below routing details for each of the above account:",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "account_holder": {
+                    "value": "Nakilat Conventional Inc.",
+                    "source_text": "Account Holder: Nakilat Conventional Inc.",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_address": {
+                    "value": "Tower 121, The Pearl, P.O.Box: 22271, Doha, State of Qatar",
+                    "source_text": "Beneficiary Address: Tower 121, The Pearl, P.O.Box: 22271, Doha, State of Qatar",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_bank": {
+                    "value": "HSBC Bank plc",
+                    "source_text": "Beneficiary Bank: HSBC Bank plc",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "sort_code": {
+                    "value": "400515",
+                    "source_text": "Sort Code: 400515",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "swift": {
+                    "value": "MIDLGB22",
+                    "source_text": "SWIFT: MIDLGB22",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [
+                {
+                    "table_name": "account_details",
+                    "headers": [
+                        "Account Name",
+                        "Account Number",
+                        "IBAN",
+                        "Account Currency"
+                    ],
+                    "rows": [
+                        [
+                            "Senior Debt Service Account",
+                            "99217231",
+                            "GB58MIDL40051599217231",
+                            "USD"
+                        ]
+                    ]
+                },
+                {
+                    "table_name": "routing_details",
+                    "headers": [
+                        "Field",
+                        "Value"
+                    ],
+                    "rows": [
+                        [
+                            "Account Holder:",
+                            "Nakilat Conventional Inc."
+                        ],
+                        [
+                            "Beneficiary Address:",
+                            "Tower 121, The Pearl, P.O.Box: 22271, Doha, State of Qatar"
+                        ],
+                        [
+                            "Beneficiary Bank:",
+                            "HSBC Bank plc"
+                        ],
+                        [
+                            "Sort Code:",
+                            "400515"
+                        ],
+                        [
+                            "SWIFT:",
+                            "MIDLGB22"
+                        ]
+                    ]
+                },
+                {
+                    "table_name": "signatories",
+                    "headers": [
+                        "Syed Shamsul Arfin",
+                        "Hani Abuaker"
+                    ],
+                    "rows": [
+                        [
+                            "Authorized Signatory",
+                            "Authorized Signatory"
+                        ]
+                    ]
+                }
+            ],
+            "extraction_notes": [
+                "One SSI record identified from the explicit subject line and the single set of account and routing details.",
+                "Signatory names were preserved in a table because they appear in the document, but they were not treated as core SSI settlement fields."
+            ]
+        }
+    ]
+}

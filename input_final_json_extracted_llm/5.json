@@ -1,0 +1,897 @@
+{
+    "document_metadata": {
+        "total_pages": 2,
+        "processing_mode": "ocr"
+    },
+    "ssi_records": [
+        {
+            "ssi_id": "SSI-001",
+            "fields": {
+                "currency": {
+                    "value": "AUD",
+                    "source_text": "AUD",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "currency_description": {
+                    "value": "Australian Dollar",
+                    "source_text": "Australian Dollar",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Beneficiary": {
+                    "value": "IVECO GROUP N.V.",
+                    "source_text": "Beneficiary: IVECO GROUP N.V.",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Account n .:": {
+                    "value": "IE35CIT199005135150404",
+                    "source_text": "Account n .: IE35CIT199005135150404",
+                    "source_page": 1,
+                    "confidence": "MEDIUM"
+                },
+                "Beneficiary bank": {
+                    "value": "CITIBANK EUROPE PLC - DUBLIN",
+                    "source_text": "Beneficiary bank: CITIBANK EUROPE PLC - DUBLIN",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Beneficiary bank SWIFT Code": {
+                    "value": "CITIIE2X",
+                    "source_text": "CITIIE2X",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Intermediary bank": {
+                    "value": "CITIBANK LTD - SYDNEY",
+                    "source_text": "Intermediary bank: CITIBANK LTD - SYDNEY",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Intermediary bank SWIFT Code": {
+                    "value": "CITIAU2X",
+                    "source_text": "CITIAU2X",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "Account value appears as IE35CIT199005135150404 in the document."
+            ]
+        },
+        {
+            "ssi_id": "SSI-002",
+            "fields": {
+                "currency": {
+                    "value": "CHF",
+                    "source_text": "CHF",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "currency_description": {
+                    "value": "Swiss Franc",
+                    "source_text": "Swiss Franc",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Beneficiary": {
+                    "value": "IVECO GROUP N.V.",
+                    "source_text": "Beneficiary: IVECO GROUP N.V.",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Account n .:": {
+                    "value": "IE88CITI99005135150420",
+                    "source_text": "Account n .: IE88CITI99005135150420",
+                    "source_page": 1,
+                    "confidence": "MEDIUM"
+                },
+                "Beneficiary bank": {
+                    "value": "CITIBANK EUROPE PLC - DUBLIN",
+                    "source_text": "Beneficiary bank: CITIBANK EUROPE PLC - DUBLIN",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Beneficiary bank SWIFT Code": {
+                    "value": "CITIIE2X",
+                    "source_text": "CITIIE2X",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Intermediary bank": {
+                    "value": "CITIBANK N.A. - LONDON",
+                    "source_text": "Intermediary bank: CITIBANK N.A. - LONDON",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Intermediary bank SWIFT Code": {
+                    "value": "CITIGB2L",
+                    "source_text": "CITIGB2L",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-003",
+            "fields": {
+                "currency": {
+                    "value": "CNY",
+                    "source_text": "CNY",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "currency_description": {
+                    "value": "Chinese Yuan",
+                    "source_text": "Chinese Yuan",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Beneficiary": {
+                    "value": "IVECO GROUP N.V.",
+                    "source_text": "Beneficiary: IVECO GROUP N.V.",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Account n .:": {
+                    "value": "IE77CITI99005135146350",
+                    "source_text": "Account n .: IE77CITI99005135146350",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Beneficiary bank": {
+                    "value": "CITIBANK EUROPE PLC - DUBLIN",
+                    "source_text": "Beneficiary bank: CITIBANK EUROPE PLC - DUBLIN",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Beneficiary bank SWIFT Code": {
+                    "value": "CITIIE2X",
+                    "source_text": "CITIIE2X",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Intermediary bank": {
+                    "value": "CITIBANK N.A. - HONG KONG",
+                    "source_text": "Intermediary bank: CITIBANK N.A. - HONG KONG",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Intermediary bank SWIFT Code": {
+                    "value": "CITIHKHX",
+                    "source_text": "CITIHKHX",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-004",
+            "fields": {
+                "currency": {
+                    "value": "CZK",
+                    "source_text": "CZK",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "currency_description": {
+                    "value": "Czech Koruna",
+                    "source_text": "Czech Koruna",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Beneficiary": {
+                    "value": "IVECO GROUP N.V.",
+                    "source_text": "Beneficiary: IVECO GROUP N.V.",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Account n .:": {
+                    "value": "IE60CITI99005135150439",
+                    "source_text": "Account n .: IE60CITI99005135150439",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Beneficiary bank": {
+                    "value": "CITIBANK EUROPE PLC - DUBLIN",
+                    "source_text": "Beneficiary bank: CITIBANK EUROPE PLC - DUBLIN",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Beneficiary bank SWIFT Code": {
+                    "value": "CITIIE2X",
+                    "source_text": "CITIIE2X",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Intermediary bank": {
+                    "value": "CITIBANK PRAGUE - PRAGUE",
+                    "source_text": "Intermediary bank: CITIBANK PRAGUE - PRAGUE",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Intermediary bank SWIFT Code": {
+                    "value": "CITICZPX",
+                    "source_text": "CITICZPX",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-005",
+            "fields": {
+                "currency": {
+                    "value": "DKK",
+                    "source_text": "DKK",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "currency_description": {
+                    "value": "Danish Kroner",
+                    "source_text": "Danish Kroner",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Beneficiary": {
+                    "value": "IVECO GROUP N.V.",
+                    "source_text": "Beneficiary: IVECO GROUP N.V.",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Account n .:": {
+                    "value": "IE38CITI99005135150447",
+                    "source_text": "Account n .: IE38CITI99005135150447",
+                    "source_page": 1,
+                    "confidence": "LOW"
+                },
+                "Beneficiary bank": {
+                    "value": "CITIBANK EUROPE PLC - DUBLIN",
+                    "source_text": "Beneficiary bank: CITIBANK EUROPE PLC - DUBLIN",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Beneficiary bank SWIFT Code": {
+                    "value": "CITIIE2X",
+                    "source_text": "CITIIE2X",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Intermediary bank": {
+                    "value": "NORDEA BANK DANMARK - COPENHAGEN",
+                    "source_text": "Intermediary bank: NORDEA BANK DANMARK - COPENHAGEN",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Intermediary bank SWIFT Code": {
+                    "value": "NDEADKKK",
+                    "source_text": "NDEADKKK",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "Account OCR confidence is low in page words, though the same value is present in table/line content."
+            ]
+        },
+        {
+            "ssi_id": "SSI-006",
+            "fields": {
+                "currency": {
+                    "value": "EUR",
+                    "source_text": "EUR Euro",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "currency_description": {
+                    "value": "Euro",
+                    "source_text": "EUR Euro",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Beneficiary": {
+                    "value": "IVECO GROUP N.V.",
+                    "source_text": "IVECO GROUP N.V. IE91CITI99005135150463 CITIBANK EUROPE PLC - DUBLIN",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Account n .:": {
+                    "value": "IE91CITI99005135150463",
+                    "source_text": "IVECO GROUP N.V. IE91CITI99005135150463 CITIBANK EUROPE PLC - DUBLIN",
+                    "source_page": 1,
+                    "confidence": "MEDIUM"
+                },
+                "Beneficiary bank": {
+                    "value": "CITIBANK EUROPE PLC - DUBLIN",
+                    "source_text": "IVECO GROUP N.V. IE91CITI99005135150463 CITIBANK EUROPE PLC - DUBLIN",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Beneficiary bank SWIFT Code": {
+                    "value": "CITIIE2X",
+                    "source_text": "CITIIE2X",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "EUR entry is presented in a compressed single-row format with Beneficiary, Account n .:, and Beneficiary bank combined.",
+                "No intermediary bank is explicitly stated for EUR."
+            ]
+        },
+        {
+            "ssi_id": "SSI-007",
+            "fields": {
+                "currency": {
+                    "value": "GBP",
+                    "source_text": "GBP Pound Sterling",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "currency_description": {
+                    "value": "Pound Sterling",
+                    "source_text": "GBP Pound Sterling",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Beneficiary": {
+                    "value": "IVECO GROUP N.V.",
+                    "source_text": "Beneficiary: IVECO GROUP N.V.",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Account n .:": {
+                    "value": "IE69CITI99005135150471",
+                    "source_text": "Account n .: IE69CITI99005135150471",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Beneficiary bank": {
+                    "value": "CITIBANK EUROPE PLC - DUBLIN",
+                    "source_text": "Beneficiary bank: CITIBANK EUROPE PLC - DUBLIN",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Beneficiary bank SWIFT Code": {
+                    "value": "CITIIE2X",
+                    "source_text": "CITIIE2X",
+                    "source_page": 2,
+                    "confidence": "MEDIUM"
+                },
+                "Intermediary bank": {
+                    "value": "CITIBANK N.A. - LONDON",
+                    "source_text": "Intermediary bank: CITIBANK N.A. - LONDON",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Intermediary bank SWIFT Code": {
+                    "value": "CITIGB2L",
+                    "source_text": "CITIGB2L",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "The table presents both SWIFT codes together as 'CITIIE2X CITIGB2L'; line structure supports mapping CITIIE2X to Beneficiary bank and CITIGB2L to Intermediary bank."
+            ]
+        },
+        {
+            "ssi_id": "SSI-008",
+            "fields": {
+                "currency": {
+                    "value": "NOK",
+                    "source_text": "NOK Norwegian Kroner",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "currency_description": {
+                    "value": "Norwegian Kroner",
+                    "source_text": "NOK Norwegian Kroner",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Beneficiary": {
+                    "value": "IVECO GROUP N.V.",
+                    "source_text": "Beneficiary: IVECO GROUP N.V.",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Account n .:": {
+                    "value": "IE35CITI99005135150501",
+                    "source_text": "Account n .: IE35CITI99005135150501",
+                    "source_page": 2,
+                    "confidence": "MEDIUM"
+                },
+                "Beneficiary bank": {
+                    "value": "CITIBANK EUROPE PLC - DUBLIN",
+                    "source_text": "Beneficiary bank: CITIBANK EUROPE PLC - DUBLIN",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Beneficiary bank SWIFT Code": {
+                    "value": "CITIIE2X",
+                    "source_text": "CITIIE2X",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Intermediary bank": {
+                    "value": "DEN NORSKE BANK - OSLO",
+                    "source_text": "Intermediary bank: DEN NORSKE BANK - OSLO",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Intermediary bank SWIFT Code": {
+                    "value": "DNBANOKK",
+                    "source_text": "DNBANOKK",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-009",
+            "fields": {
+                "currency": {
+                    "value": "NZD",
+                    "source_text": "NZD",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "currency_description": {
+                    "value": "New Zealand Dollar",
+                    "source_text": "New Zealand Dollar",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Beneficiary": {
+                    "value": "IVECO GROUP N.V.",
+                    "source_text": "Beneficiary: IVECO GROUP N.V.",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Account n .:": {
+                    "value": "IE82CITI99005135150528",
+                    "source_text": "Account n .: IE82CITI99005135150528",
+                    "source_page": 2,
+                    "confidence": "MEDIUM"
+                },
+                "Beneficiary bank": {
+                    "value": "CITIBANK EUROPE PLC - DUBLIN",
+                    "source_text": "Beneficiary bank: CITIBANK EUROPE PLC - DUBLIN",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Beneficiary bank SWIFT Code": {
+                    "value": "CITIIE2X",
+                    "source_text": "CITIIE2X",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Intermediary bank": {
+                    "value": "CITIBANK N.A. - AUCKLAND",
+                    "source_text": "Intermediary bank: CITIBANK N.A. - AUCKLAND",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Intermediary bank SWIFT Code": {
+                    "value": "CITINZ2X",
+                    "source_text": "CITINZ2X",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-010",
+            "fields": {
+                "currency": {
+                    "value": "PLN",
+                    "source_text": "PLN",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "currency_description": {
+                    "value": "Polish Złoty",
+                    "source_text": "Polish Złoty",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Beneficiary": {
+                    "value": "IVECO GROUP N.V.",
+                    "source_text": "Beneficiary: IVECO GROUP N.V.",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Account n .:": {
+                    "value": "IE60CITI99005135150536",
+                    "source_text": "Account n .: IE60CITI99005135150536",
+                    "source_page": 2,
+                    "confidence": "MEDIUM"
+                },
+                "Beneficiary bank": {
+                    "value": "CITIBANK EUROPE PLC - DUBLIN",
+                    "source_text": "Beneficiary bank: CITIBANK EUROPE PLC - DUBLIN",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Beneficiary bank SWIFT Code": {
+                    "value": "CITIIE2X",
+                    "source_text": "CITIIE2X",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Intermediary bank": {
+                    "value": "BANK HANDLOWY - WARSAW",
+                    "source_text": "Intermediary bank: BANK HANDLOWY - WARSAW",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Intermediary bank SWIFT Code": {
+                    "value": "CITIPLPX",
+                    "source_text": "CITIPLPX",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-011",
+            "fields": {
+                "currency": {
+                    "value": "SEK",
+                    "source_text": "SEK",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "currency_description": {
+                    "value": "Swedish Kroner",
+                    "source_text": "Swedish Kroner",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Beneficiary": {
+                    "value": "IVECO GROUP N.V.",
+                    "source_text": "Beneficiary: IVECO GROUP N.V.",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Account n .:": {
+                    "value": "IE38CITI99005135150544",
+                    "source_text": "Account n .: IE38CITI99005135150544",
+                    "source_page": 2,
+                    "confidence": "MEDIUM"
+                },
+                "Beneficiary bank": {
+                    "value": "CITIBANK EUROPE PLC - DUBLIN",
+                    "source_text": "Beneficiary bank: CITIBANK EUROPE PLC - DUBLIN",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Beneficiary bank SWIFT Code": {
+                    "value": "CITIIE2X",
+                    "source_text": "CITIIE2X",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Intermediary bank": {
+                    "value": "SVENSKA HANDELSBANKEN - STOCKHOLM",
+                    "source_text": "Intermediary bank: SVENSKA HANDELSBANKEN - STOCKHOLM",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Intermediary bank SWIFT Code": {
+                    "value": "HANDSESS",
+                    "source_text": "HANDSESS",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-012",
+            "fields": {
+                "currency": {
+                    "value": "THB",
+                    "source_text": "THB",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "currency_description": {
+                    "value": "Thai Baht",
+                    "source_text": "Thai Baht",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Beneficiary": {
+                    "value": "IVECO GROUP N.V.",
+                    "source_text": "Beneficiary: IVECO GROUP N.V.",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Account n .:": {
+                    "value": "IE26CITI99005135147365",
+                    "source_text": "Account n .: IE26CITI99005135147365",
+                    "source_page": 2,
+                    "confidence": "LOW"
+                },
+                "Beneficiary bank": {
+                    "value": "CITIBANK EUROPE PLC - DUBLIN",
+                    "source_text": "Beneficiary bank: CITIBANK EUROPE PLC - DUBLIN",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Beneficiary bank SWIFT Code": {
+                    "value": "CITIIE2X",
+                    "source_text": "CITIIE2X",
+                    "source_page": 2,
+                    "confidence": "MEDIUM"
+                },
+                "Intermediary bank": {
+                    "value": "CITIBANK N.A. - BANGKOK",
+                    "source_text": "Intermediary bank: CITIBANK N.A. - BANGKOK",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Intermediary bank SWIFT Code": {
+                    "value": "CITITHBX",
+                    "source_text": "CITITHBX",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "Account OCR confidence is relatively low."
+            ]
+        },
+        {
+            "ssi_id": "SSI-013",
+            "fields": {
+                "currency": {
+                    "value": "TRY",
+                    "source_text": "TRY Turkish Lira",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "currency_description": {
+                    "value": "Turkish Lira",
+                    "source_text": "TRY Turkish Lira",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Beneficiary": {
+                    "value": "IVECO GROUP N.V.",
+                    "source_text": "Beneficiary: IVECO GROUP N.V.",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Account n .:": {
+                    "value": "IE05CITI99005135149392",
+                    "source_text": "Account n .: IE05CITI99005135149392",
+                    "source_page": 2,
+                    "confidence": "MEDIUM"
+                },
+                "Beneficiary bank": {
+                    "value": "CITIBANK EUROPE PLC - DUBLIN",
+                    "source_text": "Beneficiary bank: CITIBANK EUROPE PLC - DUBLIN",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Beneficiary bank SWIFT Code": {
+                    "value": "CITIIE2X",
+                    "source_text": "CITIIE2X",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Intermediary bank": {
+                    "value": "CITIBANK A.S. - ISTANBUL",
+                    "source_text": "Intermediary bank: CITIBANK A.S. - ISTANBUL",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Intermediary bank SWIFT Code": {
+                    "value": "CITITRIX",
+                    "source_text": "CITITRIX",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Intermediary bank account": {
+                    "value": "TR750009200000000070026023",
+                    "source_text": "Intermediary bank account: TR750009200000000070026023",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-014",
+            "fields": {
+                "currency": {
+                    "value": "USD",
+                    "source_text": "USD US Dollar",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "currency_description": {
+                    "value": "US Dollar",
+                    "source_text": "USD US Dollar",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Beneficiary": {
+                    "value": "IVECO GROUP N.V.",
+                    "source_text": "IVECO GROUP N.V.",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Account n .:": {
+                    "value": "IE16CIT199005135150552",
+                    "source_text": "IE16CIT199005135150552",
+                    "source_page": 2,
+                    "confidence": "MEDIUM"
+                },
+                "Beneficiary bank": {
+                    "value": "CITIBANK EUROPE PLC - DUBLIN",
+                    "source_text": "CITIBANK EUROPE PLC - DUBLIN",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Beneficiary bank SWIFT Code": {
+                    "value": "CITIIE2X",
+                    "source_text": "CITIIE2X",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Intermediary bank": {
+                    "value": "CITIBANK N.A. (NEW YORK) - NEW YORK",
+                    "source_text": "Intermediary bank: CITIBANK N.A. (NEW YORK) - NEW YORK",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Intermediary bank SWIFT Code": {
+                    "value": "CITIUS33",
+                    "source_text": "CITIUS33",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "USD entry is presented in a compressed table format with Beneficiary, Account n .:, and Beneficiary bank grouped together."
+            ]
+        },
+        {
+            "ssi_id": "SSI-015",
+            "fields": {
+                "currency": {
+                    "value": "ZAR",
+                    "source_text": "ZAR",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "currency_description": {
+                    "value": "South Africa Rand",
+                    "source_text": "South Africa Rand",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Beneficiary": {
+                    "value": "IVECO GROUP N.V.",
+                    "source_text": "Beneficiary: IVECO GROUP N.V.",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Account n .:": {
+                    "value": "IE50CITI99005135148388",
+                    "source_text": "Account n .: IE50CITI99005135148388",
+                    "source_page": 2,
+                    "confidence": "LOW"
+                },
+                "Beneficiary bank": {
+                    "value": "CITIBANK EUROPE PLC - DUBLIN",
+                    "source_text": "Beneficiary bank: CITIBANK EUROPE PLC - DUBLIN",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Beneficiary bank SWIFT Code": {
+                    "value": "CITIIE2X",
+                    "source_text": "CITIIE2X",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Intermediary bank": {
+                    "value": "FIRST NATIONAL BANK OF SA - JOHANNESBURG",
+                    "source_text": "FIRST NATIONAL BANK OF SA - JOHANNESBURG",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Intermediary bank SWIFT Code": {
+                    "value": "FIRNZAJJ",
+                    "source_text": "FIRNZAJJ",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "Account OCR confidence is relatively low."
+            ]
+        },
+        {
+            "ssi_id": "SSI-016",
+            "fields": {
+                "currency": {
+                    "value": "RON",
+                    "source_text": "RON Romanian Leu",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "currency_description": {
+                    "value": "Romanian Leu",
+                    "source_text": "RON Romanian Leu",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Beneficiary": {
+                    "value": "IVECO GROUP N.V.",
+                    "source_text": "Beneficiary: IVECO GROUP N.V.",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Account n .:": {
+                    "value": "GB12CITI18500814241150",
+                    "source_text": "Account n .: GB12CITI18500814241150",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Beneficiary bank": {
+                    "value": "CITIBANK N.A. - LONDON",
+                    "source_text": "Beneficiary bank: CITIBANK N.A. - LONDON",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Beneficiary bank SWIFT Code": {
+                    "value": "CITIGB2L",
+                    "source_text": "CITIGB2L",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Intermediary bank": {
+                    "value": "CITIBANK ROMANIA - BUCHAREST",
+                    "source_text": "Intermediary bank: CITIBANK ROMANIA - BUCHAREST",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Intermediary bank SWIFT Code": {
+                    "value": "CITIROBU",
+                    "source_text": "CITIROBU",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        }
+    ]
+}

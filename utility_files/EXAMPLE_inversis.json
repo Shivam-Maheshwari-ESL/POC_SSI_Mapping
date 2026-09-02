@@ -1,0 +1,4288 @@
+{
+    "documentName": "inversis_ssi_document.pdf",
+    "status": "COMPLETED",
+    "documentAnalysis": "Total Instructions: 13 | Markets Identified: None",
+    "pageCount": 1,
+    "nativeTextPages": 1,
+    "scannedPages": 0,
+    "instructionCount": 13,
+    "settlementInstructionRecords": [
+        {
+            "rowAnalysis": "Instruction 1 of 13 | Market: Unknown | Party BICs Found: 2 | Accounts Found: 1",
+            "Action": {
+                "action": {
+                    "value": "Create",
+                    "status": "VALIDATED",
+                    "confidence": 0.98,
+                    "evidence": "Create"
+                }
+            },
+            "Ssi Effective Date Details": {
+                "effectiveDateParameter": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "effectiveStartDate": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "effectiveEndDate": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                }
+            },
+            "Instructing Party And Account Information": {
+                "instructingPartyIdentifier": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "instructingEntityLei": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "instructingPartyBic": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "proprietaryIdentification": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "proprietarySchemeName": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "beneficiaryEntityIdentification": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "beneficiaryEntityLei": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                }
+            },
+            "Settlement Instruction Market Identification": {
+                "settlementPurpose": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "narrative": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "settlementCountry": {
+                    "value": "AU",
+                    "status": "VALIDATED",
+                    "confidence": 0.99,
+                    "evidence": "COUNTRY AUSTRALIAN"
+                },
+                "classificationIdentifier": {
+                    "value": "Equity",
+                    "status": "VALIDATED",
+                    "confidence": 0.99,
+                    "evidence": "Security Type Equity"
+                },
+                "isin": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "cfi": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "alternateClassificationIdentification": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "alternateSchemeName": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "alternateIssuer": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "settlementCurrency": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "psafeBic": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                }
+            },
+            "Securities Parties Details": {
+                "Depository": {
+                    "psetPartyIdentifierBic": {
+                        "value": "ACLRAU2S",
+                        "status": "VALIDATED",
+                        "confidence": 0.98,
+                        "evidence": "PSET ACLRAU2S"
+                    }
+                },
+                "Party 1": {
+                    "partyIdentifier": {
+                        "value": "BIC",
+                        "status": "VALIDATED",
+                        "confidence": 0.95,
+                        "evidence": "Party 1 identified by BIC"
+                    },
+                    "bic": {
+                        "value": "INVLESMXXX",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Bic Code INVLESMXXX"
+                    },
+                    "proprietaryIdentification": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification": {
+                        "value": "2066650005",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Account Number 2066650005"
+                    },
+                    "accountName": {
+                        "value": "IICs AUSTRALIA",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Account Name IICs AUSTRALIA"
+                    }
+                },
+                "Party 2": {
+                    "partyIdentifier2": {
+                        "value": "BIC",
+                        "status": "VALIDATED",
+                        "confidence": 0.95,
+                        "evidence": "Party 2 identified by BIC"
+                    },
+                    "bic2": {
+                        "value": "CITIAU3X",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Swift Address CITIAU3X"
+                    },
+                    "proprietaryIdentification2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountName2": {
+                        "value": "Citibank, N.A., Australian Branch",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Clearing Agent Citibank, N.A., Australian Branch"
+                    }
+                },
+                "Party 3": {
+                    "partyIdentifier3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "bic3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIdentification3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountName3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    }
+                },
+                "Party 4": {
+                    "partyIdentifier4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "bic4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIdentification4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountName4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    }
+                }
+            }
+        },
+        {
+            "rowAnalysis": "Instruction 2 of 13 | Market: Unknown | Party BICs Found: 2 | Accounts Found: 1",
+            "Action": {
+                "action": {
+                    "value": "Create",
+                    "status": "VALIDATED",
+                    "confidence": 0.98,
+                    "evidence": "Create"
+                }
+            },
+            "Ssi Effective Date Details": {
+                "effectiveDateParameter": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "effectiveStartDate": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "effectiveEndDate": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                }
+            },
+            "Instructing Party And Account Information": {
+                "instructingPartyIdentifier": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "instructingEntityLei": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "instructingPartyBic": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "proprietaryIdentification": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "proprietarySchemeName": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "beneficiaryEntityIdentification": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "beneficiaryEntityLei": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                }
+            },
+            "Settlement Instruction Market Identification": {
+                "settlementPurpose": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "narrative": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "settlementCountry": {
+                    "value": "AT",
+                    "status": "VALIDATED",
+                    "confidence": 0.99,
+                    "evidence": "COUNTRY AUSTRIA"
+                },
+                "classificationIdentifier": {
+                    "value": "Equity",
+                    "status": "VALIDATED",
+                    "confidence": 0.99,
+                    "evidence": "Security Type Equity"
+                },
+                "isin": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "cfi": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "alternateClassificationIdentification": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "alternateSchemeName": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "alternateIssuer": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "settlementCurrency": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "psafeBic": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                }
+            },
+            "Securities Parties Details": {
+                "Depository": {
+                    "psetPartyIdentifierBic": {
+                        "value": "DAKVDEFF",
+                        "status": "VALIDATED",
+                        "confidence": 0.98,
+                        "evidence": "PSET DAKVDEFF"
+                    }
+                },
+                "Party 1": {
+                    "partyIdentifier": {
+                        "value": "BIC",
+                        "status": "VALIDATED",
+                        "confidence": 0.95,
+                        "evidence": "Party 1 identified by BIC"
+                    },
+                    "bic": {
+                        "value": "INVLESMXXX",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Bic Code INVLESMXXX"
+                    },
+                    "proprietaryIdentification": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification": {
+                        "value": "4773002",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Account Number 4773002"
+                    },
+                    "accountName": {
+                        "value": "IICs AUSTRIA",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Account Name IICs AUSTRIA"
+                    }
+                },
+                "Party 2": {
+                    "partyIdentifier2": {
+                        "value": "BIC",
+                        "status": "VALIDATED",
+                        "confidence": 0.95,
+                        "evidence": "Party 2 identified by BIC"
+                    },
+                    "bic2": {
+                        "value": "INVLESM",
+                        "status": "VALIDATED",
+                        "confidence": 0.95,
+                        "evidence": "Swift Address INVLESM"
+                    },
+                    "proprietaryIdentification2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountName2": {
+                        "value": "Inversis Banco",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Clearing Agent Inversis Banco"
+                    }
+                },
+                "Party 3": {
+                    "partyIdentifier3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "bic3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIdentification3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountName3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    }
+                },
+                "Party 4": {
+                    "partyIdentifier4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "bic4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIdentification4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountName4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    }
+                }
+            }
+        },
+        {
+            "rowAnalysis": "Instruction 3 of 13 | Market: Unknown | Party BICs Found: 2 | Accounts Found: 1",
+            "Action": {
+                "action": {
+                    "value": "Create",
+                    "status": "VALIDATED",
+                    "confidence": 0.98,
+                    "evidence": "Create"
+                }
+            },
+            "Ssi Effective Date Details": {
+                "effectiveDateParameter": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "effectiveStartDate": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "effectiveEndDate": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                }
+            },
+            "Instructing Party And Account Information": {
+                "instructingPartyIdentifier": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "instructingEntityLei": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "instructingPartyBic": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "proprietaryIdentification": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "proprietarySchemeName": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "beneficiaryEntityIdentification": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "beneficiaryEntityLei": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                }
+            },
+            "Settlement Instruction Market Identification": {
+                "settlementPurpose": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "narrative": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "settlementCountry": {
+                    "value": "AT",
+                    "status": "VALIDATED",
+                    "confidence": 0.99,
+                    "evidence": "COUNTRY AUSTRIA"
+                },
+                "classificationIdentifier": {
+                    "value": "Fixed Income",
+                    "status": "VALIDATED",
+                    "confidence": 0.99,
+                    "evidence": "Security Type Fixed Income"
+                },
+                "isin": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "cfi": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "alternateClassificationIdentification": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "alternateSchemeName": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "alternateIssuer": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "settlementCurrency": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "psafeBic": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                }
+            },
+            "Securities Parties Details": {
+                "Depository": {
+                    "psetPartyIdentifierBic": {
+                        "value": "CEDELULL",
+                        "status": "VALIDATED",
+                        "confidence": 0.98,
+                        "evidence": "PSET CEDELULL"
+                    }
+                },
+                "Party 1": {
+                    "partyIdentifier": {
+                        "value": "BIC",
+                        "status": "VALIDATED",
+                        "confidence": 0.95,
+                        "evidence": "Party 1 identified by BIC"
+                    },
+                    "bic": {
+                        "value": "INVLESMXXX",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Bic Code INVLESMXXX"
+                    },
+                    "proprietaryIdentification": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification": {
+                        "value": "Documented Acc: CBL 26724 Non-Documented Acc: CBL 26882",
+                        "status": "VALIDATED",
+                        "confidence": 0.95,
+                        "evidence": "Account Number Documented Acc: CBL 26724 Non-Documented Acc: CBL 26882"
+                    },
+                    "accountName": {
+                        "value": "INVERSIS IIC CLEARSTREAM",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Account Name INVERSIS IIC CLEARSTREAM"
+                    }
+                },
+                "Party 2": {
+                    "partyIdentifier2": {
+                        "value": "BIC",
+                        "status": "VALIDATED",
+                        "confidence": 0.95,
+                        "evidence": "Party 2 identified by BIC"
+                    },
+                    "bic2": {
+                        "value": "CEDELULL",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Swift Address CEDELULL"
+                    },
+                    "proprietaryIdentification2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountName2": {
+                        "value": "Clearstream Banking S.A.",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Clearing Agent Clearstream Banking S.A."
+                    }
+                },
+                "Party 3": {
+                    "partyIdentifier3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "bic3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIdentification3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountName3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    }
+                },
+                "Party 4": {
+                    "partyIdentifier4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "bic4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIdentification4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountName4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    }
+                }
+            }
+        },
+        {
+            "rowAnalysis": "Instruction 4 of 13 | Market: Unknown | Party BICs Found: 2 | Accounts Found: 1",
+            "Action": {
+                "action": {
+                    "value": "Create",
+                    "status": "VALIDATED",
+                    "confidence": 0.98,
+                    "evidence": "Create"
+                }
+            },
+            "Ssi Effective Date Details": {
+                "effectiveDateParameter": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "effectiveStartDate": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "effectiveEndDate": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                }
+            },
+            "Instructing Party And Account Information": {
+                "instructingPartyIdentifier": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "instructingEntityLei": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "instructingPartyBic": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "proprietaryIdentification": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "proprietarySchemeName": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "beneficiaryEntityIdentification": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "beneficiaryEntityLei": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                }
+            },
+            "Settlement Instruction Market Identification": {
+                "settlementPurpose": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "narrative": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "settlementCountry": {
+                    "value": "BE",
+                    "status": "VALIDATED",
+                    "confidence": 0.99,
+                    "evidence": "COUNTRY BELGIUM"
+                },
+                "classificationIdentifier": {
+                    "value": "Equity",
+                    "status": "VALIDATED",
+                    "confidence": 0.99,
+                    "evidence": "Security Type Equity"
+                },
+                "isin": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "cfi": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "alternateClassificationIdentification": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "alternateSchemeName": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "alternateIssuer": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "settlementCurrency": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "psafeBic": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                }
+            },
+            "Securities Parties Details": {
+                "Depository": {
+                    "psetPartyIdentifierBic": {
+                        "value": "DAKVDEFF",
+                        "status": "VALIDATED",
+                        "confidence": 0.98,
+                        "evidence": "PSET DAKVDEFF"
+                    }
+                },
+                "Party 1": {
+                    "partyIdentifier": {
+                        "value": "BIC",
+                        "status": "VALIDATED",
+                        "confidence": 0.95,
+                        "evidence": "Party 1 identified by BIC"
+                    },
+                    "bic": {
+                        "value": "INVLESMXXX",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Bic Code INVLESMXXX"
+                    },
+                    "proprietaryIdentification": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification": {
+                        "value": "4773002",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Account Number 4773002"
+                    },
+                    "accountName": {
+                        "value": "IICs BELGIUM",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Account Name IICs BELGIUM"
+                    }
+                },
+                "Party 2": {
+                    "partyIdentifier2": {
+                        "value": "BIC",
+                        "status": "VALIDATED",
+                        "confidence": 0.95,
+                        "evidence": "Party 2 identified by BIC"
+                    },
+                    "bic2": {
+                        "value": "INVLESM",
+                        "status": "VALIDATED",
+                        "confidence": 0.95,
+                        "evidence": "Swift Address INVLESM"
+                    },
+                    "proprietaryIdentification2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountName2": {
+                        "value": "Inversis Banco",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Clearing Agent Inversis Banco"
+                    }
+                },
+                "Party 3": {
+                    "partyIdentifier3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "bic3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIdentification3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountName3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    }
+                },
+                "Party 4": {
+                    "partyIdentifier4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "bic4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIdentification4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountName4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    }
+                }
+            }
+        },
+        {
+            "rowAnalysis": "Instruction 5 of 13 | Market: Unknown | Party BICs Found: 2 | Accounts Found: 1",
+            "Action": {
+                "action": {
+                    "value": "Create",
+                    "status": "VALIDATED",
+                    "confidence": 0.98,
+                    "evidence": "Create"
+                }
+            },
+            "Ssi Effective Date Details": {
+                "effectiveDateParameter": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "effectiveStartDate": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "effectiveEndDate": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                }
+            },
+            "Instructing Party And Account Information": {
+                "instructingPartyIdentifier": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "instructingEntityLei": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "instructingPartyBic": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "proprietaryIdentification": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "proprietarySchemeName": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "beneficiaryEntityIdentification": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "beneficiaryEntityLei": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                }
+            },
+            "Settlement Instruction Market Identification": {
+                "settlementPurpose": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "narrative": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "settlementCountry": {
+                    "value": "CA",
+                    "status": "VALIDATED",
+                    "confidence": 0.99,
+                    "evidence": "COUNTRY CANADA"
+                },
+                "classificationIdentifier": {
+                    "value": "Equity",
+                    "status": "VALIDATED",
+                    "confidence": 0.99,
+                    "evidence": "Security Type Equity"
+                },
+                "isin": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "cfi": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "alternateClassificationIdentification": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "alternateSchemeName": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "alternateIssuer": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "settlementCurrency": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "psafeBic": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                }
+            },
+            "Securities Parties Details": {
+                "Depository": {
+                    "psetPartyIdentifierBic": {
+                        "value": "CDSLCATT",
+                        "status": "VALIDATED",
+                        "confidence": 0.98,
+                        "evidence": "PSET CDSLCATT"
+                    }
+                },
+                "Party 1": {
+                    "partyIdentifier": {
+                        "value": "BIC",
+                        "status": "VALIDATED",
+                        "confidence": 0.95,
+                        "evidence": "Party 1 identified by BIC"
+                    },
+                    "bic": {
+                        "value": "INVLESMXXX",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Bic Code INVLESMXXX"
+                    },
+                    "proprietaryIdentification": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification": {
+                        "value": "6014136009",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Account Number 6014136009"
+                    },
+                    "accountName": {
+                        "value": "IICs CANADA",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Account Name IICs CANADA"
+                    }
+                },
+                "Party 2": {
+                    "partyIdentifier2": {
+                        "value": "BIC",
+                        "status": "VALIDATED",
+                        "confidence": 0.95,
+                        "evidence": "Party 2 identified by BIC"
+                    },
+                    "bic2": {
+                        "value": "CITIICATT",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Swift Address CITIICATT"
+                    },
+                    "proprietaryIdentification2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountName2": {
+                        "value": "Citibank Canada",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Clearing Agent Citibank Canada"
+                    }
+                },
+                "Party 3": {
+                    "partyIdentifier3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "bic3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIdentification3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountName3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    }
+                },
+                "Party 4": {
+                    "partyIdentifier4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "bic4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIdentification4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountName4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    }
+                }
+            }
+        },
+        {
+            "rowAnalysis": "Instruction 6 of 13 | Market: Unknown | Party BICs Found: 2 | Accounts Found: 1",
+            "Action": {
+                "action": {
+                    "value": "Create",
+                    "status": "VALIDATED",
+                    "confidence": 0.98,
+                    "evidence": "Create"
+                }
+            },
+            "Ssi Effective Date Details": {
+                "effectiveDateParameter": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "effectiveStartDate": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "effectiveEndDate": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                }
+            },
+            "Instructing Party And Account Information": {
+                "instructingPartyIdentifier": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "instructingEntityLei": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "instructingPartyBic": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "proprietaryIdentification": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "proprietarySchemeName": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "beneficiaryEntityIdentification": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "beneficiaryEntityLei": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                }
+            },
+            "Settlement Instruction Market Identification": {
+                "settlementPurpose": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "narrative": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "settlementCountry": {
+                    "value": "DK",
+                    "status": "VALIDATED",
+                    "confidence": 0.99,
+                    "evidence": "COUNTRY DENMARK"
+                },
+                "classificationIdentifier": {
+                    "value": "Equity",
+                    "status": "VALIDATED",
+                    "confidence": 0.99,
+                    "evidence": "Security Type Equity"
+                },
+                "isin": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "cfi": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "alternateClassificationIdentification": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "alternateSchemeName": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "alternateIssuer": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "settlementCurrency": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "psafeBic": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                }
+            },
+            "Securities Parties Details": {
+                "Depository": {
+                    "psetPartyIdentifierBic": {
+                        "value": "VPDKDKKK",
+                        "status": "VALIDATED",
+                        "confidence": 0.98,
+                        "evidence": "PSET VPDKDKKK"
+                    }
+                },
+                "Party 1": {
+                    "partyIdentifier": {
+                        "value": "BIC",
+                        "status": "VALIDATED",
+                        "confidence": 0.95,
+                        "evidence": "Party 1 identified by BIC"
+                    },
+                    "bic": {
+                        "value": "INVLESMXXX",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Bic Code INVLESMXXX"
+                    },
+                    "proprietaryIdentification": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification": {
+                        "value": "5192690015",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Account Number 5192690015"
+                    },
+                    "accountName": {
+                        "value": "IICs DENMARK",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Account Name IICs DENMARK"
+                    }
+                },
+                "Party 2": {
+                    "partyIdentifier2": {
+                        "value": "BIC",
+                        "status": "VALIDATED",
+                        "confidence": 0.95,
+                        "evidence": "Party 2 identified by BIC"
+                    },
+                    "bic2": {
+                        "value": "CITIIE1XXX",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Swift Address CITIIE1XXX"
+                    },
+                    "proprietaryIdentification2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountName2": {
+                        "value": "Citibun Europe PLC",
+                        "status": "VALIDATED",
+                        "confidence": 0.95,
+                        "evidence": "Clearing Agent Citibun Europe PLC"
+                    }
+                },
+                "Party 3": {
+                    "partyIdentifier3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "bic3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIdentification3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountName3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    }
+                },
+                "Party 4": {
+                    "partyIdentifier4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "bic4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIdentification4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountName4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    }
+                }
+            }
+        },
+        {
+            "rowAnalysis": "Instruction 7 of 13 | Market: Unknown | Party BICs Found: 2 | Accounts Found: 1",
+            "Action": {
+                "action": {
+                    "value": "Create",
+                    "status": "VALIDATED",
+                    "confidence": 0.98,
+                    "evidence": "Create"
+                }
+            },
+            "Ssi Effective Date Details": {
+                "effectiveDateParameter": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "effectiveStartDate": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "effectiveEndDate": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                }
+            },
+            "Instructing Party And Account Information": {
+                "instructingPartyIdentifier": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "instructingEntityLei": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "instructingPartyBic": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "proprietaryIdentification": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "proprietarySchemeName": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "beneficiaryEntityIdentification": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "beneficiaryEntityLei": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                }
+            },
+            "Settlement Instruction Market Identification": {
+                "settlementPurpose": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "narrative": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "settlementCountry": {
+                    "value": "FI",
+                    "status": "VALIDATED",
+                    "confidence": 0.99,
+                    "evidence": "COUNTRY FINLAND"
+                },
+                "classificationIdentifier": {
+                    "value": "Equity",
+                    "status": "VALIDATED",
+                    "confidence": 0.99,
+                    "evidence": "Security Type Equity"
+                },
+                "isin": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "cfi": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "alternateClassificationIdentification": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "alternateSchemeName": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "alternateIssuer": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "settlementCurrency": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "psafeBic": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                }
+            },
+            "Securities Parties Details": {
+                "Depository": {
+                    "psetPartyIdentifierBic": {
+                        "value": "APKEFIHH",
+                        "status": "VALIDATED",
+                        "confidence": 0.98,
+                        "evidence": "PSET APKEFIHH"
+                    }
+                },
+                "Party 1": {
+                    "partyIdentifier": {
+                        "value": "BIC",
+                        "status": "VALIDATED",
+                        "confidence": 0.95,
+                        "evidence": "Party 1 identified by BIC"
+                    },
+                    "bic": {
+                        "value": "INVLESMXXX",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Bic Code INVLESMXXX"
+                    },
+                    "proprietaryIdentification": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification": {
+                        "value": "one account per fund",
+                        "status": "VALIDATED",
+                        "confidence": 0.95,
+                        "evidence": "Account Number one account per fund"
+                    },
+                    "accountName": {
+                        "value": "Fund Name FINLAND",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Account Name Fund Name FINLAND"
+                    }
+                },
+                "Party 2": {
+                    "partyIdentifier2": {
+                        "value": "BIC",
+                        "status": "VALIDATED",
+                        "confidence": 0.95,
+                        "evidence": "Party 2 identified by BIC"
+                    },
+                    "bic2": {
+                        "value": "CITIIE2XXXX",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Swift Address CITIIE2XXXX"
+                    },
+                    "proprietaryIdentification2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountName2": {
+                        "value": "Citibun Europe PLC",
+                        "status": "VALIDATED",
+                        "confidence": 0.95,
+                        "evidence": "Clearing Agent Citibun Europe PLC"
+                    }
+                },
+                "Party 3": {
+                    "partyIdentifier3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "bic3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIdentification3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountName3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    }
+                },
+                "Party 4": {
+                    "partyIdentifier4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "bic4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIdentification4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountName4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    }
+                }
+            }
+        },
+        {
+            "rowAnalysis": "Instruction 8 of 13 | Market: Unknown | Party BICs Found: 2 | Accounts Found: 1",
+            "Action": {
+                "action": {
+                    "value": "Create",
+                    "status": "VALIDATED",
+                    "confidence": 0.98,
+                    "evidence": "Create"
+                }
+            },
+            "Ssi Effective Date Details": {
+                "effectiveDateParameter": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "effectiveStartDate": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "effectiveEndDate": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                }
+            },
+            "Instructing Party And Account Information": {
+                "instructingPartyIdentifier": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "instructingEntityLei": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "instructingPartyBic": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "proprietaryIdentification": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "proprietarySchemeName": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "beneficiaryEntityIdentification": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "beneficiaryEntityLei": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                }
+            },
+            "Settlement Instruction Market Identification": {
+                "settlementPurpose": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "narrative": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "settlementCountry": {
+                    "value": "FR",
+                    "status": "VALIDATED",
+                    "confidence": 0.99,
+                    "evidence": "COUNTRY FRANCE"
+                },
+                "classificationIdentifier": {
+                    "value": "Equity",
+                    "status": "VALIDATED",
+                    "confidence": 0.99,
+                    "evidence": "Security Type Equity"
+                },
+                "isin": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "cfi": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "alternateClassificationIdentification": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "alternateSchemeName": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "alternateIssuer": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "settlementCurrency": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "psafeBic": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                }
+            },
+            "Securities Parties Details": {
+                "Depository": {
+                    "psetPartyIdentifierBic": {
+                        "value": "SICVFRPPXXX",
+                        "status": "VALIDATED",
+                        "confidence": 0.98,
+                        "evidence": "PSET SICVFRPPXXX"
+                    }
+                },
+                "Party 1": {
+                    "partyIdentifier": {
+                        "value": "BIC",
+                        "status": "VALIDATED",
+                        "confidence": 0.95,
+                        "evidence": "Party 1 identified by BIC"
+                    },
+                    "bic": {
+                        "value": "INVLESMXXX",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Bic Code INVLESMXXX"
+                    },
+                    "proprietaryIdentification": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification": {
+                        "value": "0654716099 15% 0654716218 26.5% 0654716269 15%",
+                        "status": "VALIDATED",
+                        "confidence": 0.95,
+                        "evidence": "Account Number 0654716099 15% 0654716218 26.5% 0654716269 15%"
+                    },
+                    "accountName": {
+                        "value": "IICs FRANCE",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Account Name IICs FRANCE"
+                    }
+                },
+                "Party 2": {
+                    "partyIdentifier2": {
+                        "value": "BIC",
+                        "status": "VALIDATED",
+                        "confidence": 0.95,
+                        "evidence": "Party 2 identified by BIC"
+                    },
+                    "bic2": {
+                        "value": "CITTGB2LXXX",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Swift Address CITTGB2LXXX"
+                    },
+                    "proprietaryIdentification2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountName2": {
+                        "value": "Inversis Banco",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Clearing Agent Inversis Banco"
+                    }
+                },
+                "Party 3": {
+                    "partyIdentifier3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "bic3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIdentification3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountName3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    }
+                },
+                "Party 4": {
+                    "partyIdentifier4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "bic4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIdentification4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountName4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    }
+                }
+            }
+        },
+        {
+            "rowAnalysis": "Instruction 9 of 13 | Market: Unknown | Party BICs Found: 2 | Accounts Found: 1",
+            "Action": {
+                "action": {
+                    "value": "Create",
+                    "status": "VALIDATED",
+                    "confidence": 0.98,
+                    "evidence": "Create"
+                }
+            },
+            "Ssi Effective Date Details": {
+                "effectiveDateParameter": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "effectiveStartDate": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "effectiveEndDate": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                }
+            },
+            "Instructing Party And Account Information": {
+                "instructingPartyIdentifier": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "instructingEntityLei": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "instructingPartyBic": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "proprietaryIdentification": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "proprietarySchemeName": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "beneficiaryEntityIdentification": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "beneficiaryEntityLei": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                }
+            },
+            "Settlement Instruction Market Identification": {
+                "settlementPurpose": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "narrative": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "settlementCountry": {
+                    "value": "DE",
+                    "status": "VALIDATED",
+                    "confidence": 0.99,
+                    "evidence": "COUNTRY GERMANY"
+                },
+                "classificationIdentifier": {
+                    "value": "Equity",
+                    "status": "VALIDATED",
+                    "confidence": 0.99,
+                    "evidence": "Security Type Equity"
+                },
+                "isin": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "cfi": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "alternateClassificationIdentification": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "alternateSchemeName": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "alternateIssuer": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "settlementCurrency": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "psafeBic": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                }
+            },
+            "Securities Parties Details": {
+                "Depository": {
+                    "psetPartyIdentifierBic": {
+                        "value": "DAKVDEFF",
+                        "status": "VALIDATED",
+                        "confidence": 0.98,
+                        "evidence": "PSET DAKVDEFF"
+                    }
+                },
+                "Party 1": {
+                    "partyIdentifier": {
+                        "value": "BIC",
+                        "status": "VALIDATED",
+                        "confidence": 0.95,
+                        "evidence": "Party 1 identified by BIC"
+                    },
+                    "bic": {
+                        "value": "INVLESMXXX",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Bic Code INVLESMXXX"
+                    },
+                    "proprietaryIdentification": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification": {
+                        "value": "T2S 0011997309 - NON T2S CBL 68641",
+                        "status": "VALIDATED",
+                        "confidence": 0.95,
+                        "evidence": "Account Number T2S 0011997309 - NON T2S CBL 68641"
+                    },
+                    "accountName": {
+                        "value": "IICs GERMANY",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Account Name IICs GERMANY"
+                    }
+                },
+                "Party 2": {
+                    "partyIdentifier2": {
+                        "value": "BIC",
+                        "status": "VALIDATED",
+                        "confidence": 0.95,
+                        "evidence": "Party 2 identified by BIC"
+                    },
+                    "bic2": {
+                        "value": "INVLESMM",
+                        "status": "VALIDATED",
+                        "confidence": 0.95,
+                        "evidence": "Swift Address INVLESMM"
+                    },
+                    "proprietaryIdentification2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountName2": {
+                        "value": "Citibank Europe PLC",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Clearing Agent Citibank Europe PLC"
+                    }
+                },
+                "Party 3": {
+                    "partyIdentifier3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "bic3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIdentification3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountName3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    }
+                },
+                "Party 4": {
+                    "partyIdentifier4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "bic4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIdentification4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountName4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    }
+                }
+            }
+        },
+        {
+            "rowAnalysis": "Instruction 10 of 13 | Market: Unknown | Party BICs Found: 2 | Accounts Found: 1",
+            "Action": {
+                "action": {
+                    "value": "Create",
+                    "status": "VALIDATED",
+                    "confidence": 0.98,
+                    "evidence": "Create"
+                }
+            },
+            "Ssi Effective Date Details": {
+                "effectiveDateParameter": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "effectiveStartDate": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "effectiveEndDate": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                }
+            },
+            "Instructing Party And Account Information": {
+                "instructingPartyIdentifier": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "instructingEntityLei": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "instructingPartyBic": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "proprietaryIdentification": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "proprietarySchemeName": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "beneficiaryEntityIdentification": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "beneficiaryEntityLei": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                }
+            },
+            "Settlement Instruction Market Identification": {
+                "settlementPurpose": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "narrative": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "settlementCountry": {
+                    "value": "HK",
+                    "status": "VALIDATED",
+                    "confidence": 0.99,
+                    "evidence": "COUNTRY HONG KONG"
+                },
+                "classificationIdentifier": {
+                    "value": "Equity",
+                    "status": "VALIDATED",
+                    "confidence": 0.99,
+                    "evidence": "Security Type Equity"
+                },
+                "isin": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "cfi": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "alternateClassificationIdentification": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "alternateSchemeName": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "alternateIssuer": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "settlementCurrency": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "psafeBic": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                }
+            },
+            "Securities Parties Details": {
+                "Depository": {
+                    "psetPartyIdentifierBic": {
+                        "value": "XHKCHKH1",
+                        "status": "VALIDATED",
+                        "confidence": 0.98,
+                        "evidence": "PSET XHKCHKH1"
+                    }
+                },
+                "Party 1": {
+                    "partyIdentifier": {
+                        "value": "BIC",
+                        "status": "VALIDATED",
+                        "confidence": 0.95,
+                        "evidence": "Party 1 identified by BIC"
+                    },
+                    "bic": {
+                        "value": "INVLESMXXX",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Bic Code INVLESMXXX"
+                    },
+                    "proprietaryIdentification": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification": {
+                        "value": "9615310001",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Account Number 9615310001"
+                    },
+                    "accountName": {
+                        "value": "IICs HONG KONG",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Account Name IICs HONG KONG"
+                    }
+                },
+                "Party 2": {
+                    "partyIdentifier2": {
+                        "value": "BIC",
+                        "status": "VALIDATED",
+                        "confidence": 0.95,
+                        "evidence": "Party 2 identified by BIC"
+                    },
+                    "bic2": {
+                        "value": "CITIHKHX",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Swift Address CITIHKHX"
+                    },
+                    "proprietaryIdentification2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountName2": {
+                        "value": "Citibank N.A, Hong Kong.",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Clearing Agent Citibank N.A, Hong Kong."
+                    }
+                },
+                "Party 3": {
+                    "partyIdentifier3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "bic3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIdentification3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountName3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    }
+                },
+                "Party 4": {
+                    "partyIdentifier4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "bic4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIdentification4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountName4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    }
+                }
+            }
+        },
+        {
+            "rowAnalysis": "Instruction 11 of 13 | Market: Unknown | Party BICs Found: 2 | Accounts Found: 1",
+            "Action": {
+                "action": {
+                    "value": "Create",
+                    "status": "VALIDATED",
+                    "confidence": 0.98,
+                    "evidence": "Create"
+                }
+            },
+            "Ssi Effective Date Details": {
+                "effectiveDateParameter": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "effectiveStartDate": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "effectiveEndDate": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                }
+            },
+            "Instructing Party And Account Information": {
+                "instructingPartyIdentifier": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "instructingEntityLei": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "instructingPartyBic": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "proprietaryIdentification": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "proprietarySchemeName": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "beneficiaryEntityIdentification": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "beneficiaryEntityLei": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                }
+            },
+            "Settlement Instruction Market Identification": {
+                "settlementPurpose": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "narrative": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "settlementCountry": {
+                    "value": "IT",
+                    "status": "VALIDATED",
+                    "confidence": 0.99,
+                    "evidence": "COUNTRY ITALY"
+                },
+                "classificationIdentifier": {
+                    "value": "Equity",
+                    "status": "VALIDATED",
+                    "confidence": 0.99,
+                    "evidence": "Security Type Equity"
+                },
+                "isin": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "cfi": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "alternateClassificationIdentification": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "alternateSchemeName": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "alternateIssuer": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "settlementCurrency": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "psafeBic": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                }
+            },
+            "Securities Parties Details": {
+                "Depository": {
+                    "psetPartyIdentifierBic": {
+                        "value": "MOTIITMM",
+                        "status": "VALIDATED",
+                        "confidence": 0.98,
+                        "evidence": "PSET MOTIITMM"
+                    }
+                },
+                "Party 1": {
+                    "partyIdentifier": {
+                        "value": "BIC",
+                        "status": "VALIDATED",
+                        "confidence": 0.95,
+                        "evidence": "Party 1 identified by BIC"
+                    },
+                    "bic": {
+                        "value": "INVLESMXXX",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Bic Code INVLESMXXX"
+                    },
+                    "proprietaryIdentification": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification": {
+                        "value": "0001248739",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Account Number 0001248739"
+                    },
+                    "accountName": {
+                        "value": "IICs ITALY",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Account Name IICs ITALY"
+                    }
+                },
+                "Party 2": {
+                    "partyIdentifier2": {
+                        "value": "BIC",
+                        "status": "VALIDATED",
+                        "confidence": 0.95,
+                        "evidence": "Party 2 identified by BIC"
+                    },
+                    "bic2": {
+                        "value": "CITIITMX",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Swift Address CITIITMX"
+                    },
+                    "proprietaryIdentification2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountName2": {
+                        "value": "Citibank N.A, Milano",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Clearing Agent Citibank N.A, Milano"
+                    }
+                },
+                "Party 3": {
+                    "partyIdentifier3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "bic3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIdentification3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountName3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    }
+                },
+                "Party 4": {
+                    "partyIdentifier4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "bic4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIdentification4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountName4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    }
+                }
+            }
+        },
+        {
+            "rowAnalysis": "Instruction 12 of 13 | Market: Unknown | Party BICs Found: 2 | Accounts Found: 1",
+            "Action": {
+                "action": {
+                    "value": "Create",
+                    "status": "VALIDATED",
+                    "confidence": 0.98,
+                    "evidence": "Create"
+                }
+            },
+            "Ssi Effective Date Details": {
+                "effectiveDateParameter": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "effectiveStartDate": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "effectiveEndDate": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                }
+            },
+            "Instructing Party And Account Information": {
+                "instructingPartyIdentifier": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "instructingEntityLei": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "instructingPartyBic": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "proprietaryIdentification": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "proprietarySchemeName": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "beneficiaryEntityIdentification": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "beneficiaryEntityLei": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                }
+            },
+            "Settlement Instruction Market Identification": {
+                "settlementPurpose": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "narrative": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "settlementCountry": {
+                    "value": "JP",
+                    "status": "VALIDATED",
+                    "confidence": 0.99,
+                    "evidence": "COUNTRY JAPAN"
+                },
+                "classificationIdentifier": {
+                    "value": "Equity",
+                    "status": "VALIDATED",
+                    "confidence": 0.99,
+                    "evidence": "Security Type Equity"
+                },
+                "isin": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "cfi": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "alternateClassificationIdentification": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "alternateSchemeName": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "alternateIssuer": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "settlementCurrency": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "psafeBic": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                }
+            },
+            "Securities Parties Details": {
+                "Depository": {
+                    "psetPartyIdentifierBic": {
+                        "value": "JSDPJPT",
+                        "status": "VALIDATED",
+                        "confidence": 0.95,
+                        "evidence": "PSET JSDPJPT"
+                    }
+                },
+                "Party 1": {
+                    "partyIdentifier": {
+                        "value": "BIC",
+                        "status": "VALIDATED",
+                        "confidence": 0.95,
+                        "evidence": "Party 1 identified by BIC"
+                    },
+                    "bic": {
+                        "value": "INVLESMXXX",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Bic Code INVLESMXXX"
+                    },
+                    "proprietaryIdentification": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification": {
+                        "value": "319093",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Account Number 319093"
+                    },
+                    "accountName": {
+                        "value": "IICs JAPAN",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Account Name IICs JAPAN"
+                    }
+                },
+                "Party 2": {
+                    "partyIdentifier2": {
+                        "value": "BIC",
+                        "status": "VALIDATED",
+                        "confidence": 0.95,
+                        "evidence": "Party 2 identified by BIC"
+                    },
+                    "bic2": {
+                        "value": "CITIJPJT",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Swift Address CITIJPJT"
+                    },
+                    "proprietaryIdentification2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountName2": {
+                        "value": "Citibank N.A, Tokyo Branch",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Clearing Agent Citibank N.A, Tokyo Branch"
+                    }
+                },
+                "Party 3": {
+                    "partyIdentifier3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "bic3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIdentification3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountName3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    }
+                },
+                "Party 4": {
+                    "partyIdentifier4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "bic4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIdentification4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountName4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    }
+                }
+            }
+        },
+        {
+            "rowAnalysis": "Instruction 13 of 13 | Market: Unknown | Party BICs Found: 2 | Accounts Found: 1",
+            "Action": {
+                "action": {
+                    "value": "Create",
+                    "status": "VALIDATED",
+                    "confidence": 0.98,
+                    "evidence": "Create"
+                }
+            },
+            "Ssi Effective Date Details": {
+                "effectiveDateParameter": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "effectiveStartDate": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "effectiveEndDate": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                }
+            },
+            "Instructing Party And Account Information": {
+                "instructingPartyIdentifier": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "instructingEntityLei": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "instructingPartyBic": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "proprietaryIdentification": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "proprietarySchemeName": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "beneficiaryEntityIdentification": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "beneficiaryEntityLei": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                }
+            },
+            "Settlement Instruction Market Identification": {
+                "settlementPurpose": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "narrative": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "settlementCountry": {
+                    "value": "NL",
+                    "status": "VALIDATED",
+                    "confidence": 0.99,
+                    "evidence": "COUNTRY NETHERLANDS"
+                },
+                "classificationIdentifier": {
+                    "value": "Equity",
+                    "status": "VALIDATED",
+                    "confidence": 0.99,
+                    "evidence": "Security Type Equity"
+                },
+                "isin": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "cfi": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "alternateClassificationIdentification": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "alternateSchemeName": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "alternateIssuer": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "settlementCurrency": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                },
+                "psafeBic": {
+                    "value": "",
+                    "status": "NOT_APPLICABLE",
+                    "confidence": 0.0,
+                    "evidence": "None"
+                }
+            },
+            "Securities Parties Details": {
+                "Depository": {
+                    "psetPartyIdentifierBic": {
+                        "value": "DAKVDEFF",
+                        "status": "VALIDATED",
+                        "confidence": 0.98,
+                        "evidence": "PSET DAKVDEFF"
+                    }
+                },
+                "Party 1": {
+                    "partyIdentifier": {
+                        "value": "BIC",
+                        "status": "VALIDATED",
+                        "confidence": 0.95,
+                        "evidence": "Party 1 identified by BIC"
+                    },
+                    "bic": {
+                        "value": "INVLESMXXX",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Bic Code INVLESMXXX"
+                    },
+                    "proprietaryIdentification": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification": {
+                        "value": "4773002",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Account Number 4773002"
+                    },
+                    "accountName": {
+                        "value": "IICs NETHERLANDS",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Account Name IICs NETHERLANDS"
+                    }
+                },
+                "Party 2": {
+                    "partyIdentifier2": {
+                        "value": "BIC",
+                        "status": "VALIDATED",
+                        "confidence": 0.95,
+                        "evidence": "Party 2 identified by BIC"
+                    },
+                    "bic2": {
+                        "value": "INVLESMM",
+                        "status": "VALIDATED",
+                        "confidence": 0.95,
+                        "evidence": "Swift Address INVLESMM"
+                    },
+                    "proprietaryIdentification2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification2": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountName2": {
+                        "value": "Inversis Banco",
+                        "status": "VALIDATED",
+                        "confidence": 0.99,
+                        "evidence": "Clearing Agent Inversis Banco"
+                    }
+                },
+                "Party 3": {
+                    "partyIdentifier3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "bic3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIdentification3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountName3": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    }
+                },
+                "Party 4": {
+                    "partyIdentifier4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "bic4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIdentification4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietarySchemeName4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "proprietaryIssuer4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountIdentification4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    },
+                    "accountName4": {
+                        "value": "",
+                        "status": "NOT_APPLICABLE",
+                        "confidence": 0.0,
+                        "evidence": "None"
+                    }
+                }
+            }
+        }
+    ]
+}

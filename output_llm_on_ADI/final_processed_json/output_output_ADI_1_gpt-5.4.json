@@ -1,0 +1,25 @@
+{
+    "promptVersion": "P2_SANTANDER_FMSB_MAPPER_V1.0",
+    "rulesVersion": "Santander-FMSB-v2.0.3-Custom-Final",
+    "documentName": "CGML Equity PB Settlement Instructions",
+    "records": [],
+    "unmappedAndReview": [
+        {
+            "reviewType": "DOCUMENT_LEVEL",
+            "recordScopeStatus": "ACTION_NOT_STATED",
+            "reviewRequired": true,
+            "reasonCodes": [
+                "ACTION_NOT_STATED",
+                "NON_TABULAR_OR_MULTI_RECORD_DOCUMENT_REQUIRES_RECORD_BOUNDARY_CONFIRMATION"
+            ],
+            "sourceEvidence": [
+                "Citigroup Global Markets Ltd. Equity PB Settlement Instructions BIC SBILGB2LIPB",
+                "CGML Equity PB Settlement Instructions",
+                "Country",
+                "Security Instructions",
+                "Cash Instructions*"
+            ],
+            "notes": "The input contains multiple country-based instruction rows but no explicit request to create a new SSI. Per rule, Action must remain blank unless creation is explicitly requested. Because Action is not stated, no load-ready Create records are produced."
+        }
+    ]
+}

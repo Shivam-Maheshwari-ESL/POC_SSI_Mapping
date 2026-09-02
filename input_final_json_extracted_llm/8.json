@@ -1,0 +1,1496 @@
+{
+    "document_metadata": {
+        "total_pages": 2,
+        "processing_mode": "mixed"
+    },
+    "ssi_records": [
+        {
+            "ssi_id": "SSI-001",
+            "fields": {
+                "document_title": {
+                    "value": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_text": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_swift": {
+                    "value": "ABOCCNBJ",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_name": {
+                    "value": "ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "currency": {
+                    "value": "AED",
+                    "source_text": "AED",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "SWIFT of CORR. Bank": {
+                    "value": "NBADAEAA",
+                    "source_text": "NBADAEAA",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "ACCOUNT": {
+                    "value": "4022003839293014",
+                    "source_text": "4022003839293014",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "INTERMEDIARY": {
+                    "value": "IBAN NO .: AE850354022003839293014",
+                    "source_text": "IBAN NO .: AE850354022003839293014",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-002",
+            "fields": {
+                "document_title": {
+                    "value": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_text": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_swift": {
+                    "value": "ABOCCNBJ",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_name": {
+                    "value": "ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "currency": {
+                    "value": "AUD",
+                    "source_text": "AUD",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "SWIFT of CORR. Bank": {
+                    "value": "NATAAU33033",
+                    "source_text": "NATAAU33033",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "ACCOUNT": {
+                    "value": "1803072583500",
+                    "source_text": "1803072583500",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-003",
+            "fields": {
+                "document_title": {
+                    "value": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_text": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_swift": {
+                    "value": "ABOCCNBJ",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_name": {
+                    "value": "ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "currency": {
+                    "value": "CAD",
+                    "source_text": "CAD",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "SWIFT of CORR. Bank": {
+                    "value": "BOFMCAM2",
+                    "source_text": "BOFMCAM2",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "ACCOUNT": {
+                    "value": "31691053778",
+                    "source_text": "31691053778",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-004",
+            "fields": {
+                "document_title": {
+                    "value": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_text": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_swift": {
+                    "value": "ABOCCNBJ",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_name": {
+                    "value": "ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "currency": {
+                    "value": "CHF",
+                    "source_text": "CHF",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "SWIFT of CORR. Bank": {
+                    "value": "PCBCCHZZ",
+                    "source_text": "PCBCCHZZ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "ACCOUNT": {
+                    "value": "695000000610",
+                    "source_text": "695000000610",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-005",
+            "fields": {
+                "document_title": {
+                    "value": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_text": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_swift": {
+                    "value": "ABOCCNBJ",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_name": {
+                    "value": "ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "currency": {
+                    "value": "DKK",
+                    "source_text": "DKK",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "SWIFT of CORR. Bank": {
+                    "value": "DABADKKK",
+                    "source_text": "DABADKKK",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "ACCOUNT": {
+                    "value": "3996001334",
+                    "source_text": "3996001334",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-006",
+            "fields": {
+                "document_title": {
+                    "value": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_text": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_swift": {
+                    "value": "ABOCCNBJ",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_name": {
+                    "value": "ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "currency": {
+                    "value": "EUR",
+                    "source_text": "EUR",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "SWIFT of CORR. Bank": {
+                    "value": "DEUTDEFF",
+                    "source_text": "DEUTDEFF",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "ACCOUNT": {
+                    "value": "100 9512013 1000",
+                    "source_text": "100 9512013 1000",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-007",
+            "fields": {
+                "document_title": {
+                    "value": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_text": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_swift": {
+                    "value": "ABOCCNBJ",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_name": {
+                    "value": "ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "currency": {
+                    "value": "GBP",
+                    "source_text": "GBP",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "SWIFT of CORR. Bank": {
+                    "value": "BARCGB22",
+                    "source_text": "BARCGB22",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "ACCOUNT": {
+                    "value": "20325370257559",
+                    "source_text": "20325370257559",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-008",
+            "fields": {
+                "document_title": {
+                    "value": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_text": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_swift": {
+                    "value": "ABOCCNBJ",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_name": {
+                    "value": "ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "currency": {
+                    "value": "HKD",
+                    "source_text": "HKD",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "SWIFT of CORR. Bank": {
+                    "value": "ABOCHKHH",
+                    "source_text": "ABOCHKHH",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "ACCOUNT": {
+                    "value": "7027381321",
+                    "source_text": "7027381321",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-009",
+            "fields": {
+                "document_title": {
+                    "value": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_text": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_swift": {
+                    "value": "ABOCCNBJ",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_name": {
+                    "value": "ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "currency": {
+                    "value": "JPY",
+                    "source_text": "JPY",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "SWIFT of CORR. Bank": {
+                    "value": "BOTKJPJT",
+                    "source_text": "BOTKJPJT",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "ACCOUNT": {
+                    "value": "653-0408220",
+                    "source_text": "653-0408220",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-010",
+            "fields": {
+                "document_title": {
+                    "value": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_text": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_swift": {
+                    "value": "ABOCCNBJ",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_name": {
+                    "value": "ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "currency": {
+                    "value": "KRW",
+                    "source_text": "KRW",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "SWIFT of CORR. Bank": {
+                    "value": "HVBKCNBJ",
+                    "source_text": "HVBKCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "ACCOUNT": {
+                    "value": "NOS00100239",
+                    "source_text": "NOS00100239",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-011",
+            "fields": {
+                "document_title": {
+                    "value": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_text": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_swift": {
+                    "value": "ABOCCNBJ",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_name": {
+                    "value": "ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "currency": {
+                    "value": "KZT",
+                    "source_text": "KZT",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "SWIFT of CORR. Bank": {
+                    "value": "ICBKKZKX",
+                    "source_text": "ICBKKZKX",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "ACCOUNT": {
+                    "value": "KZ529300001000007613",
+                    "source_text": "KZ529300001000007613",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "INTERMEDIARY": {
+                    "value": "BIN: 930340001235 KBE: 24 KNP: 213",
+                    "source_text": "BIN: 930340001235 KBE: 24 KNP: 213",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-012",
+            "fields": {
+                "document_title": {
+                    "value": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_text": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_swift": {
+                    "value": "ABOCCNBJ",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_name": {
+                    "value": "ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "currency": {
+                    "value": "MNT",
+                    "source_text": "MNT",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "SWIFT of CORR. Bank": {
+                    "value": "STBMMNUB",
+                    "source_text": "STBMMNUB",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "ACCOUNT": {
+                    "value": "349901232202",
+                    "source_text": "349901232202",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-013",
+            "fields": {
+                "document_title": {
+                    "value": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_text": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_swift": {
+                    "value": "ABOCCNBJ",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_name": {
+                    "value": "ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "currency": {
+                    "value": "MYR",
+                    "source_text": "MYR",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "SWIFT of CORR. Bank": {
+                    "value": "MBBECNSH",
+                    "source_text": "MBBECNSH",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "ACCOUNT": {
+                    "value": "000010600068750",
+                    "source_text": "000010600068750",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "INTERMEDIARY": {
+                    "value": "MBBEMYKL Account No .: 614011-684755",
+                    "source_text": "MBBEMYKL Account No .: 614011-684755",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-014",
+            "fields": {
+                "document_title": {
+                    "value": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_text": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_swift": {
+                    "value": "ABOCCNBJ",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_name": {
+                    "value": "ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "currency": {
+                    "value": "NOK",
+                    "source_text": "NOK",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "SWIFT of CORR. Bank": {
+                    "value": "ESSENOKX",
+                    "source_text": "ESSENOKX",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "ACCOUNT": {
+                    "value": "97500203815",
+                    "source_text": "97500203815",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-015",
+            "fields": {
+                "document_title": {
+                    "value": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_text": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_swift": {
+                    "value": "ABOCCNBJ",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_name": {
+                    "value": "ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "currency": {
+                    "value": "NZD",
+                    "source_text": "NZD",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "SWIFT of CORR. Bank": {
+                    "value": "BKNZNZ22",
+                    "source_text": "BKNZNZ22",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "ACCOUNT": {
+                    "value": "2680270000",
+                    "source_text": "2680270000",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-016",
+            "fields": {
+                "document_title": {
+                    "value": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_text": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_swift": {
+                    "value": "ABOCCNBJ",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_name": {
+                    "value": "ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "currency": {
+                    "value": "SAR",
+                    "source_text": "SAR",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "SWIFT of CORR. Bank": {
+                    "value": "NCBKSAJE",
+                    "source_text": "NCBKSAJE",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "ACCOUNT": {
+                    "value": "88347000008007",
+                    "source_text": "88347000008007",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "INTERMEDIARY": {
+                    "value": "IBAN NO .: SA8710000088347000008007",
+                    "source_text": "IBAN NO .: SA8710000088347000008007",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-017",
+            "fields": {
+                "document_title": {
+                    "value": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_text": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_swift": {
+                    "value": "ABOCCNBJ",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_name": {
+                    "value": "ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "currency": {
+                    "value": "SEK",
+                    "source_text": "SEK",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "SWIFT of CORR. Bank": {
+                    "value": "ESSESESS",
+                    "source_text": "ESSESESS",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "ACCOUNT": {
+                    "value": "52018526391",
+                    "source_text": "52018526391",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-018",
+            "fields": {
+                "document_title": {
+                    "value": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_text": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_swift": {
+                    "value": "ABOCCNBJ",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_name": {
+                    "value": "ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "currency": {
+                    "value": "SGD",
+                    "source_text": "SGD",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "SWIFT of CORR. Bank": {
+                    "value": "UOVBSGSG",
+                    "source_text": "UOVBSGSG",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "ACCOUNT": {
+                    "value": "1013990137",
+                    "source_text": "1013990137",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-019",
+            "fields": {
+                "document_title": {
+                    "value": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_text": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_swift": {
+                    "value": "ABOCCNBJ",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_name": {
+                    "value": "ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "currency": {
+                    "value": "THB",
+                    "source_text": "THB",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "SWIFT of CORR. Bank": {
+                    "value": "BKKBTHBK",
+                    "source_text": "BKKBTHBK",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "ACCOUNT": {
+                    "value": "0000610117",
+                    "source_text": "0000610117",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-020",
+            "fields": {
+                "document_title": {
+                    "value": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_text": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_swift": {
+                    "value": "ABOCCNBJ",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_name": {
+                    "value": "ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "currency": {
+                    "value": "USD",
+                    "source_text": "USD",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "SWIFT of CORR. Bank": {
+                    "value": "PNBPUS3NNYC",
+                    "source_text": "PNBPUS3NNYC",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "ACCOUNT": {
+                    "value": "2000191185434",
+                    "source_text": "2000191185434",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-021",
+            "fields": {
+                "document_title": {
+                    "value": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_text": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_swift": {
+                    "value": "ABOCCNBJ",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_name": {
+                    "value": "ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED,HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "currency": {
+                    "value": "ZAR",
+                    "source_text": "ZAR",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "SWIFT of CORR. Bank": {
+                    "value": "SBZAZAJJ",
+                    "source_text": "SBZAZAJJ",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "ACCOUNT": {
+                    "value": "7227459",
+                    "source_text": "7227459",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-022",
+            "fields": {
+                "document_title": {
+                    "value": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS",
+                    "source_text": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_swift": {
+                    "value": "ABOCCNBJ",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED, HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_name": {
+                    "value": "ABC BANKING GROUP LIMITED, HEAD OFFICE'S ACCOUNT",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED, HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "currency": {
+                    "value": "MOP",
+                    "source_text": "MOP",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "SWIFT of CORR. Bank": {
+                    "value": "ABOCMOMM",
+                    "source_text": "ABOCMOMM",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "ACCOUNT": {
+                    "value": "1000248121",
+                    "source_text": "1000248121",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-023",
+            "fields": {
+                "document_title": {
+                    "value": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS",
+                    "source_text": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_swift": {
+                    "value": "ABOCCNBJ",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED, HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_name": {
+                    "value": "ABC BANKING GROUP LIMITED, HEAD OFFICE'S ACCOUNT",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED, HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "currency": {
+                    "value": "PLN",
+                    "source_text": "PLN",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "SWIFT of CORR. Bank": {
+                    "value": "DEUTDEFF",
+                    "source_text": "DEUTDEFF",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "ACCOUNT": {
+                    "value": "10095120131035",
+                    "source_text": "10095120131035",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "INTERMEDIARY": {
+                    "value": "DEUTPLPX Account No .: PL50 1880 0009 0000 0013 7000 1021",
+                    "source_text": "DEUTPLPX Account No .: PL50 1880 0009 0000 0013 7000 1021",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-024",
+            "fields": {
+                "document_title": {
+                    "value": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS",
+                    "source_text": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_swift": {
+                    "value": "ABOCCNBJ",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED, HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_name": {
+                    "value": "ABC BANKING GROUP LIMITED, HEAD OFFICE'S ACCOUNT",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED, HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "currency": {
+                    "value": "HUF",
+                    "source_text": "HUF",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "SWIFT of CORR. Bank": {
+                    "value": "DEUTDEFF",
+                    "source_text": "DEUTDEFF",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "ACCOUNT": {
+                    "value": "10095120131064",
+                    "source_text": "10095120131064",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "INTERMEDIARY": {
+                    "value": "DEUTHU2B Account No .: HU48 1630 0000 0200 0005 0000 6423",
+                    "source_text": "DEUTHU2B Account No .: HU48 1630 0000 0200 0005 0000 6423",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-025",
+            "fields": {
+                "document_title": {
+                    "value": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS",
+                    "source_text": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_swift": {
+                    "value": "ABOCCNBJ",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED, HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_name": {
+                    "value": "ABC BANKING GROUP LIMITED, HEAD OFFICE'S ACCOUNT",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED, HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "currency": {
+                    "value": "IDR",
+                    "source_text": "IDR",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "SWIFT of CORR. Bank": {
+                    "value": "BKCHIDJA",
+                    "source_text": "BKCHIDJA",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "ACCOUNT": {
+                    "value": "100000900906225",
+                    "source_text": "100000900906225",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-026",
+            "fields": {
+                "document_title": {
+                    "value": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS",
+                    "source_text": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_swift": {
+                    "value": "ABOCCNBJ",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED, HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_name": {
+                    "value": "ABC BANKING GROUP LIMITED, HEAD OFFICE'S ACCOUNT",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED, HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "currency": {
+                    "value": "RUB",
+                    "source_text": "RUB",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "SWIFT of CORR. Bank": {
+                    "value": "ABOCRUMM",
+                    "source_text": "ABOCRUMM",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "ACCOUNT": {
+                    "value": "30111810400110200001",
+                    "source_text": "30111810400110200001",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "INTERMEDIARY": {
+                    "value": "ABOCRUMM A/C NO. at Central Bank of Russia: 30101810900000000673 BIK:044525673 KPP:771001001 INN: 9909552196 VO code: 60071 for MM 60081 for FX",
+                    "source_text": "ABOCRUMM A/C NO. at Central Bank of Russia: 30101810900000000673 BIK:044525673 KPP:771001001 INN: 9909552196 VO code: 60071 for MM 60081 for FX",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-027",
+            "fields": {
+                "document_title": {
+                    "value": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS",
+                    "source_text": "AGRICULTURAL BANK OF CHINA STANDARD SETTLEMENT INSTRUCTIONS FOR ALL FOREIGN EXCHANGE, MONEY MARKETS , DERIVATIVE AND SECURITIES TRANSACTIONS",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_swift": {
+                    "value": "ABOCCNBJ",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED, HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_name": {
+                    "value": "ABC BANKING GROUP LIMITED, HEAD OFFICE'S ACCOUNT",
+                    "source_text": "FOR CREDIT TO ABC BANKING GROUP LIMITED, HEAD OFFICE'S ACCOUNT - SWIFT ABOCCNBJ",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "currency": {
+                    "value": "MXN",
+                    "source_text": "MXN",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "SWIFT of CORR. Bank": {
+                    "value": "BMSXMXMM",
+                    "source_text": "BMSXMXMM",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "ACCOUNT": {
+                    "value": "2597",
+                    "source_text": "2597",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-028",
+            "fields": {
+                "currency": {
+                    "value": "CNY(大额支付系统)",
+                    "source_text": "Currency:CNY(大额支付系统)",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "开户行行名": {
+                    "value": "中国农业银行资金清算中心",
+                    "source_text": "开户行行名:中国农业银行资金清算中心",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "大额支付系统行号": {
+                    "value": "103100000026",
+                    "source_text": "大额支付系统行号:103100000026",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "户名": {
+                    "value": "中国农业银行",
+                    "source_text": "户名:中国农业银行 账号:9099990112104001",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "账号": {
+                    "value": "9099990112104001",
+                    "source_text": "户名:中国农业银行 账号:9099990112104001",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-029",
+            "fields": {
+                "currency": {
+                    "value": "CNY(VIA CIPS)",
+                    "source_text": "Currency: CNY(VIA CIPS)",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Correspondent Bank": {
+                    "value": "Agricultural Bank of China",
+                    "source_text": "Correspondent Bank:Agricultural Bank of China",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Correspondent Bank's SWIFT": {
+                    "value": "ABOCCNBJXXX",
+                    "source_text": "Correspondent Bank's SWIFT:ABOCCNBJXXX",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Account Number": {
+                    "value": "907000",
+                    "source_text": "Account Number:907000",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Beneficiary's SWIFT": {
+                    "value": "ABOCCNBJXXX",
+                    "source_text": "Beneficiary's SWIFT:ABOCCNBJXXX",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Beneficiary's Name in English": {
+                    "value": "Agricultural Bank of China",
+                    "source_text": "Beneficiary's Name in English:Agricultural Bank of China",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Beneficiary's Name in Chinese": {
+                    "value": "中国农业银行",
+                    "source_text": "Beneficiary's Name in Chinese:中国农业银行",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-030",
+            "fields": {
+                "document_title": {
+                    "value": "Securities Settlement Instruction List for Agricultural Bank of China limited, Head office SWIFT ABOCCNBJ",
+                    "source_text": "Securities Settlement Instruction List for Agricultural Bank of China limited, Head office SWIFT ABOCCNBJ",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "head_office_swift": {
+                    "value": "ABOCCNBJ",
+                    "source_text": "Securities Settlement Instruction List for Agricultural Bank of China limited, Head office SWIFT ABOCCNBJ",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Market": {
+                    "value": "ICSD",
+                    "source_text": "ICSD",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Currency": {
+                    "value": "ALL",
+                    "source_text": "ALL",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Custodian": {
+                    "value": "CLEARSTREAM",
+                    "source_text": "CLEARSTREAM",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Bic Code": {
+                    "value": "CEDELULL",
+                    "source_text": "CEDELULL",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Account(ISIN)": {
+                    "value": "80358 -For International Bond(XS,DE,GB.JP,HK,CA,AU)",
+                    "source_text": "80358 -For International Bond(XS,DE,GB.JP,HK,CA,AU)",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-031",
+            "fields": {
+                "document_title": {
+                    "value": "Securities Settlement Instruction List for Agricultural Bank of China limited, Head office SWIFT ABOCCNBJ",
+                    "source_text": "Securities Settlement Instruction List for Agricultural Bank of China limited, Head office SWIFT ABOCCNBJ",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "head_office_swift": {
+                    "value": "ABOCCNBJ",
+                    "source_text": "Securities Settlement Instruction List for Agricultural Bank of China limited, Head office SWIFT ABOCCNBJ",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Market": {
+                    "value": "ICSD",
+                    "source_text": "ICSD",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Currency": {
+                    "value": "USD",
+                    "source_text": "USD",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Custodian": {
+                    "value": "EUROCLEAR",
+                    "source_text": "EUROCLEAR",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Bic Code": {
+                    "value": "MGTCBEBEECL",
+                    "source_text": "MGTCBEBEECL",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Account(ISIN)": {
+                    "value": "23861-For Corporate Bond(US)",
+                    "source_text": "23861-For Corporate Bond(US)",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-032",
+            "fields": {
+                "document_title": {
+                    "value": "Securities Settlement Instruction List for Agricultural Bank of China limited, Head office SWIFT ABOCCNBJ",
+                    "source_text": "Securities Settlement Instruction List for Agricultural Bank of China limited, Head office SWIFT ABOCCNBJ",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "head_office_swift": {
+                    "value": "ABOCCNBJ",
+                    "source_text": "Securities Settlement Instruction List for Agricultural Bank of China limited, Head office SWIFT ABOCCNBJ",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Market": {
+                    "value": "United States(FEDWIRE)",
+                    "source_text": "United States(FEDWIRE)",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Currency": {
+                    "value": "USD",
+                    "source_text": "USD",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Custodian": {
+                    "value": "BANK OF NEW YORK",
+                    "source_text": "BANK OF NEW YORK",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Bic Code": {
+                    "value": "IRVTUS3NIBK",
+                    "source_text": "IRVTUS3NIBK",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Account(ISIN)": {
+                    "value": "ABA 021000018 BANK OF NYC/CUST/358200",
+                    "source_text": "ABA 021000018 BANK OF NYC/CUST/358200",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-033",
+            "fields": {
+                "document_title": {
+                    "value": "Securities Settlement Instruction List for Agricultural Bank of China limited, Head office SWIFT ABOCCNBJ",
+                    "source_text": "Securities Settlement Instruction List for Agricultural Bank of China limited, Head office SWIFT ABOCCNBJ",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "head_office_swift": {
+                    "value": "ABOCCNBJ",
+                    "source_text": "Securities Settlement Instruction List for Agricultural Bank of China limited, Head office SWIFT ABOCCNBJ",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Market": {
+                    "value": "United States(DTC)",
+                    "source_text": "United States(DTC)",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Currency": {
+                    "value": "USD",
+                    "source_text": "USD",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Custodian": {
+                    "value": "JPMCB NEW YORK",
+                    "source_text": "JPMCB NEW YORK",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Bic Code": {
+                    "value": "CHASGB2L",
+                    "source_text": "CHASGB2L",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Account(ISIN)": {
+                    "value": "DTC ID 0902 Sub account PS75350",
+                    "source_text": "DTC ID 0902 Sub account PS75350",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "Text 'AGRICULTURAL BANK OF CHINA OPERATION CENTER' appears below the securities table on page 2, but the JSON does not explicitly link it to a specific securities SSI row, so it was not merged into any single SSI record.",
+                "Text 'NEST' appears with very low OCR confidence and unclear relationship to any SSI; excluded as a field."
+            ]
+        }
+    ]
+}

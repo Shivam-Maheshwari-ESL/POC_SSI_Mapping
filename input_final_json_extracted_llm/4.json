@@ -1,0 +1,311 @@
+{
+    "document_metadata": {
+        "total_pages": 2,
+        "processing_mode": "native_text"
+    },
+    "ssi_records": [
+        {
+            "ssi_id": "SSI-001",
+            "fields": {
+                "fund_name": {
+                    "value": "FIR DEA S.A. SICAV-RAIF",
+                    "source_text": "FIR DEA S.A. SICAV-RAIF",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "document_section": {
+                    "value": "Standard Settlement Instructions",
+                    "source_text": "FIR DEA S.A. SICAV-RAIF Standard Settlement Instructions",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "instruction_scope": {
+                    "value": "Wiring Instructions for Trade Settlements & Principal, Fee and Interest Payments",
+                    "source_text": "Wiring Instructions for Trade Settlements & Principal, Fee and Interest Payments",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "currency": {
+                    "value": "EUR",
+                    "source_text": "EUR",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Intermediary": {
+                    "value": "BNP Paribas Securities Services Paris",
+                    "source_text": "Intermediary\nBNP Paribas Securities Services Paris",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Intermediary_BIC": {
+                    "value": "PARBFRPP",
+                    "source_text": "BIC:\nPARBFRPP",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Beneficiary": {
+                    "value": "BNP Paribas Securities Services",
+                    "source_text": "Beneficiary:\nBNP Paribas Securities Services",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Beneficiary_BIC": {
+                    "value": "PARBLULL",
+                    "source_text": "BIC:\nPARBLULL",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "IBAN": {
+                    "value": "LU333280373482F00978",
+                    "source_text": "IBAN:\nLU333280373482F00978",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "FFC": {
+                    "value": "FIR DEA S.A. SICAV-RAIF",
+                    "source_text": "FFC:\nFIR DEA S.A. SICAV-RAIF",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [
+                {
+                    "table_name": "SSI details",
+                    "headers": [
+                        "Intermediary",
+                        "BNP Paribas Securities Services Paris"
+                    ],
+                    "rows": [
+                        [
+                            "BIC:",
+                            "PARBFRPP"
+                        ],
+                        [
+                            "Beneficiary:",
+                            "BNP Paribas Securities Services"
+                        ],
+                        [
+                            "BIC:",
+                            "PARBLULL"
+                        ],
+                        [
+                            "IBAN:",
+                            "LU333280373482F00978"
+                        ],
+                        [
+                            "FFC:",
+                            "FIR DEA S.A. SICAV-RAIF"
+                        ]
+                    ]
+                }
+            ],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-002",
+            "fields": {
+                "fund_name": {
+                    "value": "FIR DEA S.A. SICAV-RAIF",
+                    "source_text": "FIR DEA S.A. SICAV-RAIF",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "document_section": {
+                    "value": "Standard Settlement Instructions",
+                    "source_text": "FIR DEA S.A. SICAV-RAIF Standard Settlement Instructions",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "instruction_scope": {
+                    "value": "Wiring Instructions for Trade Settlements & Principal, Fee and Interest Payments",
+                    "source_text": "Wiring Instructions for Trade Settlements & Principal, Fee and Interest Payments",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "currency": {
+                    "value": "GBP",
+                    "source_text": "GBP",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Intermediary": {
+                    "value": "BNP PARIBAS S.A., London Branch",
+                    "source_text": "Intermediary\nBNP PARIBAS S.A., London Branch",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Intermediary_BIC": {
+                    "value": "BNPAGB22XXX",
+                    "source_text": "BIC:\nBNPAGB22XXX",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Beneficiary": {
+                    "value": "BNP Paribas Securities Services, Luxembourg",
+                    "source_text": "Beneficiary:\nBNP Paribas Securities Services, Luxembourg",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Beneficiary_BIC": {
+                    "value": "PARBLULL",
+                    "source_text": "BIC:\nPARBLULL",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "IBAN": {
+                    "value": "LU633280373482F00826",
+                    "source_text": "IBAN:\nLU633280373482F00826",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "FFC": {
+                    "value": "FIR DEA S.A. SICAV-RAIF",
+                    "source_text": "FFC:\nFIR DEA S.A. SICAV-RAIF",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [
+                {
+                    "table_name": "SSI details",
+                    "headers": [
+                        "Intermediary",
+                        "BNP PARIBAS S.A., London Branch"
+                    ],
+                    "rows": [
+                        [
+                            "BIC:",
+                            "BNPAGB22XXX"
+                        ],
+                        [
+                            "Beneficiary:",
+                            "BNP Paribas Securities Services, Luxembourg"
+                        ],
+                        [
+                            "BIC:",
+                            "PARBLULL"
+                        ],
+                        [
+                            "IBAN:",
+                            "LU633280373482F00826"
+                        ],
+                        [
+                            "FFC:",
+                            "FIR DEA S.A. SICAV-RAIF"
+                        ]
+                    ]
+                }
+            ],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-003",
+            "fields": {
+                "fund_name": {
+                    "value": "FIR DEA S.A. SICAV-RAIF",
+                    "source_text": "FIR DEA S.A. SICAV-RAIF",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "document_section": {
+                    "value": "Standard Settlement Instructions",
+                    "source_text": "FIR DEA S.A. SICAV-RAIF Standard Settlement Instructions",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "instruction_scope": {
+                    "value": "Wiring Instructions for Trade Settlements & Principal, Fee and Interest Payments",
+                    "source_text": "Wiring Instructions for Trade Settlements & Principal, Fee and Interest Payments",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "currency": {
+                    "value": "USD",
+                    "source_text": "USD",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Intermediary:": {
+                    "value": "BNP Paribas, New York",
+                    "source_text": "Intermediary:\nBNP Paribas, New York",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "BIC": {
+                    "value": "BNPAUS3N",
+                    "source_text": "BIC:\nBNPAUS3N",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "ABA": {
+                    "value": "026 007 689",
+                    "source_text": "ABA\n026 007 689",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Beneficiary": {
+                    "value": "BNP Paribas Securities Services",
+                    "source_text": "Beneficiary:\nBNP Paribas Securities Services",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Beneficiary_BIC": {
+                    "value": "PARBLULL",
+                    "source_text": "BIC:\nPARBLULL",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "IBAN": {
+                    "value": "LU733280373482F00840",
+                    "source_text": "IBAN:\nLU733280373482F00840",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "FFC": {
+                    "value": "FIR DEA S.A. SICAV-RAIF",
+                    "source_text": "FFC:\nFIR DEA S.A. SICAV-RAIF",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [
+                {
+                    "table_name": "SSI details",
+                    "headers": [
+                        "Intermediary:",
+                        "BNP Paribas, New York"
+                    ],
+                    "rows": [
+                        [
+                            "BIC:",
+                            "BNPAUS3N"
+                        ],
+                        [
+                            "ABA",
+                            "026 007 689"
+                        ],
+                        [
+                            "Beneficiary:",
+                            "BNP Paribas Securities Services"
+                        ],
+                        [
+                            "BIC:",
+                            "PARBLULL"
+                        ],
+                        [
+                            "IBAN:",
+                            "LU733280373482F00840"
+                        ],
+                        [
+                            "FFC:",
+                            "FIR DEA S.A. SICAV-RAIF"
+                        ]
+                    ]
+                }
+            ],
+            "extraction_notes": [
+                "The label 'BIC:' appears more than once within this SSI. To avoid overwriting distinct values, the intermediary BIC is stored as 'BIC' and the beneficiary BIC is stored as 'Beneficiary_BIC'."
+            ]
+        }
+    ]
+}

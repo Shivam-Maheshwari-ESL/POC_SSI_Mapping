@@ -1,0 +1,5337 @@
+{
+    "apiVersion": "2024-11-30",
+    "modelId": "prebuilt-layout",
+    "stringIndexType": "textElements",
+    "content": "a\nناقلات NAKILAT\nQATAR GAS TRANSPORT COMPANY LTD.(NAKILAT) Q.P.S.C. شركة قطر لنقل الغاز المحدودة (ناقلات) ش.م.ق.ع\nDate: 08 July 2026\nTo, Banco Santander Santander Back-Offices Ciudad Grupo Santander - Edificio Dehesa, pl. 1ª 28660 - Boadilla del Monte (Madrid)\nSub: Nakilat Conventional Inc SSI\nPlease be informed of the following SSI for Nakilat Conventional Inc. Account maintained with HSBC Bank plc.\nAccount Name\nAccount Number\nIBAN\nAccount Currency\nSenior Debt Service Account\n99217231\nGB58MIDL40051599217231\nUSD\nPlease find below routing details for each of the above account:\nAccount Holder:\nNakilat Conventional Inc.\nBeneficiary Address: Tower 121, The Pearl, P.O.Box: 22271, Doha, State of Qatar\nBeneficiary Bank:\nHSBC Bank plc\nSort Code:\n400515\nSWIFT:\nMIDLGB22\nnetylus\nSyed Shamsul Arfin Authorized Signatory\nHani Abuaker Authorized Signatory\nF A Qatari Public Shareholding Company (aole aghó àcolico àsua) . C.R.No.(O .(a): 28566 Issued and paid up capital (Jloil gel;): QR 5,540,263,600 . Tower 121, The Pearl ogigil.121 2s P.O. Box: 22271, Doha, Qatar . Tel: +974 4496 8811 . www.nakilat.com 1. R",
+    "pages": [
+        {
+            "pageNumber": 1,
+            "angle": -0.09470000118017197,
+            "width": 8.5,
+            "height": 11,
+            "unit": "inch",
+            "words": [
+                {
+                    "content": "a",
+                    "polygon": [
+                        1.5716,
+                        1.0088,
+                        2.3353,
+                        1.0151,
+                        2.3353,
+                        1.3781,
+                        1.5843,
+                        1.3951
+                    ],
+                    "confidence": 0.063,
+                    "span": {
+                        "offset": 0,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "ناقلات",
+                    "polygon": [
+                        2.0609,
+                        1.3954,
+                        2.4238,
+                        1.3926,
+                        2.4238,
+                        1.5329,
+                        2.0612,
+                        1.5333
+                    ],
+                    "confidence": 0.975,
+                    "span": {
+                        "offset": 2,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "NAKILAT",
+                    "polygon": [
+                        1.5057,
+                        1.3947,
+                        2,
+                        1.3951,
+                        2.0002,
+                        1.5333,
+                        1.5064,
+                        1.5316
+                    ],
+                    "confidence": 0.974,
+                    "span": {
+                        "offset": 9,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "QATAR",
+                    "polygon": [
+                        3.1965,
+                        1.2878,
+                        3.4422,
+                        1.2871,
+                        3.4429,
+                        1.3722,
+                        3.1978,
+                        1.3718
+                    ],
+                    "confidence": 0.955,
+                    "span": {
+                        "offset": 17,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "GAS",
+                    "polygon": [
+                        3.4609,
+                        1.2871,
+                        3.6118,
+                        1.2864,
+                        3.6126,
+                        1.3723,
+                        3.4615,
+                        1.3721
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 23,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "TRANSPORT",
+                    "polygon": [
+                        3.6304,
+                        1.2863,
+                        4.0644,
+                        1.2834,
+                        4.065,
+                        1.371,
+                        3.6313,
+                        1.3723
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 27,
+                        "length": 9
+                    }
+                },
+                {
+                    "content": "COMPANY",
+                    "polygon": [
+                        4.0816,
+                        1.2834,
+                        4.4437,
+                        1.282,
+                        4.4445,
+                        1.3709,
+                        4.0823,
+                        1.371
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 37,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "LTD.(NAKILAT)",
+                    "polygon": [
+                        4.461,
+                        1.282,
+                        4.9697,
+                        1.2806,
+                        4.9699,
+                        1.3704,
+                        4.4617,
+                        1.3709
+                    ],
+                    "confidence": 0.963,
+                    "span": {
+                        "offset": 45,
+                        "length": 13
+                    }
+                },
+                {
+                    "content": "Q.P.S.C.",
+                    "polygon": [
+                        4.9883,
+                        1.2805,
+                        5.2572,
+                        1.2794,
+                        5.2572,
+                        1.3691,
+                        4.9886,
+                        1.3703
+                    ],
+                    "confidence": 0.893,
+                    "span": {
+                        "offset": 59,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "شركة",
+                    "polygon": [
+                        4.9864,
+                        1.4039,
+                        5.2516,
+                        1.4023,
+                        5.2516,
+                        1.507,
+                        4.9871,
+                        1.5091
+                    ],
+                    "confidence": 0.941,
+                    "span": {
+                        "offset": 68,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "قطر",
+                    "polygon": [
+                        4.7583,
+                        1.4056,
+                        4.9611,
+                        1.404,
+                        4.9618,
+                        1.5095,
+                        4.7586,
+                        1.5102
+                    ],
+                    "confidence": 0.991,
+                    "span": {
+                        "offset": 73,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "لنقل",
+                    "polygon": [
+                        4.5351,
+                        1.4073,
+                        4.738,
+                        1.4057,
+                        4.7383,
+                        1.5103,
+                        4.536,
+                        1.5111
+                    ],
+                    "confidence": 0.987,
+                    "span": {
+                        "offset": 77,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "الغاز",
+                    "polygon": [
+                        4.2917,
+                        1.4084,
+                        4.5132,
+                        1.4074,
+                        4.5141,
+                        1.5111,
+                        4.2925,
+                        1.512
+                    ],
+                    "confidence": 0.988,
+                    "span": {
+                        "offset": 82,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "المحدودة",
+                    "polygon": [
+                        3.9182,
+                        1.4116,
+                        4.2715,
+                        1.4087,
+                        4.2721,
+                        1.512,
+                        3.9186,
+                        1.5142
+                    ],
+                    "confidence": 0.942,
+                    "span": {
+                        "offset": 88,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "(ناقلات)",
+                    "polygon": [
+                        3.548,
+                        1.4146,
+                        3.8979,
+                        1.4117,
+                        3.8983,
+                        1.5142,
+                        3.5489,
+                        1.5163
+                    ],
+                    "confidence": 0.941,
+                    "span": {
+                        "offset": 97,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "ش.م.ق.ع",
+                    "polygon": [
+                        3.1998,
+                        1.4176,
+                        3.5277,
+                        1.4147,
+                        3.5287,
+                        1.5164,
+                        3.2023,
+                        1.5189
+                    ],
+                    "confidence": 0.877,
+                    "span": {
+                        "offset": 106,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Date:",
+                    "polygon": [
+                        1.9331,
+                        1.7853,
+                        2.1248,
+                        1.7847,
+                        2.1251,
+                        1.8656,
+                        1.9337,
+                        1.8656
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 114,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "08",
+                    "polygon": [
+                        2.1475,
+                        1.785,
+                        2.2327,
+                        1.7845,
+                        2.233,
+                        1.8653,
+                        2.1477,
+                        1.8656
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 120,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "July",
+                    "polygon": [
+                        2.25,
+                        1.7842,
+                        2.3818,
+                        1.7835,
+                        2.3822,
+                        1.8652,
+                        2.2503,
+                        1.8651
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 123,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "2026",
+                    "polygon": [
+                        2.4018,
+                        1.7833,
+                        2.5843,
+                        1.7818,
+                        2.5843,
+                        1.8643,
+                        2.4022,
+                        1.8651
+                    ],
+                    "confidence": 0.991,
+                    "span": {
+                        "offset": 128,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "To,",
+                    "polygon": [
+                        1.9331,
+                        1.9797,
+                        2.0475,
+                        1.9816,
+                        2.0475,
+                        2.0536,
+                        1.9327,
+                        2.0514
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 133,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "Banco",
+                    "polygon": [
+                        1.9314,
+                        2.0787,
+                        2.1469,
+                        2.0783,
+                        2.147,
+                        2.1547,
+                        1.9315,
+                        2.1555
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 137,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "Santander",
+                    "polygon": [
+                        2.1671,
+                        2.0782,
+                        2.5313,
+                        2.0766,
+                        2.5315,
+                        2.155,
+                        2.1673,
+                        2.1546
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 143,
+                        "length": 9
+                    }
+                },
+                {
+                    "content": "Santander",
+                    "polygon": [
+                        1.9298,
+                        2.1808,
+                        2.2905,
+                        2.1799,
+                        2.2906,
+                        2.2594,
+                        1.9299,
+                        2.2606
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 153,
+                        "length": 9
+                    }
+                },
+                {
+                    "content": "Back-Offices",
+                    "polygon": [
+                        2.3112,
+                        2.1799,
+                        2.7446,
+                        2.1795,
+                        2.7447,
+                        2.2589,
+                        2.3113,
+                        2.2594
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 163,
+                        "length": 12
+                    }
+                },
+                {
+                    "content": "Ciudad",
+                    "polygon": [
+                        1.9313,
+                        2.2821,
+                        2.1728,
+                        2.2828,
+                        2.1726,
+                        2.3669,
+                        1.9317,
+                        2.3659
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 176,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "Grupo",
+                    "polygon": [
+                        2.1939,
+                        2.2828,
+                        2.4115,
+                        2.2811,
+                        2.4119,
+                        2.3655,
+                        2.1937,
+                        2.3669
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 183,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "Santander",
+                    "polygon": [
+                        2.4311,
+                        2.2809,
+                        2.7793,
+                        2.2792,
+                        2.7795,
+                        2.3651,
+                        2.4315,
+                        2.3655
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 189,
+                        "length": 9
+                    }
+                },
+                {
+                    "content": "-",
+                    "polygon": [
+                        2.7962,
+                        2.2792,
+                        2.8299,
+                        2.279,
+                        2.83,
+                        2.3648,
+                        2.7963,
+                        2.365
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 199,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "Edificio",
+                    "polygon": [
+                        2.851,
+                        2.2789,
+                        3.0981,
+                        2.2771,
+                        3.0981,
+                        2.3643,
+                        2.851,
+                        2.3648
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 201,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "Dehesa,",
+                    "polygon": [
+                        3.1205,
+                        2.277,
+                        3.3901,
+                        2.2757,
+                        3.3902,
+                        2.3627,
+                        3.1205,
+                        2.3641
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 210,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "pl.",
+                    "polygon": [
+                        3.4126,
+                        2.2757,
+                        3.4954,
+                        2.2757,
+                        3.4957,
+                        2.3622,
+                        3.4127,
+                        2.3626
+                    ],
+                    "confidence": 0.988,
+                    "span": {
+                        "offset": 218,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "1ª",
+                    "polygon": [
+                        3.5207,
+                        2.2754,
+                        3.6049,
+                        2.2747,
+                        3.6056,
+                        2.3618,
+                        3.5211,
+                        2.3621
+                    ],
+                    "confidence": 0.643,
+                    "span": {
+                        "offset": 222,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "28660",
+                    "polygon": [
+                        1.93,
+                        2.3838,
+                        2.1422,
+                        2.3844,
+                        2.1424,
+                        2.467,
+                        1.9301,
+                        2.4675
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 225,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "-",
+                    "polygon": [
+                        2.16,
+                        2.3844,
+                        2.2147,
+                        2.3841,
+                        2.2149,
+                        2.4669,
+                        2.1602,
+                        2.467
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 231,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "Boadilla",
+                    "polygon": [
+                        2.2325,
+                        2.384,
+                        2.5049,
+                        2.3834,
+                        2.5051,
+                        2.4669,
+                        2.2327,
+                        2.4669
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 233,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "del",
+                    "polygon": [
+                        2.5268,
+                        2.3835,
+                        2.6254,
+                        2.3837,
+                        2.6255,
+                        2.4673,
+                        2.527,
+                        2.4669
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 242,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "Monte",
+                    "polygon": [
+                        2.6418,
+                        2.3838,
+                        2.884,
+                        2.3831,
+                        2.8842,
+                        2.4671,
+                        2.642,
+                        2.4675
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 246,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "(Madrid)",
+                    "polygon": [
+                        2.9059,
+                        2.3832,
+                        3.2112,
+                        2.3814,
+                        3.2113,
+                        2.4667,
+                        2.906,
+                        2.467
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 252,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "Sub:",
+                    "polygon": [
+                        1.9274,
+                        2.6952,
+                        2.0854,
+                        2.695,
+                        2.0857,
+                        2.7761,
+                        1.9278,
+                        2.7765
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 261,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Nakilat",
+                    "polygon": [
+                        2.1109,
+                        2.6948,
+                        2.3586,
+                        2.693,
+                        2.3589,
+                        2.7745,
+                        2.1111,
+                        2.776
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 266,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Conventional",
+                    "polygon": [
+                        2.38,
+                        2.693,
+                        2.8459,
+                        2.6913,
+                        2.8461,
+                        2.7739,
+                        2.3803,
+                        2.7744
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 274,
+                        "length": 12
+                    }
+                },
+                {
+                    "content": "Inc",
+                    "polygon": [
+                        2.87,
+                        2.6911,
+                        2.9718,
+                        2.691,
+                        2.972,
+                        2.773,
+                        2.8702,
+                        2.7737
+                    ],
+                    "confidence": 0.985,
+                    "span": {
+                        "offset": 287,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "SSI",
+                    "polygon": [
+                        2.9892,
+                        2.6911,
+                        3.1045,
+                        2.6908,
+                        3.1045,
+                        2.773,
+                        2.9894,
+                        2.7729
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 291,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "Please",
+                    "polygon": [
+                        1.9289,
+                        3.0015,
+                        2.155,
+                        3.001,
+                        2.1552,
+                        3.0875,
+                        1.9296,
+                        3.0872
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 295,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "be",
+                    "polygon": [
+                        2.1783,
+                        3.001,
+                        2.2557,
+                        3.0008,
+                        2.2559,
+                        3.0875,
+                        2.1786,
+                        3.0875
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 302,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "informed",
+                    "polygon": [
+                        2.2732,
+                        3.0007,
+                        2.6058,
+                        2.9989,
+                        2.6058,
+                        3.088,
+                        2.2734,
+                        3.0875
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 305,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "of",
+                    "polygon": [
+                        2.6306,
+                        2.9987,
+                        2.6992,
+                        2.9984,
+                        2.6992,
+                        3.0882,
+                        2.6306,
+                        3.0881
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 314,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "the",
+                    "polygon": [
+                        2.7167,
+                        2.9984,
+                        2.8378,
+                        2.9979,
+                        2.8378,
+                        3.0885,
+                        2.7167,
+                        3.0883
+                    ],
+                    "confidence": 0.999,
+                    "span": {
+                        "offset": 317,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "following",
+                    "polygon": [
+                        2.8597,
+                        2.9978,
+                        3.1792,
+                        2.9962,
+                        3.1794,
+                        3.0869,
+                        2.8597,
+                        3.0885
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 321,
+                        "length": 9
+                    }
+                },
+                {
+                    "content": "SSI",
+                    "polygon": [
+                        3.1997,
+                        2.9962,
+                        3.2974,
+                        2.996,
+                        3.2975,
+                        3.0864,
+                        3.1998,
+                        3.0868
+                    ],
+                    "confidence": 0.981,
+                    "span": {
+                        "offset": 331,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "for",
+                    "polygon": [
+                        3.3222,
+                        2.9959,
+                        3.4171,
+                        2.9958,
+                        3.4172,
+                        3.0861,
+                        3.3223,
+                        3.0863
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 335,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "Nakilat",
+                    "polygon": [
+                        3.4346,
+                        2.9958,
+                        3.6855,
+                        2.995,
+                        3.6858,
+                        3.0857,
+                        3.4347,
+                        3.0861
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 339,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Conventional",
+                    "polygon": [
+                        3.7103,
+                        2.9949,
+                        4.1641,
+                        2.9934,
+                        4.1642,
+                        3.0838,
+                        3.7106,
+                        3.0856
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 347,
+                        "length": 12
+                    }
+                },
+                {
+                    "content": "Inc.",
+                    "polygon": [
+                        4.1918,
+                        2.9935,
+                        4.3085,
+                        2.9933,
+                        4.3086,
+                        3.0834,
+                        4.1919,
+                        3.0838
+                    ],
+                    "confidence": 0.97,
+                    "span": {
+                        "offset": 360,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Account",
+                    "polygon": [
+                        4.3304,
+                        2.9932,
+                        4.6135,
+                        2.9927,
+                        4.614,
+                        3.0817,
+                        4.3306,
+                        3.0833
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 365,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "maintained",
+                    "polygon": [
+                        4.6398,
+                        2.9927,
+                        5.0293,
+                        2.9923,
+                        5.0299,
+                        3.0799,
+                        4.6402,
+                        3.0816
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 373,
+                        "length": 10
+                    }
+                },
+                {
+                    "content": "with",
+                    "polygon": [
+                        5.0527,
+                        2.9923,
+                        5.2129,
+                        2.9921,
+                        5.2129,
+                        3.08,
+                        5.0532,
+                        3.0799
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 384,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "HSBC",
+                    "polygon": [
+                        1.9278,
+                        3.108,
+                        2.1148,
+                        3.1091,
+                        2.1151,
+                        3.1891,
+                        1.9282,
+                        3.1892
+                    ],
+                    "confidence": 0.991,
+                    "span": {
+                        "offset": 389,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Bank",
+                    "polygon": [
+                        2.1372,
+                        3.1092,
+                        2.3017,
+                        3.1097,
+                        2.3022,
+                        3.1898,
+                        2.1375,
+                        3.1892
+                    ],
+                    "confidence": 0.988,
+                    "span": {
+                        "offset": 394,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "plc.",
+                    "polygon": [
+                        2.3254,
+                        3.1098,
+                        2.4492,
+                        3.1097,
+                        2.4494,
+                        3.1903,
+                        2.3259,
+                        3.1897
+                    ],
+                    "confidence": 0.98,
+                    "span": {
+                        "offset": 399,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Account",
+                    "polygon": [
+                        2.224,
+                        3.3677,
+                        2.4925,
+                        3.3685,
+                        2.4926,
+                        3.4387,
+                        2.224,
+                        3.4388
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 404,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Name",
+                    "polygon": [
+                        2.5144,
+                        3.3685,
+                        2.7116,
+                        3.369,
+                        2.7116,
+                        3.4388,
+                        2.5146,
+                        3.4386
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 412,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Account",
+                    "polygon": [
+                        3.1543,
+                        3.3201,
+                        3.4333,
+                        3.3197,
+                        3.4334,
+                        3.3862,
+                        3.1542,
+                        3.3878
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 417,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Number",
+                    "polygon": [
+                        3.153,
+                        3.41,
+                        3.4363,
+                        3.4113,
+                        3.4363,
+                        3.4782,
+                        3.1531,
+                        3.4772
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 425,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "IBAN",
+                    "polygon": [
+                        4.0346,
+                        3.3612,
+                        4.2057,
+                        3.3608,
+                        4.2057,
+                        3.4268,
+                        4.0347,
+                        3.4261
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 432,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Account",
+                    "polygon": [
+                        4.8145,
+                        3.3144,
+                        5.0949,
+                        3.3154,
+                        5.0951,
+                        3.3813,
+                        4.8146,
+                        3.3814
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 437,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Currency",
+                    "polygon": [
+                        4.8059,
+                        3.4081,
+                        5.1052,
+                        3.4114,
+                        5.105,
+                        3.4795,
+                        4.8058,
+                        3.4771
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 445,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "Senior",
+                    "polygon": [
+                        1.9695,
+                        3.5234,
+                        2.1775,
+                        3.5233,
+                        2.1775,
+                        3.5971,
+                        1.9695,
+                        3.5977
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 454,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "Debt",
+                    "polygon": [
+                        2.1967,
+                        3.5232,
+                        2.3449,
+                        3.5233,
+                        2.345,
+                        3.5964,
+                        2.1966,
+                        3.5967
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 461,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Service",
+                    "polygon": [
+                        2.3652,
+                        3.5234,
+                        2.59,
+                        3.524,
+                        2.5899,
+                        3.596,
+                        2.3653,
+                        3.5963
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 466,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Account",
+                    "polygon": [
+                        2.6079,
+                        3.524,
+                        2.8776,
+                        3.5221,
+                        2.8776,
+                        3.5959,
+                        2.6079,
+                        3.5959
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 474,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "99217231",
+                    "polygon": [
+                        3.1303,
+                        3.5185,
+                        3.4556,
+                        3.519,
+                        3.4558,
+                        3.5917,
+                        3.1305,
+                        3.5928
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 482,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "GB58MIDL40051599217231",
+                    "polygon": [
+                        3.6706,
+                        3.5158,
+                        4.5645,
+                        3.514,
+                        4.5645,
+                        3.5888,
+                        3.6708,
+                        3.5895
+                    ],
+                    "confidence": 0.977,
+                    "span": {
+                        "offset": 491,
+                        "length": 22
+                    }
+                },
+                {
+                    "content": "USD",
+                    "polygon": [
+                        4.8867,
+                        3.5169,
+                        5.0247,
+                        3.5186,
+                        5.0247,
+                        3.5837,
+                        4.8868,
+                        3.5823
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 514,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "Please",
+                    "polygon": [
+                        1.9284,
+                        3.8379,
+                        2.1586,
+                        3.8377,
+                        2.1585,
+                        3.9214,
+                        1.9284,
+                        3.9204
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 518,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "find",
+                    "polygon": [
+                        2.1778,
+                        3.8377,
+                        2.3162,
+                        3.8374,
+                        2.316,
+                        3.9222,
+                        2.1777,
+                        3.9215
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 525,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "below",
+                    "polygon": [
+                        2.3381,
+                        3.8374,
+                        2.5299,
+                        3.8365,
+                        2.5297,
+                        3.9215,
+                        2.3379,
+                        3.9222
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 530,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "routing",
+                    "polygon": [
+                        2.5642,
+                        3.8363,
+                        2.8314,
+                        3.8366,
+                        2.8312,
+                        3.9202,
+                        2.5639,
+                        3.9213
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 536,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "details",
+                    "polygon": [
+                        2.8519,
+                        3.8367,
+                        3.0862,
+                        3.8364,
+                        3.086,
+                        3.92,
+                        2.8518,
+                        3.9202
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 544,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "for",
+                    "polygon": [
+                        3.104,
+                        3.8362,
+                        3.2082,
+                        3.8353,
+                        3.2078,
+                        3.9195,
+                        3.1038,
+                        3.9199
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 552,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "each",
+                    "polygon": [
+                        3.226,
+                        3.8352,
+                        3.389,
+                        3.8345,
+                        3.3887,
+                        3.9194,
+                        3.2256,
+                        3.9194
+                    ],
+                    "confidence": 0.986,
+                    "span": {
+                        "offset": 556,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "of",
+                    "polygon": [
+                        3.4109,
+                        3.8344,
+                        3.4794,
+                        3.8343,
+                        3.4792,
+                        3.9192,
+                        3.4107,
+                        3.9193
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 561,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "the",
+                    "polygon": [
+                        3.4959,
+                        3.8343,
+                        3.6206,
+                        3.8344,
+                        3.6204,
+                        3.9185,
+                        3.4957,
+                        3.9192
+                    ],
+                    "confidence": 0.999,
+                    "span": {
+                        "offset": 564,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "above",
+                    "polygon": [
+                        3.6384,
+                        3.8345,
+                        3.8549,
+                        3.8345,
+                        3.8548,
+                        3.9181,
+                        3.6382,
+                        3.9183
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 568,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "account:",
+                    "polygon": [
+                        3.8713,
+                        3.8345,
+                        4.1836,
+                        3.8349,
+                        4.1836,
+                        3.9161,
+                        3.8712,
+                        3.9179
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 574,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "Account",
+                    "polygon": [
+                        1.9289,
+                        3.949,
+                        2.2186,
+                        3.9483,
+                        2.2187,
+                        4.0233,
+                        1.929,
+                        4.0232
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 583,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Holder:",
+                    "polygon": [
+                        2.2431,
+                        3.9484,
+                        2.5058,
+                        3.947,
+                        2.5059,
+                        4.0216,
+                        2.2431,
+                        4.0232
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 591,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Nakilat",
+                    "polygon": [
+                        2.6927,
+                        3.9445,
+                        2.9458,
+                        3.9443,
+                        2.9459,
+                        4.0204,
+                        2.693,
+                        4.0214
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 599,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Conventional",
+                    "polygon": [
+                        2.9659,
+                        3.9441,
+                        3.4308,
+                        3.9421,
+                        3.431,
+                        4.0183,
+                        2.9659,
+                        4.0202
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 607,
+                        "length": 12
+                    }
+                },
+                {
+                    "content": "Inc.",
+                    "polygon": [
+                        3.4559,
+                        3.9422,
+                        3.5804,
+                        3.9424,
+                        3.5804,
+                        4.019,
+                        3.4561,
+                        4.0179
+                    ],
+                    "confidence": 0.974,
+                    "span": {
+                        "offset": 620,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Beneficiary",
+                    "polygon": [
+                        1.9303,
+                        4.0464,
+                        2.3273,
+                        4.0464,
+                        2.3274,
+                        4.1296,
+                        1.9304,
+                        4.1281
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 625,
+                        "length": 11
+                    }
+                },
+                {
+                    "content": "Address:",
+                    "polygon": [
+                        2.3454,
+                        4.0463,
+                        2.6549,
+                        4.0449,
+                        2.6551,
+                        4.1278,
+                        2.3454,
+                        4.1295
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 637,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "Tower",
+                    "polygon": [
+                        2.6924,
+                        4.045,
+                        2.9214,
+                        4.0449,
+                        2.9217,
+                        4.1266,
+                        2.6926,
+                        4.1277
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 646,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "121,",
+                    "polygon": [
+                        2.9409,
+                        4.0449,
+                        3.088,
+                        4.0437,
+                        3.0883,
+                        4.1266,
+                        2.9411,
+                        4.1265
+                    ],
+                    "confidence": 0.99,
+                    "span": {
+                        "offset": 652,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "The",
+                    "polygon": [
+                        3.1047,
+                        4.0436,
+                        3.2379,
+                        4.0424,
+                        3.2382,
+                        4.1264,
+                        3.105,
+                        4.1266
+                    ],
+                    "confidence": 0.998,
+                    "span": {
+                        "offset": 657,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "Pearl,",
+                    "polygon": [
+                        3.2601,
+                        4.0422,
+                        3.4586,
+                        4.0408,
+                        3.4589,
+                        4.126,
+                        3.2604,
+                        4.1263
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 661,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "P.O.Box:",
+                    "polygon": [
+                        3.4808,
+                        4.0406,
+                        3.7807,
+                        4.0403,
+                        3.781,
+                        4.1266,
+                        3.4811,
+                        4.1261
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 668,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "22271,",
+                    "polygon": [
+                        3.8015,
+                        4.0401,
+                        4.0375,
+                        4.038,
+                        4.0377,
+                        4.1247,
+                        3.8018,
+                        4.1264
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 677,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "Doha,",
+                    "polygon": [
+                        4.0597,
+                        4.0377,
+                        4.2623,
+                        4.0364,
+                        4.2626,
+                        4.1244,
+                        4.0599,
+                        4.1247
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 684,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "State",
+                    "polygon": [
+                        4.2818,
+                        4.0364,
+                        4.465,
+                        4.0362,
+                        4.4653,
+                        4.1241,
+                        4.282,
+                        4.1243
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 690,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "of",
+                    "polygon": [
+                        4.4844,
+                        4.0362,
+                        4.5594,
+                        4.0362,
+                        4.5597,
+                        4.1241,
+                        4.4847,
+                        4.1241
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 696,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "Qatar",
+                    "polygon": [
+                        4.576,
+                        4.0362,
+                        4.7898,
+                        4.0377,
+                        4.7908,
+                        4.1233,
+                        4.5763,
+                        4.1241
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 699,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "Beneficiary",
+                    "polygon": [
+                        1.9282,
+                        4.1521,
+                        2.3254,
+                        4.1527,
+                        2.3256,
+                        4.2304,
+                        1.9283,
+                        4.23
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 705,
+                        "length": 11
+                    }
+                },
+                {
+                    "content": "Bank:",
+                    "polygon": [
+                        2.3495,
+                        4.1528,
+                        2.5511,
+                        4.1528,
+                        2.5511,
+                        4.2302,
+                        2.3497,
+                        4.2301
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 717,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "HSBC",
+                    "polygon": [
+                        2.694,
+                        4.1499,
+                        2.8815,
+                        4.1509,
+                        2.8814,
+                        4.2263,
+                        2.6941,
+                        4.2263
+                    ],
+                    "confidence": 0.988,
+                    "span": {
+                        "offset": 723,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Bank",
+                    "polygon": [
+                        2.9038,
+                        4.1509,
+                        3.0739,
+                        4.1508,
+                        3.0738,
+                        4.2264,
+                        2.9038,
+                        4.2262
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 728,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "plc",
+                    "polygon": [
+                        3.0975,
+                        4.1507,
+                        3.2096,
+                        4.1514,
+                        3.2096,
+                        4.2279,
+                        3.0974,
+                        4.2263
+                    ],
+                    "confidence": 0.957,
+                    "span": {
+                        "offset": 733,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "Sort",
+                    "polygon": [
+                        1.9254,
+                        4.2545,
+                        2.0755,
+                        4.2551,
+                        2.0752,
+                        4.3309,
+                        1.9249,
+                        4.3311
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 737,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Code:",
+                    "polygon": [
+                        2.0979,
+                        4.2552,
+                        2.3076,
+                        4.2563,
+                        2.3076,
+                        4.332,
+                        2.0976,
+                        4.3308
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 742,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "400515",
+                    "polygon": [
+                        2.6948,
+                        4.256,
+                        2.9606,
+                        4.2568,
+                        2.9606,
+                        4.3265,
+                        2.6948,
+                        4.3259
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 748,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "SWIFT:",
+                    "polygon": [
+                        1.9246,
+                        4.3585,
+                        2.1859,
+                        4.3599,
+                        2.1859,
+                        4.4338,
+                        1.9245,
+                        4.4336
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 755,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "MIDLGB22",
+                    "polygon": [
+                        2.6939,
+                        4.3565,
+                        3.0768,
+                        4.3562,
+                        3.0768,
+                        4.4283,
+                        2.694,
+                        4.4288
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 762,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "netylus",
+                    "polygon": [
+                        1.7367,
+                        4.8231,
+                        3.3211,
+                        4.6558,
+                        3.348,
+                        5.0655,
+                        1.8064,
+                        5.2592
+                    ],
+                    "confidence": 0.216,
+                    "span": {
+                        "offset": 771,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Syed",
+                    "polygon": [
+                        1.9232,
+                        5.3021,
+                        2.0968,
+                        5.3014,
+                        2.0981,
+                        5.3795,
+                        1.9252,
+                        5.381
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 779,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Shamsul",
+                    "polygon": [
+                        2.1174,
+                        5.3011,
+                        2.4118,
+                        5.3001,
+                        2.4133,
+                        5.3786,
+                        2.1186,
+                        5.3793
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 784,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Arfin",
+                    "polygon": [
+                        2.431,
+                        5.3,
+                        2.6175,
+                        5.2984,
+                        2.6175,
+                        5.3778,
+                        2.4325,
+                        5.3785
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 792,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "Authorized",
+                    "polygon": [
+                        1.9231,
+                        5.4197,
+                        2.318,
+                        5.4202,
+                        2.318,
+                        5.502,
+                        1.9243,
+                        5.5013
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 798,
+                        "length": 10
+                    }
+                },
+                {
+                    "content": "Signatory",
+                    "polygon": [
+                        2.3396,
+                        5.4204,
+                        2.6833,
+                        5.4201,
+                        2.6832,
+                        5.5028,
+                        2.3395,
+                        5.5022
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 809,
+                        "length": 9
+                    }
+                },
+                {
+                    "content": "Hani",
+                    "polygon": [
+                        3.507,
+                        5.3015,
+                        3.6713,
+                        5.3001,
+                        3.6718,
+                        5.3717,
+                        3.5076,
+                        5.3715
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 819,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Abuaker",
+                    "polygon": [
+                        3.6914,
+                        5.2999,
+                        4.001,
+                        5.2977,
+                        4.001,
+                        5.3716,
+                        3.692,
+                        5.3715
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 824,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Authorized",
+                    "polygon": [
+                        3.5061,
+                        5.4152,
+                        3.8992,
+                        5.4147,
+                        3.8992,
+                        5.4951,
+                        3.5064,
+                        5.494
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 832,
+                        "length": 10
+                    }
+                },
+                {
+                    "content": "Signatory",
+                    "polygon": [
+                        3.9215,
+                        5.415,
+                        4.2611,
+                        5.4156,
+                        4.2611,
+                        5.4962,
+                        3.9216,
+                        5.4953
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 843,
+                        "length": 9
+                    }
+                },
+                {
+                    "content": "F",
+                    "polygon": [
+                        1.3452,
+                        6.7187,
+                        1.4609,
+                        6.7186,
+                        1.4609,
+                        6.8253,
+                        1.3447,
+                        6.8259
+                    ],
+                    "confidence": 0.984,
+                    "span": {
+                        "offset": 853,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "A",
+                    "polygon": [
+                        1.7476,
+                        6.4484,
+                        1.7979,
+                        6.4482,
+                        1.798,
+                        6.5214,
+                        1.748,
+                        6.5214
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 855,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "Qatari",
+                    "polygon": [
+                        1.8126,
+                        6.4481,
+                        1.9645,
+                        6.4479,
+                        1.9644,
+                        6.5214,
+                        1.8127,
+                        6.5214
+                    ],
+                    "confidence": 0.658,
+                    "span": {
+                        "offset": 857,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "Public",
+                    "polygon": [
+                        1.9792,
+                        6.448,
+                        2.1335,
+                        6.4477,
+                        2.1334,
+                        6.5214,
+                        1.9791,
+                        6.5214
+                    ],
+                    "confidence": 0.935,
+                    "span": {
+                        "offset": 864,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "Shareholding",
+                    "polygon": [
+                        2.1495,
+                        6.4475,
+                        2.479,
+                        6.4458,
+                        2.4788,
+                        6.5214,
+                        2.1493,
+                        6.5214
+                    ],
+                    "confidence": 0.948,
+                    "span": {
+                        "offset": 871,
+                        "length": 12
+                    }
+                },
+                {
+                    "content": "Company",
+                    "polygon": [
+                        2.4937,
+                        6.4457,
+                        2.7265,
+                        6.4458,
+                        2.7263,
+                        6.5209,
+                        2.4935,
+                        6.5214
+                    ],
+                    "confidence": 0.987,
+                    "span": {
+                        "offset": 884,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "(aole",
+                    "polygon": [
+                        2.7424,
+                        6.4458,
+                        2.8698,
+                        6.4453,
+                        2.8695,
+                        6.5205,
+                        2.7422,
+                        6.5209
+                    ],
+                    "confidence": 0.681,
+                    "span": {
+                        "offset": 892,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "aghó",
+                    "polygon": [
+                        2.8869,
+                        6.4452,
+                        3.018,
+                        6.4446,
+                        3.0176,
+                        6.5197,
+                        2.8866,
+                        6.5204
+                    ],
+                    "confidence": 0.313,
+                    "span": {
+                        "offset": 898,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "àcolico",
+                    "polygon": [
+                        3.0339,
+                        6.4445,
+                        3.2299,
+                        6.4436,
+                        3.2295,
+                        6.5193,
+                        3.0335,
+                        6.5197
+                    ],
+                    "confidence": 0.545,
+                    "span": {
+                        "offset": 903,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "àsua)",
+                    "polygon": [
+                        3.2459,
+                        6.4435,
+                        3.3904,
+                        6.4426,
+                        3.3902,
+                        6.5185,
+                        3.2455,
+                        6.5192
+                    ],
+                    "confidence": 0.134,
+                    "span": {
+                        "offset": 911,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": ".",
+                    "polygon": [
+                        3.4296,
+                        6.4425,
+                        3.4688,
+                        6.4425,
+                        3.4685,
+                        6.5178,
+                        3.4294,
+                        6.5182
+                    ],
+                    "confidence": 0.651,
+                    "span": {
+                        "offset": 917,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "C.R.No.(O",
+                    "polygon": [
+                        3.5044,
+                        6.4425,
+                        3.7604,
+                        6.4429,
+                        3.7603,
+                        6.5173,
+                        3.504,
+                        6.5175
+                    ],
+                    "confidence": 0.876,
+                    "span": {
+                        "offset": 919,
+                        "length": 9
+                    }
+                },
+                {
+                    "content": ".(a):",
+                    "polygon": [
+                        3.7763,
+                        6.4429,
+                        3.8915,
+                        6.4431,
+                        3.8914,
+                        6.5164,
+                        3.7762,
+                        6.5172
+                    ],
+                    "confidence": 0.142,
+                    "span": {
+                        "offset": 929,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "28566",
+                    "polygon": [
+                        3.9086,
+                        6.443,
+                        4.0618,
+                        6.4427,
+                        4.0618,
+                        6.5183,
+                        3.9086,
+                        6.5166
+                    ],
+                    "confidence": 0.988,
+                    "span": {
+                        "offset": 935,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "Issued",
+                    "polygon": [
+                        1.7485,
+                        6.528,
+                        1.9206,
+                        6.5293,
+                        1.9206,
+                        6.6001,
+                        1.7485,
+                        6.5996
+                    ],
+                    "confidence": 0.927,
+                    "span": {
+                        "offset": 941,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "and",
+                    "polygon": [
+                        1.9357,
+                        6.5293,
+                        2.0275,
+                        6.5295,
+                        2.0276,
+                        6.5995,
+                        1.9357,
+                        6.6
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 948,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "paid",
+                    "polygon": [
+                        2.0438,
+                        6.5295,
+                        2.1484,
+                        6.5287,
+                        2.1485,
+                        6.5989,
+                        2.0439,
+                        6.5994
+                    ],
+                    "confidence": 0.963,
+                    "span": {
+                        "offset": 952,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "up",
+                    "polygon": [
+                        2.1647,
+                        6.5285,
+                        2.2228,
+                        6.5278,
+                        2.2229,
+                        6.5986,
+                        2.1648,
+                        6.5988
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 957,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "capital",
+                    "polygon": [
+                        2.2368,
+                        6.5277,
+                        2.4053,
+                        6.527,
+                        2.4054,
+                        6.5984,
+                        2.2368,
+                        6.5985
+                    ],
+                    "confidence": 0.973,
+                    "span": {
+                        "offset": 960,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "(Jloil",
+                    "polygon": [
+                        2.4216,
+                        6.527,
+                        2.5495,
+                        6.5273,
+                        2.5496,
+                        6.5988,
+                        2.4217,
+                        6.5984
+                    ],
+                    "confidence": 0.629,
+                    "span": {
+                        "offset": 968,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "gel;):",
+                    "polygon": [
+                        2.5646,
+                        6.5273,
+                        2.6878,
+                        6.5269,
+                        2.6877,
+                        6.5981,
+                        2.5647,
+                        6.5989
+                    ],
+                    "confidence": 0.415,
+                    "span": {
+                        "offset": 975,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "QR",
+                    "polygon": [
+                        2.7029,
+                        6.5268,
+                        2.7669,
+                        6.5266,
+                        2.7667,
+                        6.5976,
+                        2.7028,
+                        6.598
+                    ],
+                    "confidence": 0.894,
+                    "span": {
+                        "offset": 982,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "5,540,263,600",
+                    "polygon": [
+                        2.7808,
+                        6.5265,
+                        3.1098,
+                        6.5258,
+                        3.1093,
+                        6.5971,
+                        2.7806,
+                        6.5975
+                    ],
+                    "confidence": 0.809,
+                    "span": {
+                        "offset": 985,
+                        "length": 13
+                    }
+                },
+                {
+                    "content": ".",
+                    "polygon": [
+                        3.1528,
+                        6.5257,
+                        3.1924,
+                        6.5257,
+                        3.1919,
+                        6.5963,
+                        3.1524,
+                        6.5967
+                    ],
+                    "confidence": 0.466,
+                    "span": {
+                        "offset": 999,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "Tower",
+                    "polygon": [
+                        3.2237,
+                        6.5256,
+                        3.3691,
+                        6.5251,
+                        3.3687,
+                        6.5955,
+                        3.2233,
+                        6.5959
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 1001,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "121,",
+                    "polygon": [
+                        3.3842,
+                        6.5251,
+                        3.4783,
+                        6.5245,
+                        3.478,
+                        6.5949,
+                        3.3838,
+                        6.5955
+                    ],
+                    "confidence": 0.935,
+                    "span": {
+                        "offset": 1007,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "The",
+                    "polygon": [
+                        3.4923,
+                        6.5244,
+                        3.5713,
+                        6.5238,
+                        3.5709,
+                        6.5942,
+                        3.4919,
+                        6.5948
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 1012,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "Pearl",
+                    "polygon": [
+                        3.5853,
+                        6.5239,
+                        3.712,
+                        6.5244,
+                        3.7116,
+                        6.5943,
+                        3.5849,
+                        6.5942
+                    ],
+                    "confidence": 0.897,
+                    "span": {
+                        "offset": 1016,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "ogigil.121",
+                    "polygon": [
+                        3.7352,
+                        6.5245,
+                        3.9805,
+                        6.524,
+                        3.9805,
+                        6.5961,
+                        3.7349,
+                        6.5943
+                    ],
+                    "confidence": 0.38,
+                    "span": {
+                        "offset": 1022,
+                        "length": 10
+                    }
+                },
+                {
+                    "content": "2s",
+                    "polygon": [
+                        3.9991,
+                        6.5239,
+                        4.0674,
+                        6.5238,
+                        4.0674,
+                        6.5977,
+                        3.9991,
+                        6.5964
+                    ],
+                    "confidence": 0.193,
+                    "span": {
+                        "offset": 1033,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "P.O.",
+                    "polygon": [
+                        1.7524,
+                        6.6045,
+                        1.857,
+                        6.6041,
+                        1.8569,
+                        6.673,
+                        1.7522,
+                        6.6733
+                    ],
+                    "confidence": 0.958,
+                    "span": {
+                        "offset": 1036,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Box:",
+                    "polygon": [
+                        1.8727,
+                        6.6041,
+                        1.9818,
+                        6.6046,
+                        1.9818,
+                        6.6728,
+                        1.8727,
+                        6.673
+                    ],
+                    "confidence": 0.833,
+                    "span": {
+                        "offset": 1041,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "22271,",
+                    "polygon": [
+                        1.9953,
+                        6.6046,
+                        2.1482,
+                        6.604,
+                        2.1482,
+                        6.6721,
+                        1.9953,
+                        6.6727
+                    ],
+                    "confidence": 0.948,
+                    "span": {
+                        "offset": 1046,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "Doha,",
+                    "polygon": [
+                        2.1617,
+                        6.604,
+                        2.2978,
+                        6.6037,
+                        2.2977,
+                        6.6726,
+                        2.1617,
+                        6.6721
+                    ],
+                    "confidence": 0.96,
+                    "span": {
+                        "offset": 1053,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "Qatar",
+                    "polygon": [
+                        2.3113,
+                        6.6037,
+                        2.4417,
+                        6.6032,
+                        2.4417,
+                        6.6725,
+                        2.3112,
+                        6.6726
+                    ],
+                    "confidence": 0.808,
+                    "span": {
+                        "offset": 1059,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": ".",
+                    "polygon": [
+                        2.4833,
+                        6.6028,
+                        2.5216,
+                        6.6024,
+                        2.5216,
+                        6.6717,
+                        2.4833,
+                        6.6721
+                    ],
+                    "confidence": 0.17,
+                    "span": {
+                        "offset": 1065,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "Tel:",
+                    "polygon": [
+                        2.5575,
+                        6.6022,
+                        2.643,
+                        6.6026,
+                        2.643,
+                        6.6715,
+                        2.5576,
+                        6.6715
+                    ],
+                    "confidence": 0.945,
+                    "span": {
+                        "offset": 1067,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "+974",
+                    "polygon": [
+                        2.6565,
+                        6.6027,
+                        2.7734,
+                        6.6015,
+                        2.7734,
+                        6.6709,
+                        2.6565,
+                        6.6715
+                    ],
+                    "confidence": 0.977,
+                    "span": {
+                        "offset": 1072,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "4496",
+                    "polygon": [
+                        2.7869,
+                        6.6013,
+                        2.8994,
+                        6.6014,
+                        2.8993,
+                        6.6708,
+                        2.7869,
+                        6.6708
+                    ],
+                    "confidence": 0.928,
+                    "span": {
+                        "offset": 1077,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "8811",
+                    "polygon": [
+                        2.9129,
+                        6.6015,
+                        3.0253,
+                        6.6002,
+                        3.0252,
+                        6.6705,
+                        2.9127,
+                        6.6709
+                    ],
+                    "confidence": 0.977,
+                    "span": {
+                        "offset": 1082,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": ".",
+                    "polygon": [
+                        3.0725,
+                        6.5996,
+                        3.113,
+                        6.5996,
+                        3.1129,
+                        6.6694,
+                        3.0724,
+                        6.6701
+                    ],
+                    "confidence": 0.14,
+                    "span": {
+                        "offset": 1087,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "www.nakilat.com",
+                    "polygon": [
+                        3.1467,
+                        6.5997,
+                        3.5965,
+                        6.6015,
+                        3.5966,
+                        6.669,
+                        3.1466,
+                        6.6688
+                    ],
+                    "confidence": 0.877,
+                    "span": {
+                        "offset": 1089,
+                        "length": 15
+                    }
+                },
+                {
+                    "content": "1.",
+                    "polygon": [
+                        1.5306,
+                        6.4802,
+                        1.5661,
+                        6.4826,
+                        1.5661,
+                        6.6013,
+                        1.529,
+                        6.6031
+                    ],
+                    "confidence": 0.093,
+                    "span": {
+                        "offset": 1105,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "R",
+                    "polygon": [
+                        1.5747,
+                        6.4842,
+                        1.6768,
+                        6.4815,
+                        1.6768,
+                        6.5939,
+                        1.5749,
+                        6.5976
+                    ],
+                    "confidence": 0.344,
+                    "span": {
+                        "offset": 1108,
+                        "length": 1
+                    }
+                }
+            ],
+            "lines": [
+                {
+                    "content": "a",
+                    "polygon": [
+                        1.5716,
+                        1.0088,
+                        2.3234,
+                        1.0075,
+                        2.3337,
+                        1.3773,
+                        1.5819,
+                        1.3951
+                    ],
+                    "spans": [
+                        {
+                            "offset": 0,
+                            "length": 1
+                        }
+                    ]
+                },
+                {
+                    "content": "ناقلات NAKILAT",
+                    "polygon": [
+                        1.5057,
+                        1.3947,
+                        2.4181,
+                        1.3926,
+                        2.4184,
+                        1.5305,
+                        1.5061,
+                        1.5326
+                    ],
+                    "spans": [
+                        {
+                            "offset": 2,
+                            "length": 14
+                        }
+                    ]
+                },
+                {
+                    "content": "QATAR GAS TRANSPORT COMPANY LTD.(NAKILAT) Q.P.S.C.",
+                    "polygon": [
+                        3.1965,
+                        1.2851,
+                        5.2548,
+                        1.2795,
+                        5.2551,
+                        1.3682,
+                        3.1967,
+                        1.3729
+                    ],
+                    "spans": [
+                        {
+                            "offset": 17,
+                            "length": 50
+                        }
+                    ]
+                },
+                {
+                    "content": "شركة قطر لنقل الغاز المحدودة (ناقلات) ش.م.ق.ع",
+                    "polygon": [
+                        3.1998,
+                        1.4146,
+                        5.2507,
+                        1.4022,
+                        5.2513,
+                        1.5061,
+                        3.2005,
+                        1.5185
+                    ],
+                    "spans": [
+                        {
+                            "offset": 68,
+                            "length": 45
+                        }
+                    ]
+                },
+                {
+                    "content": "Date: 08 July 2026",
+                    "polygon": [
+                        1.9331,
+                        1.7853,
+                        2.5819,
+                        1.7818,
+                        2.5823,
+                        1.8631,
+                        1.9335,
+                        1.8656
+                    ],
+                    "spans": [
+                        {
+                            "offset": 114,
+                            "length": 18
+                        }
+                    ]
+                },
+                {
+                    "content": "To,",
+                    "polygon": [
+                        1.9331,
+                        1.9795,
+                        2.0464,
+                        1.9815,
+                        2.0451,
+                        2.0527,
+                        1.9318,
+                        2.0506
+                    ],
+                    "spans": [
+                        {
+                            "offset": 133,
+                            "length": 3
+                        }
+                    ]
+                },
+                {
+                    "content": "Banco Santander",
+                    "polygon": [
+                        1.9313,
+                        2.078,
+                        2.5293,
+                        2.0765,
+                        2.5295,
+                        2.1537,
+                        1.9315,
+                        2.1551
+                    ],
+                    "spans": [
+                        {
+                            "offset": 137,
+                            "length": 15
+                        }
+                    ]
+                },
+                {
+                    "content": "Santander Back-Offices",
+                    "polygon": [
+                        1.9297,
+                        2.1807,
+                        2.7428,
+                        2.1788,
+                        2.743,
+                        2.2576,
+                        1.9299,
+                        2.2595
+                    ],
+                    "spans": [
+                        {
+                            "offset": 153,
+                            "length": 22
+                        }
+                    ]
+                },
+                {
+                    "content": "Ciudad Grupo Santander - Edificio Dehesa, pl. 1ª",
+                    "polygon": [
+                        1.9313,
+                        2.2821,
+                        3.6028,
+                        2.2745,
+                        3.6032,
+                        2.3607,
+                        1.9317,
+                        2.3684
+                    ],
+                    "spans": [
+                        {
+                            "offset": 176,
+                            "length": 48
+                        }
+                    ]
+                },
+                {
+                    "content": "28660 - Boadilla del Monte (Madrid)",
+                    "polygon": [
+                        1.93,
+                        2.3838,
+                        3.2098,
+                        2.3814,
+                        3.2099,
+                        2.4653,
+                        1.9301,
+                        2.4677
+                    ],
+                    "spans": [
+                        {
+                            "offset": 225,
+                            "length": 35
+                        }
+                    ]
+                },
+                {
+                    "content": "Sub: Nakilat Conventional Inc SSI",
+                    "polygon": [
+                        1.9274,
+                        2.6942,
+                        3.0992,
+                        2.6905,
+                        3.0995,
+                        2.7716,
+                        1.9277,
+                        2.7758
+                    ],
+                    "spans": [
+                        {
+                            "offset": 261,
+                            "length": 33
+                        }
+                    ]
+                },
+                {
+                    "content": "Please be informed of the following SSI for Nakilat Conventional Inc. Account maintained with",
+                    "polygon": [
+                        1.9288,
+                        3.0004,
+                        5.2086,
+                        2.9894,
+                        5.2089,
+                        3.079,
+                        1.9292,
+                        3.0891
+                    ],
+                    "spans": [
+                        {
+                            "offset": 295,
+                            "length": 93
+                        }
+                    ]
+                },
+                {
+                    "content": "HSBC Bank plc.",
+                    "polygon": [
+                        1.9278,
+                        3.108,
+                        2.4474,
+                        3.1097,
+                        2.4471,
+                        3.1897,
+                        1.9275,
+                        3.1879
+                    ],
+                    "spans": [
+                        {
+                            "offset": 389,
+                            "length": 14
+                        }
+                    ]
+                },
+                {
+                    "content": "Account Name",
+                    "polygon": [
+                        2.224,
+                        3.3677,
+                        2.7114,
+                        3.3687,
+                        2.7112,
+                        3.4388,
+                        2.2239,
+                        3.4378
+                    ],
+                    "spans": [
+                        {
+                            "offset": 404,
+                            "length": 12
+                        }
+                    ]
+                },
+                {
+                    "content": "Account",
+                    "polygon": [
+                        3.1541,
+                        3.3201,
+                        3.4313,
+                        3.3197,
+                        3.4314,
+                        3.3865,
+                        3.1542,
+                        3.3869
+                    ],
+                    "spans": [
+                        {
+                            "offset": 417,
+                            "length": 7
+                        }
+                    ]
+                },
+                {
+                    "content": "Number",
+                    "polygon": [
+                        3.153,
+                        3.41,
+                        3.4333,
+                        3.4113,
+                        3.433,
+                        3.4778,
+                        3.1527,
+                        3.4765
+                    ],
+                    "spans": [
+                        {
+                            "offset": 425,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "IBAN",
+                    "polygon": [
+                        4.0346,
+                        3.3612,
+                        4.2047,
+                        3.3608,
+                        4.2049,
+                        3.4267,
+                        4.0347,
+                        3.4268
+                    ],
+                    "spans": [
+                        {
+                            "offset": 432,
+                            "length": 4
+                        }
+                    ]
+                },
+                {
+                    "content": "Account",
+                    "polygon": [
+                        4.8145,
+                        3.3144,
+                        5.0937,
+                        3.3154,
+                        5.0935,
+                        3.3815,
+                        4.8145,
+                        3.3805
+                    ],
+                    "spans": [
+                        {
+                            "offset": 437,
+                            "length": 7
+                        }
+                    ]
+                },
+                {
+                    "content": "Currency",
+                    "polygon": [
+                        4.8059,
+                        3.4081,
+                        5.1038,
+                        3.4112,
+                        5.1031,
+                        3.4793,
+                        4.8052,
+                        3.4761
+                    ],
+                    "spans": [
+                        {
+                            "offset": 445,
+                            "length": 8
+                        }
+                    ]
+                },
+                {
+                    "content": "Senior Debt Service Account",
+                    "polygon": [
+                        1.9694,
+                        3.5234,
+                        2.8761,
+                        3.5219,
+                        2.8762,
+                        3.595,
+                        1.9695,
+                        3.5965
+                    ],
+                    "spans": [
+                        {
+                            "offset": 454,
+                            "length": 27
+                        }
+                    ]
+                },
+                {
+                    "content": "99217231",
+                    "polygon": [
+                        3.1303,
+                        3.5185,
+                        3.4538,
+                        3.5178,
+                        3.4539,
+                        3.5908,
+                        3.1305,
+                        3.5915
+                    ],
+                    "spans": [
+                        {
+                            "offset": 482,
+                            "length": 8
+                        }
+                    ]
+                },
+                {
+                    "content": "GB58MIDL40051599217231",
+                    "polygon": [
+                        3.6706,
+                        3.5148,
+                        4.563,
+                        3.514,
+                        4.563,
+                        3.5876,
+                        3.6707,
+                        3.5884
+                    ],
+                    "spans": [
+                        {
+                            "offset": 491,
+                            "length": 22
+                        }
+                    ]
+                },
+                {
+                    "content": "USD",
+                    "polygon": [
+                        4.8867,
+                        3.5166,
+                        5.0243,
+                        3.5174,
+                        5.0239,
+                        3.5825,
+                        4.8864,
+                        3.5817
+                    ],
+                    "spans": [
+                        {
+                            "offset": 514,
+                            "length": 3
+                        }
+                    ]
+                },
+                {
+                    "content": "Please find below routing details for each of the above account:",
+                    "polygon": [
+                        1.9282,
+                        3.8379,
+                        4.1819,
+                        3.8321,
+                        4.1821,
+                        3.9165,
+                        1.9284,
+                        3.9223
+                    ],
+                    "spans": [
+                        {
+                            "offset": 518,
+                            "length": 64
+                        }
+                    ]
+                },
+                {
+                    "content": "Account Holder:",
+                    "polygon": [
+                        1.9287,
+                        3.9486,
+                        2.5044,
+                        3.9461,
+                        2.5047,
+                        4.0209,
+                        1.929,
+                        4.0234
+                    ],
+                    "spans": [
+                        {
+                            "offset": 583,
+                            "length": 15
+                        }
+                    ]
+                },
+                {
+                    "content": "Nakilat Conventional Inc.",
+                    "polygon": [
+                        2.6927,
+                        3.9443,
+                        3.5793,
+                        3.9416,
+                        3.5795,
+                        4.0177,
+                        2.6929,
+                        4.0203
+                    ],
+                    "spans": [
+                        {
+                            "offset": 599,
+                            "length": 25
+                        }
+                    ]
+                },
+                {
+                    "content": "Beneficiary Address: Tower 121, The Pearl, P.O.Box: 22271, Doha, State of Qatar",
+                    "polygon": [
+                        1.9301,
+                        4.0442,
+                        4.7866,
+                        4.0357,
+                        4.7869,
+                        4.1219,
+                        1.9304,
+                        4.1298
+                    ],
+                    "spans": [
+                        {
+                            "offset": 625,
+                            "length": 79
+                        }
+                    ]
+                },
+                {
+                    "content": "Beneficiary Bank:",
+                    "polygon": [
+                        1.9282,
+                        4.1519,
+                        2.5508,
+                        4.1511,
+                        2.5509,
+                        4.2289,
+                        1.9283,
+                        4.2297
+                    ],
+                    "spans": [
+                        {
+                            "offset": 705,
+                            "length": 17
+                        }
+                    ]
+                },
+                {
+                    "content": "HSBC Bank plc",
+                    "polygon": [
+                        2.694,
+                        4.1497,
+                        3.2062,
+                        4.151,
+                        3.206,
+                        4.2268,
+                        2.6938,
+                        4.2256
+                    ],
+                    "spans": [
+                        {
+                            "offset": 723,
+                            "length": 13
+                        }
+                    ]
+                },
+                {
+                    "content": "Sort Code:",
+                    "polygon": [
+                        1.9252,
+                        4.2545,
+                        2.3042,
+                        4.2558,
+                        2.304,
+                        4.3324,
+                        1.9249,
+                        4.3312
+                    ],
+                    "spans": [
+                        {
+                            "offset": 737,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "400515",
+                    "polygon": [
+                        2.6948,
+                        4.256,
+                        2.9604,
+                        4.256,
+                        2.9604,
+                        4.3256,
+                        2.6948,
+                        4.3257
+                    ],
+                    "spans": [
+                        {
+                            "offset": 748,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "SWIFT:",
+                    "polygon": [
+                        1.9246,
+                        4.3585,
+                        2.1833,
+                        4.3589,
+                        2.1832,
+                        4.4329,
+                        1.9245,
+                        4.4326
+                    ],
+                    "spans": [
+                        {
+                            "offset": 755,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "MIDLGB22",
+                    "polygon": [
+                        2.6938,
+                        4.3565,
+                        3.0721,
+                        4.3556,
+                        3.0723,
+                        4.4279,
+                        2.694,
+                        4.4288
+                    ],
+                    "spans": [
+                        {
+                            "offset": 762,
+                            "length": 8
+                        }
+                    ]
+                },
+                {
+                    "content": "netylus",
+                    "polygon": [
+                        1.7356,
+                        4.8133,
+                        3.2992,
+                        4.6558,
+                        3.348,
+                        5.0872,
+                        1.7858,
+                        5.2592
+                    ],
+                    "spans": [
+                        {
+                            "offset": 771,
+                            "length": 7
+                        }
+                    ]
+                },
+                {
+                    "content": "Syed Shamsul Arfin",
+                    "polygon": [
+                        1.9232,
+                        5.3021,
+                        2.617,
+                        5.2984,
+                        2.6174,
+                        5.3764,
+                        1.9236,
+                        5.3802
+                    ],
+                    "spans": [
+                        {
+                            "offset": 779,
+                            "length": 18
+                        }
+                    ]
+                },
+                {
+                    "content": "Authorized Signatory",
+                    "polygon": [
+                        1.9231,
+                        5.4185,
+                        2.6812,
+                        5.4201,
+                        2.681,
+                        5.5027,
+                        1.923,
+                        5.5011
+                    ],
+                    "spans": [
+                        {
+                            "offset": 798,
+                            "length": 20
+                        }
+                    ]
+                },
+                {
+                    "content": "Hani Abuaker",
+                    "polygon": [
+                        3.507,
+                        5.2995,
+                        3.9991,
+                        5.2977,
+                        3.9994,
+                        5.3704,
+                        3.5072,
+                        5.3721
+                    ],
+                    "spans": [
+                        {
+                            "offset": 819,
+                            "length": 12
+                        }
+                    ]
+                },
+                {
+                    "content": "Authorized Signatory",
+                    "polygon": [
+                        3.5061,
+                        5.413,
+                        4.2588,
+                        5.4153,
+                        4.2585,
+                        5.4952,
+                        3.5059,
+                        5.493
+                    ],
+                    "spans": [
+                        {
+                            "offset": 832,
+                            "length": 20
+                        }
+                    ]
+                },
+                {
+                    "content": "F",
+                    "polygon": [
+                        1.345,
+                        6.718,
+                        1.4589,
+                        6.7184,
+                        1.4586,
+                        6.8254,
+                        1.3447,
+                        6.825
+                    ],
+                    "spans": [
+                        {
+                            "offset": 853,
+                            "length": 1
+                        }
+                    ]
+                },
+                {
+                    "content": "A Qatari Public Shareholding Company (aole aghó àcolico àsua) . C.R.No.(O .(a): 28566",
+                    "polygon": [
+                        1.7476,
+                        6.446,
+                        4.0611,
+                        6.4411,
+                        4.0613,
+                        6.517,
+                        1.7478,
+                        6.5214
+                    ],
+                    "spans": [
+                        {
+                            "offset": 855,
+                            "length": 85
+                        }
+                    ]
+                },
+                {
+                    "content": "Issued and paid up capital (Jloil gel;): QR 5,540,263,600 . Tower 121, The Pearl ogigil.121 2s",
+                    "polygon": [
+                        1.7484,
+                        6.526,
+                        4.0632,
+                        6.5232,
+                        4.0633,
+                        6.5963,
+                        1.7485,
+                        6.5992
+                    ],
+                    "spans": [
+                        {
+                            "offset": 941,
+                            "length": 94
+                        }
+                    ]
+                },
+                {
+                    "content": "P.O. Box: 22271, Doha, Qatar . Tel: +974 4496 8811 . www.nakilat.com",
+                    "polygon": [
+                        1.752,
+                        6.6038,
+                        3.5939,
+                        6.5989,
+                        3.5941,
+                        6.6678,
+                        1.7522,
+                        6.6737
+                    ],
+                    "spans": [
+                        {
+                            "offset": 1036,
+                            "length": 68
+                        }
+                    ]
+                },
+                {
+                    "content": "1.",
+                    "polygon": [
+                        1.5303,
+                        6.4763,
+                        1.5625,
+                        6.4766,
+                        1.5611,
+                        6.6014,
+                        1.529,
+                        6.6011
+                    ],
+                    "spans": [
+                        {
+                            "offset": 1105,
+                            "length": 2
+                        }
+                    ]
+                },
+                {
+                    "content": "R",
+                    "polygon": [
+                        1.5747,
+                        6.4814,
+                        1.6745,
+                        6.4813,
+                        1.6746,
+                        6.5956,
+                        1.5749,
+                        6.5957
+                    ],
+                    "spans": [
+                        {
+                            "offset": 1108,
+                            "length": 1
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 1109
+                }
+            ]
+        }
+    ],
+    "tables": [
+        {
+            "rowCount": 2,
+            "columnCount": 4,
+            "cells": [
+                {
+                    "kind": "columnHeader",
+                    "rowIndex": 0,
+                    "columnIndex": 0,
+                    "content": "Account Name",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                1.8981,
+                                3.2939,
+                                2.9883,
+                                3.2884,
+                                2.9883,
+                                3.4877,
+                                1.8981,
+                                3.4932
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 404,
+                            "length": 12
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/7"
+                    ]
+                },
+                {
+                    "kind": "columnHeader",
+                    "rowIndex": 0,
+                    "columnIndex": 1,
+                    "content": "Account Number",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                2.9883,
+                                3.2884,
+                                3.5527,
+                                3.2884,
+                                3.5527,
+                                3.4877,
+                                2.9883,
+                                3.4877
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 417,
+                            "length": 14
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/8"
+                    ]
+                },
+                {
+                    "kind": "columnHeader",
+                    "rowIndex": 0,
+                    "columnIndex": 2,
+                    "content": "IBAN",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                3.5527,
+                                3.2884,
+                                4.6761,
+                                3.2884,
+                                4.6761,
+                                3.4821,
+                                3.5527,
+                                3.4877
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 432,
+                            "length": 4
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/9"
+                    ]
+                },
+                {
+                    "kind": "columnHeader",
+                    "rowIndex": 0,
+                    "columnIndex": 3,
+                    "content": "Account Currency",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                4.6761,
+                                3.2884,
+                                5.2074,
+                                3.2884,
+                                5.2074,
+                                3.4821,
+                                4.6761,
+                                3.4821
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 437,
+                            "length": 16
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/10"
+                    ]
+                },
+                {
+                    "rowIndex": 1,
+                    "columnIndex": 0,
+                    "content": "Senior Debt Service Account",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                1.8981,
+                                3.4932,
+                                2.9883,
+                                3.4877,
+                                2.9883,
+                                3.6039,
+                                1.8981,
+                                3.6095
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 454,
+                            "length": 27
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/11"
+                    ]
+                },
+                {
+                    "rowIndex": 1,
+                    "columnIndex": 1,
+                    "content": "99217231",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                2.9883,
+                                3.4877,
+                                3.5527,
+                                3.4877,
+                                3.5527,
+                                3.6039,
+                                2.9883,
+                                3.6039
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 482,
+                            "length": 8
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/12"
+                    ]
+                },
+                {
+                    "rowIndex": 1,
+                    "columnIndex": 2,
+                    "content": "GB58MIDL40051599217231",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                3.5527,
+                                3.4877,
+                                4.6761,
+                                3.4821,
+                                4.6761,
+                                3.5984,
+                                3.5527,
+                                3.6039
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 491,
+                            "length": 22
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/13"
+                    ]
+                },
+                {
+                    "rowIndex": 1,
+                    "columnIndex": 3,
+                    "content": "USD",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                4.6761,
+                                3.4821,
+                                5.2074,
+                                3.4821,
+                                5.2074,
+                                3.5984,
+                                4.6761,
+                                3.5984
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 514,
+                            "length": 3
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/14"
+                    ]
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.9146,
+                        3.2853,
+                        5.2581,
+                        3.2843,
+                        5.2594,
+                        3.6245,
+                        1.9157,
+                        3.6256
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 404,
+                    "length": 113
+                }
+            ]
+        },
+        {
+            "rowCount": 6,
+            "columnCount": 2,
+            "cells": [
+                {
+                    "kind": "columnHeader",
+                    "rowIndex": 0,
+                    "columnIndex": 0,
+                    "content": "Please find below",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                1.9147,
+                                3.7921,
+                                2.6618,
+                                3.7921,
+                                2.6618,
+                                3.925,
+                                1.9147,
+                                3.925
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 518,
+                            "length": 17
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/15"
+                    ]
+                },
+                {
+                    "kind": "columnHeader",
+                    "rowIndex": 0,
+                    "columnIndex": 1,
+                    "content": "routing details for each of the above account:",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                2.6618,
+                                3.7921,
+                                4.8421,
+                                3.7921,
+                                4.8421,
+                                3.9195,
+                                2.6618,
+                                3.925
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 536,
+                            "length": 46
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/16"
+                    ]
+                },
+                {
+                    "kind": "columnHeader",
+                    "rowIndex": 1,
+                    "columnIndex": 0,
+                    "content": "Account Holder:",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                1.9147,
+                                3.925,
+                                2.6618,
+                                3.925,
+                                2.6618,
+                                4.0302,
+                                1.9092,
+                                4.0302
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 583,
+                            "length": 15
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/17"
+                    ]
+                },
+                {
+                    "kind": "columnHeader",
+                    "rowIndex": 1,
+                    "columnIndex": 1,
+                    "content": "Nakilat Conventional Inc.",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                2.6618,
+                                3.925,
+                                4.8421,
+                                3.9195,
+                                4.8366,
+                                4.0302,
+                                2.6618,
+                                4.0302
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 599,
+                            "length": 25
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/18"
+                    ]
+                },
+                {
+                    "kind": "columnHeader",
+                    "rowIndex": 2,
+                    "columnIndex": 0,
+                    "rowSpan": 2,
+                    "content": "Beneficiary Address:\nBeneficiary Bank:",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                1.9092,
+                                4.0302,
+                                2.6618,
+                                4.0302,
+                                2.6618,
+                                4.235,
+                                1.9092,
+                                4.235
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 625,
+                            "length": 20
+                        },
+                        {
+                            "offset": 705,
+                            "length": 17
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/19"
+                    ]
+                },
+                {
+                    "kind": "columnHeader",
+                    "rowIndex": 2,
+                    "columnIndex": 1,
+                    "content": "Tower 121, The Pearl, P.O.Box: 22271, Doha, State of Qatar",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                2.6618,
+                                4.0302,
+                                4.8366,
+                                4.0302,
+                                4.8366,
+                                4.1298,
+                                2.6618,
+                                4.1298
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 646,
+                            "length": 58
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/20"
+                    ]
+                },
+                {
+                    "rowIndex": 3,
+                    "columnIndex": 1,
+                    "content": "HSBC Bank plc",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                2.6618,
+                                4.1298,
+                                4.8366,
+                                4.1298,
+                                4.8366,
+                                4.2295,
+                                2.6618,
+                                4.235
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 723,
+                            "length": 13
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/21"
+                    ]
+                },
+                {
+                    "rowIndex": 4,
+                    "columnIndex": 0,
+                    "content": "Sort Code:",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                1.9092,
+                                4.235,
+                                2.6618,
+                                4.235,
+                                2.6618,
+                                4.3402,
+                                1.9092,
+                                4.3402
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 737,
+                            "length": 10
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/22"
+                    ]
+                },
+                {
+                    "rowIndex": 4,
+                    "columnIndex": 1,
+                    "content": "400515",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                2.6618,
+                                4.235,
+                                4.8366,
+                                4.2295,
+                                4.8311,
+                                4.3347,
+                                2.6618,
+                                4.3402
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 748,
+                            "length": 6
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/23"
+                    ]
+                },
+                {
+                    "rowIndex": 5,
+                    "columnIndex": 0,
+                    "content": "SWIFT:",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                1.9092,
+                                4.3402,
+                                2.6618,
+                                4.3402,
+                                2.6562,
+                                4.4675,
+                                1.9036,
+                                4.4675
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 755,
+                            "length": 6
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/24"
+                    ]
+                },
+                {
+                    "rowIndex": 5,
+                    "columnIndex": 1,
+                    "content": "MIDLGB22",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                2.6618,
+                                4.3402,
+                                4.8311,
+                                4.3347,
+                                4.8311,
+                                4.4675,
+                                2.6562,
+                                4.4675
+                            ]
+                        }
+                    ],
+                    "spans": [
+                        {
+                            "offset": 762,
+                            "length": 8
+                        }
+                    ],
+                    "elements": [
+                        "/paragraphs/25"
+                    ]
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.8957,
+                        3.8454,
+                        4.8413,
+                        3.8461,
+                        4.8405,
+                        4.4436,
+                        1.8943,
+                        4.4429
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 518,
+                    "length": 127
+                },
+                {
+                    "offset": 705,
+                    "length": 17
+                },
+                {
+                    "offset": 646,
+                    "length": 58
+                },
+                {
+                    "offset": 723,
+                    "length": 47
+                }
+            ]
+        }
+    ],
+    "paragraphs": [
+        {
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 1
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.5716,
+                        1.0088,
+                        2.3246,
+                        0.991,
+                        2.3337,
+                        1.3773,
+                        1.5807,
+                        1.3951
+                    ]
+                }
+            ],
+            "content": "a"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 2,
+                    "length": 14
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.5057,
+                        1.3947,
+                        2.4181,
+                        1.3926,
+                        2.4184,
+                        1.5305,
+                        1.5061,
+                        1.5326
+                    ]
+                }
+            ],
+            "content": "ناقلات NAKILAT"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 17,
+                    "length": 96
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        3.1965,
+                        1.2851,
+                        5.2548,
+                        1.2795,
+                        5.2555,
+                        1.5128,
+                        3.1971,
+                        1.5185
+                    ]
+                }
+            ],
+            "content": "QATAR GAS TRANSPORT COMPANY LTD.(NAKILAT) Q.P.S.C. شركة قطر لنقل الغاز المحدودة (ناقلات) ش.م.ق.ع"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 114,
+                    "length": 18
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.9331,
+                        1.7853,
+                        2.5819,
+                        1.7818,
+                        2.5823,
+                        1.8631,
+                        1.9335,
+                        1.8666
+                    ]
+                }
+            ],
+            "content": "Date: 08 July 2026"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 133,
+                    "length": 127
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.9294,
+                        1.9795,
+                        3.6026,
+                        1.977,
+                        3.6034,
+                        2.4652,
+                        1.9301,
+                        2.4677
+                    ]
+                }
+            ],
+            "content": "To, Banco Santander Santander Back-Offices Ciudad Grupo Santander - Edificio Dehesa, pl. 1ª 28660 - Boadilla del Monte (Madrid)"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 261,
+                    "length": 33
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.9274,
+                        2.6942,
+                        3.0992,
+                        2.6901,
+                        3.0995,
+                        2.7716,
+                        1.9277,
+                        2.7758
+                    ]
+                }
+            ],
+            "content": "Sub: Nakilat Conventional Inc SSI"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 295,
+                    "length": 108
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.9269,
+                        3.0004,
+                        5.2086,
+                        2.9894,
+                        5.2093,
+                        3.1804,
+                        1.9276,
+                        3.1914
+                    ]
+                }
+            ],
+            "content": "Please be informed of the following SSI for Nakilat Conventional Inc. Account maintained with HSBC Bank plc."
+        },
+        {
+            "spans": [
+                {
+                    "offset": 404,
+                    "length": 12
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.8981,
+                        3.2939,
+                        2.9883,
+                        3.2884,
+                        2.9883,
+                        3.4877,
+                        1.8981,
+                        3.4932
+                    ]
+                }
+            ],
+            "content": "Account Name"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 417,
+                    "length": 14
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        2.9883,
+                        3.2884,
+                        3.5527,
+                        3.2884,
+                        3.5527,
+                        3.4877,
+                        2.9883,
+                        3.4877
+                    ]
+                }
+            ],
+            "content": "Account Number"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 432,
+                    "length": 4
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        3.5527,
+                        3.2884,
+                        4.6761,
+                        3.2884,
+                        4.6761,
+                        3.4821,
+                        3.5527,
+                        3.4877
+                    ]
+                }
+            ],
+            "content": "IBAN"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 437,
+                    "length": 16
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        4.6761,
+                        3.2884,
+                        5.2074,
+                        3.2884,
+                        5.2074,
+                        3.4821,
+                        4.6761,
+                        3.4821
+                    ]
+                }
+            ],
+            "content": "Account Currency"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 454,
+                    "length": 27
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.8981,
+                        3.4932,
+                        2.9883,
+                        3.4877,
+                        2.9883,
+                        3.6039,
+                        1.8981,
+                        3.6095
+                    ]
+                }
+            ],
+            "content": "Senior Debt Service Account"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 482,
+                    "length": 8
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        2.9883,
+                        3.4877,
+                        3.5527,
+                        3.4877,
+                        3.5527,
+                        3.6039,
+                        2.9883,
+                        3.6039
+                    ]
+                }
+            ],
+            "content": "99217231"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 491,
+                    "length": 22
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        3.5527,
+                        3.4877,
+                        4.6761,
+                        3.4821,
+                        4.6761,
+                        3.5984,
+                        3.5527,
+                        3.6039
+                    ]
+                }
+            ],
+            "content": "GB58MIDL40051599217231"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 514,
+                    "length": 3
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        4.6761,
+                        3.4821,
+                        5.2074,
+                        3.4821,
+                        5.2074,
+                        3.5984,
+                        4.6761,
+                        3.5984
+                    ]
+                }
+            ],
+            "content": "USD"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 518,
+                    "length": 17
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.9147,
+                        3.7921,
+                        2.6618,
+                        3.7921,
+                        2.6618,
+                        3.925,
+                        1.9147,
+                        3.925
+                    ]
+                }
+            ],
+            "content": "Please find below"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 536,
+                    "length": 46
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        2.6618,
+                        3.7921,
+                        4.8421,
+                        3.7921,
+                        4.8421,
+                        3.9195,
+                        2.6618,
+                        3.925
+                    ]
+                }
+            ],
+            "content": "routing details for each of the above account:"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 583,
+                    "length": 15
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.9147,
+                        3.925,
+                        2.6618,
+                        3.925,
+                        2.6618,
+                        4.0302,
+                        1.9092,
+                        4.0302
+                    ]
+                }
+            ],
+            "content": "Account Holder:"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 599,
+                    "length": 25
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        2.6618,
+                        3.925,
+                        4.8421,
+                        3.9195,
+                        4.8366,
+                        4.0302,
+                        2.6618,
+                        4.0302
+                    ]
+                }
+            ],
+            "content": "Nakilat Conventional Inc."
+        },
+        {
+            "spans": [
+                {
+                    "offset": 625,
+                    "length": 20
+                },
+                {
+                    "offset": 705,
+                    "length": 17
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.9092,
+                        4.0302,
+                        2.6618,
+                        4.0302,
+                        2.6618,
+                        4.235,
+                        1.9092,
+                        4.235
+                    ]
+                }
+            ],
+            "content": "Beneficiary Address:\nBeneficiary Bank:"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 646,
+                    "length": 58
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        2.6618,
+                        4.0302,
+                        4.8366,
+                        4.0302,
+                        4.8366,
+                        4.1298,
+                        2.6618,
+                        4.1298
+                    ]
+                }
+            ],
+            "content": "Tower 121, The Pearl, P.O.Box: 22271, Doha, State of Qatar"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 723,
+                    "length": 13
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        2.6618,
+                        4.1298,
+                        4.8366,
+                        4.1298,
+                        4.8366,
+                        4.2295,
+                        2.6618,
+                        4.235
+                    ]
+                }
+            ],
+            "content": "HSBC Bank plc"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 737,
+                    "length": 10
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.9092,
+                        4.235,
+                        2.6618,
+                        4.235,
+                        2.6618,
+                        4.3402,
+                        1.9092,
+                        4.3402
+                    ]
+                }
+            ],
+            "content": "Sort Code:"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 748,
+                    "length": 6
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        2.6618,
+                        4.235,
+                        4.8366,
+                        4.2295,
+                        4.8311,
+                        4.3347,
+                        2.6618,
+                        4.3402
+                    ]
+                }
+            ],
+            "content": "400515"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 755,
+                    "length": 6
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.9092,
+                        4.3402,
+                        2.6618,
+                        4.3402,
+                        2.6562,
+                        4.4675,
+                        1.9036,
+                        4.4675
+                    ]
+                }
+            ],
+            "content": "SWIFT:"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 762,
+                    "length": 8
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        2.6618,
+                        4.3402,
+                        4.8311,
+                        4.3347,
+                        4.8311,
+                        4.4675,
+                        2.6562,
+                        4.4675
+                    ]
+                }
+            ],
+            "content": "MIDLGB22"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 771,
+                    "length": 7
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.7356,
+                        4.8133,
+                        3.299,
+                        4.6412,
+                        3.348,
+                        5.0872,
+                        1.7846,
+                        5.2593
+                    ]
+                }
+            ],
+            "content": "netylus"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 779,
+                    "length": 39
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.9232,
+                        5.2969,
+                        2.6814,
+                        5.2985,
+                        2.681,
+                        5.5027,
+                        1.9228,
+                        5.5011
+                    ]
+                }
+            ],
+            "content": "Syed Shamsul Arfin Authorized Signatory"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 819,
+                    "length": 33
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        3.5065,
+                        5.2963,
+                        4.2591,
+                        5.2985,
+                        4.2585,
+                        5.4952,
+                        3.5059,
+                        5.493
+                    ]
+                }
+            ],
+            "content": "Hani Abuaker Authorized Signatory"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 853,
+                    "length": 256
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.3191,
+                        6.4776,
+                        4.049,
+                        6.2762,
+                        4.0752,
+                        6.6323,
+                        1.3453,
+                        6.8337
+                    ]
+                }
+            ],
+            "content": "F A Qatari Public Shareholding Company (aole aghó àcolico àsua) . C.R.No.(O .(a): 28566 Issued and paid up capital (Jloil gel;): QR 5,540,263,600 . Tower 121, The Pearl ogigil.121 2s P.O. Box: 22271, Doha, Qatar . Tel: +974 4496 8811 . www.nakilat.com 1. R"
+        }
+    ],
+    "styles": [
+        {
+            "confidence": 1,
+            "spans": [
+                {
+                    "offset": 771,
+                    "length": 7
+                },
+                {
+                    "offset": 853,
+                    "length": 1
+                }
+            ],
+            "isHandwritten": true
+        }
+    ],
+    "contentFormat": "text",
+    "sections": [
+        {
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 645
+                },
+                {
+                    "offset": 705,
+                    "length": 17
+                },
+                {
+                    "offset": 646,
+                    "length": 58
+                },
+                {
+                    "offset": 723,
+                    "length": 386
+                }
+            ],
+            "elements": [
+                "/figures/0",
+                "/paragraphs/2",
+                "/paragraphs/3",
+                "/paragraphs/4",
+                "/paragraphs/5",
+                "/paragraphs/6",
+                "/tables/0",
+                "/tables/1",
+                "/figures/1",
+                "/paragraphs/29"
+            ]
+        }
+    ],
+    "figures": [
+        {
+            "id": "1.1",
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.4936,
+                        0.9977,
+                        2.4276,
+                        0.9977,
+                        2.4277,
+                        1.5641,
+                        1.4936,
+                        1.5641
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 16
+                }
+            ],
+            "elements": [
+                "/paragraphs/0",
+                "/paragraphs/1"
+            ]
+        },
+        {
+            "id": "1.2",
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.7285,
+                        4.7212,
+                        4.5378,
+                        4.7212,
+                        4.5382,
+                        5.541,
+                        1.7289,
+                        5.5409
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 771,
+                    "length": 81
+                }
+            ],
+            "elements": [
+                "/paragraphs/26",
+                "/paragraphs/27",
+                "/paragraphs/28"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1106 @@
+{
+    "document_metadata": {
+        "total_pages": 2,
+        "processing_mode": "native_text"
+    },
+    "ssi_records": [
+        {
+            "ssi_id": "SSI-001",
+            "fields": {
+                "currency": {
+                    "value": "AED",
+                    "source_text": "AED",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary": {
+                    "value": "Danone Corporate Finance Services",
+                    "source_text": "Beneficiary: Danone Corporate Finance Services",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "bank": {
+                    "value": "CITIBANK N.A., LONDON",
+                    "source_text": "CITIBANK N.A., LONDON",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "swift": {
+                    "value": "CITIGB2L",
+                    "source_text": "CITIGB2L",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "iban_/_account_number": {
+                    "value": "GB84CITI18500812558262",
+                    "source_text": "GB84CITI18500812558262",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "correspondent_bank": {
+                    "value": "CITIBANK N.A., DUBAI",
+                    "source_text": "CITIBANK N.A., DUBAI",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "correspondent_bank_swift": {
+                    "value": "CITIAEAD",
+                    "source_text": "CITIAEAD",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_bank_account": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "notes_/_routing_instructions": {
+                    "value": "· MT103 to be sent to Beneficiary bank with all details of payment including the bank through which they will be covered. · MT202 (Bank to Bank) to be sent to intermediary bank mentioning \"Cover direct payment\".",
+                    "source_text": "Notes / Routing Instructions:\n· MT103 to be sent to Beneficiary bank with all details of payment including the bank through which they will be covered. · MT202 (Bank to Bank) to be sent to intermediary bank mentioning \"Cover direct payment\".",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-002",
+            "fields": {
+                "currency": {
+                    "value": "AUD",
+                    "source_text": "AUD",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary": {
+                    "value": "Danone Corporate Finance Services",
+                    "source_text": "Beneficiary: Danone Corporate Finance Services",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "bank": {
+                    "value": "CITIBANK N.A., SINGAPORE",
+                    "source_text": "CITIBANK N.A., SINGAPORE",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "swift": {
+                    "value": "CITISGSG",
+                    "source_text": "CITISGSG",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "iban_/_account_number": {
+                    "value": "0 853220 019",
+                    "source_text": "0 853220 019",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "correspondent_bank": {
+                    "value": "CITIBANK LTD, SYDNEY",
+                    "source_text": "CITIBANK LTD, SYDNEY",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "correspondent_bank_swift": {
+                    "value": "CITIAU2X",
+                    "source_text": "CITIAU2X",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_bank_account": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "notes_/_routing_instructions": {
+                    "value": "· MT103 to be sent to Beneficiary bank with all details of payment including the bank through which they will be covered. · MT202 (Bank to Bank) to be sent to intermediary bank mentioning \"Cover direct payment\".",
+                    "source_text": "Notes / Routing Instructions:\n· MT103 to be sent to Beneficiary bank with all details of payment including the bank through which they will be covered. · MT202 (Bank to Bank) to be sent to intermediary bank mentioning \"Cover direct payment\".",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-003",
+            "fields": {
+                "currency": {
+                    "value": "CAD",
+                    "source_text": "CAD",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary": {
+                    "value": "Danone Corporate Finance Services",
+                    "source_text": "Beneficiary: Danone Corporate Finance Services",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "bank": {
+                    "value": "CITIBANK N.A., LONDON",
+                    "source_text": "CITIBANK N.A., LONDON",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "swift": {
+                    "value": "CITIGB2L",
+                    "source_text": "CITIGB2L",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "iban_/_account_number": {
+                    "value": "GB53CITI18500812558238",
+                    "source_text": "GB53CITI18500812558238",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "correspondent_bank": {
+                    "value": "TORONTO DOMINION BANK, TORONTO",
+                    "source_text": "TORONTO DOMINION BANK, TORONTO",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "correspondent_bank_swift": {
+                    "value": "TDOMCATTTER",
+                    "source_text": "TDOMCATTTER",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_bank_account": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "notes_/_routing_instructions": {
+                    "value": "· MT103 to be sent to Beneficiary bank with all details of payment including the bank through which they will be covered. · MT202 (Bank to Bank) to be sent to intermediary bank mentioning \"Cover direct payment\".",
+                    "source_text": "Notes / Routing Instructions:\n· MT103 to be sent to Beneficiary bank with all details of payment including the bank through which they will be covered. · MT202 (Bank to Bank) to be sent to intermediary bank mentioning \"Cover direct payment\".",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-004",
+            "fields": {
+                "currency": {
+                    "value": "CHF",
+                    "source_text": "CHF",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary": {
+                    "value": "Danone Corporate Finance Services",
+                    "source_text": "Beneficiary: Danone Corporate Finance Services",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "bank": {
+                    "value": "CITIBANK N.A., LONDON",
+                    "source_text": "CITIBANK N.A., LONDON",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "swift": {
+                    "value": "CITIGB2L",
+                    "source_text": "CITIGB2L",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "iban_/_account_number": {
+                    "value": "CH6089095000012558327",
+                    "source_text": "CH6089095000012558327",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "correspondent_bank": {
+                    "value": "VIA DIRECT CLEARING",
+                    "source_text": "VIA DIRECT CLEARING",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "correspondent_bank_swift": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_bank_account": {
+                    "value": "BC CODE 89095",
+                    "source_text": "BC CODE 89095",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "notes_/_routing_instructions": {
+                    "value": "· MT103 to be sent to Beneficiary bank with all details of payment including the bank through which they will be covered. · MT202 (Bank to Bank) to be sent to intermediary bank mentioning \"Cover direct payment\".",
+                    "source_text": "Notes / Routing Instructions:\n· MT103 to be sent to Beneficiary bank with all details of payment including the bank through which they will be covered. · MT202 (Bank to Bank) to be sent to intermediary bank mentioning \"Cover direct payment\".",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-005",
+            "fields": {
+                "currency": {
+                    "value": "CZK",
+                    "source_text": "CZK",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary": {
+                    "value": "Danone Corporate Finance Services",
+                    "source_text": "Beneficiary: Danone Corporate Finance Services",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "bank": {
+                    "value": "CITIBANK N.A., LONDON",
+                    "source_text": "CITIBANK N.A., LONDON",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "swift": {
+                    "value": "CITIGB2L",
+                    "source_text": "CITIGB2L",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "iban_/_account_number": {
+                    "value": "GB97CITI18500812558319",
+                    "source_text": "GB97CITI18500812558319",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "correspondent_bank": {
+                    "value": "CITIBANK AS, PRAGUE",
+                    "source_text": "CITIBANK AS, PRAGUE",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "correspondent_bank_swift": {
+                    "value": "CITICZPX",
+                    "source_text": "CITICZPX",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_bank_account": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "notes_/_routing_instructions": {
+                    "value": "· MT103 to be sent to Beneficiary bank with all details of payment including the bank through which they will be covered. · MT202 (Bank to Bank) to be sent to intermediary bank mentioning \"Cover direct payment\".",
+                    "source_text": "Notes / Routing Instructions:\n· MT103 to be sent to Beneficiary bank with all details of payment including the bank through which they will be covered. · MT202 (Bank to Bank) to be sent to intermediary bank mentioning \"Cover direct payment\".",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-006",
+            "fields": {
+                "currency": {
+                    "value": "CNY (offshore renminbi)",
+                    "source_text": "CNY (offshore renminbi)",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary": {
+                    "value": "Danone Corporate Finance Services",
+                    "source_text": "Beneficiary: Danone Corporate Finance Services",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "bank": {
+                    "value": "CITIBANK N.A., SINGAPORE",
+                    "source_text": "CITIBANK N.A., SINGAPORE",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "swift": {
+                    "value": "CITISGSG",
+                    "source_text": "CITISGSG",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "iban_/_account_number": {
+                    "value": "0 853220 094",
+                    "source_text": "0 853220 094",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "correspondent_bank": {
+                    "value": "CITIBANK N.A., HONG KONG",
+                    "source_text": "CITIBANK N.A., HONG KONG",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "correspondent_bank_swift": {
+                    "value": "CITIHKHX",
+                    "source_text": "CITIHKHX",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_bank_account": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "notes_/_routing_instructions": {
+                    "value": "· MT103 to be sent to Beneficiary bank with all details of payment including the bank through which they will be covered. · MT202 (Bank to Bank) to be sent to intermediary bank mentioning \"Cover direct payment\".",
+                    "source_text": "Notes / Routing Instructions:\n· MT103 to be sent to Beneficiary bank with all details of payment including the bank through which they will be covered. · MT202 (Bank to Bank) to be sent to intermediary bank mentioning \"Cover direct payment\".",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-007",
+            "fields": {
+                "currency": {
+                    "value": "CNY (offshore renminbi) Effective starting 20 May 2026",
+                    "source_text": "CNY (offshore renminbi) Effective starting 20 May 2026",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary": {
+                    "value": "Danone Corporate Finance Services",
+                    "source_text": "Beneficiary: Danone Corporate Finance Services",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "bank": {
+                    "value": "BANK MENDES GANS, AMSTERDAM",
+                    "source_text": "BANK MENDES GANS, AMSTERDAM",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "swift": {
+                    "value": "BKMGNL2A",
+                    "source_text": "BKMGNL2A",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "iban_/_account_number": {
+                    "value": "NL79BKMG0261859943",
+                    "source_text": "NL79BKMG0261859943",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "correspondent_bank": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "correspondent_bank_swift": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_bank_account": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "notes_/_routing_instructions": {
+                    "value": "· MT103 to be sent to Beneficiary bank with all details of payment including the bank through which they will be covered. · MT202 (Bank to Bank) to be sent to intermediary bank mentioning \"Cover direct payment\".",
+                    "source_text": "Notes / Routing Instructions:\n· MT103 to be sent to Beneficiary bank with all details of payment including the bank through which they will be covered. · MT202 (Bank to Bank) to be sent to intermediary bank mentioning \"Cover direct payment\".",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-008",
+            "fields": {
+                "currency": {
+                    "value": "DKK",
+                    "source_text": "DKK",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary": {
+                    "value": "Danone Corporate Finance Services",
+                    "source_text": "Beneficiary: Danone Corporate Finance Services",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "bank": {
+                    "value": "CITIBANK N.A., LONDON",
+                    "source_text": "CITIBANK N.A., LONDON",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "swift": {
+                    "value": "CITIGB2L",
+                    "source_text": "CITIGB2L",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "iban_/_account_number": {
+                    "value": "GB34CITI18500812558289",
+                    "source_text": "GB34CITI18500812558289",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "correspondent_bank": {
+                    "value": "NORDEA BANK DANMARK AS",
+                    "source_text": "NORDEA BANK DANMARK AS",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "correspondent_bank_swift": {
+                    "value": "NDEADKKK",
+                    "source_text": "NDEADKKK",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_bank_account": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "notes_/_routing_instructions": {
+                    "value": "· MT103 to be sent to Beneficiary bank with all details of payment including the bank through which they will be covered. · MT202 (Bank to Bank) to be sent to intermediary bank mentioning \"Cover direct payment\".",
+                    "source_text": "Notes / Routing Instructions:\n· MT103 to be sent to Beneficiary bank with all details of payment including the bank through which they will be covered. · MT202 (Bank to Bank) to be sent to intermediary bank mentioning \"Cover direct payment\".",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-009",
+            "fields": {
+                "currency": {
+                    "value": "EUR",
+                    "source_text": "EUR",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary": {
+                    "value": "Danone Corporate Finance Services",
+                    "source_text": "Beneficiary: Danone Corporate Finance Services",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "bank": {
+                    "value": "CITIBANK N.A., PARIS",
+                    "source_text": "CITIBANK N.A., PARIS",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "swift": {
+                    "value": "CITIFRPP",
+                    "source_text": "CITIFRPP",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "iban_/_account_number": {
+                    "value": "FR7611689007000065684600393",
+                    "source_text": "FR7611689007000065684600393",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "correspondent_bank": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "correspondent_bank_swift": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_bank_account": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "notes_/_routing_instructions": {
+                    "value": "· MT103 to be sent to Beneficiary bank with all details of payment including the bank through which they will be covered. · MT202 (Bank to Bank) to be sent to intermediary bank mentioning \"Cover direct payment\".",
+                    "source_text": "Notes / Routing Instructions:\n· MT103 to be sent to Beneficiary bank with all details of payment including the bank through which they will be covered. · MT202 (Bank to Bank) to be sent to intermediary bank mentioning \"Cover direct payment\".",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-010",
+            "fields": {
+                "currency": {
+                    "value": "GBP",
+                    "source_text": "GBP",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary": {
+                    "value": "Danone Corporate Finance Services",
+                    "source_text": "Beneficiary: Danone Corporate Finance Services",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "bank": {
+                    "value": "CITIBANK N.A., LONDON",
+                    "source_text": "CITIBANK N.A., LONDON",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "swift": {
+                    "value": "CITIGB2L",
+                    "source_text": "CITIGB2L",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "iban_/_account_number": {
+                    "value": "GB31CITI18500812558343",
+                    "source_text": "GB31CITI18500812558343",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "correspondent_bank": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "correspondent_bank_swift": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_bank_account": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "notes_/_routing_instructions": {
+                    "value": "· MT103 to be sent to Beneficiary bank with all details of payment including the bank through which they will be covered. · MT202 (Bank to Bank) to be sent to intermediary bank mentioning \"Cover direct payment\".",
+                    "source_text": "Notes / Routing Instructions:\n· MT103 to be sent to Beneficiary bank with all details of payment including the bank through which they will be covered. · MT202 (Bank to Bank) to be sent to intermediary bank mentioning \"Cover direct payment\".",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-011",
+            "fields": {
+                "currency": {
+                    "value": "HKD",
+                    "source_text": "HKD",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary": {
+                    "value": "Danone Corporate Finance Services",
+                    "source_text": "Beneficiary: Danone Corporate Finance Services",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "bank": {
+                    "value": "CITIBANK N.A., SINGAPORE",
+                    "source_text": "CITIBANK N.A., SINGAPORE",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "swift": {
+                    "value": "CITISGSG",
+                    "source_text": "CITISGSG",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "iban_/_account_number": {
+                    "value": "0 853220 027",
+                    "source_text": "0 853220 027",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "correspondent_bank": {
+                    "value": "CITIBANK N.A., HONG KONG",
+                    "source_text": "CITIBANK N.A., HONG KONG",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "correspondent_bank_swift": {
+                    "value": "CITIHKHX",
+                    "source_text": "CITIHKHX",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_bank_account": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "notes_/_routing_instructions": {
+                    "value": "· MT103 to be sent to Beneficiary bank with all details of payment including the bank through which they will be covered. · MT202 (Bank to Bank) to be sent to intermediary bank mentioning \"Cover direct payment\".",
+                    "source_text": "Notes / Routing Instructions:\n· MT103 to be sent to Beneficiary bank with all details of payment including the bank through which they will be covered. · MT202 (Bank to Bank) to be sent to intermediary bank mentioning \"Cover direct payment\".",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-012",
+            "fields": {
+                "currency": {
+                    "value": "HUF",
+                    "source_text": "HUF",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary": {
+                    "value": "Danone Corporate Finance Services",
+                    "source_text": "Beneficiary: Danone Corporate Finance Services",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "bank": {
+                    "value": "CITIBANK N.A., LONDON",
+                    "source_text": "CITIBANK N.A., LONDON",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "swift": {
+                    "value": "CITIGB2L",
+                    "source_text": "CITIGB2L",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "iban_/_account_number": {
+                    "value": "GB62CITI18500812558270",
+                    "source_text": "GB62CITI18500812558270",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "correspondent_bank": {
+                    "value": "CITIBANK HUNGARY",
+                    "source_text": "CITIBANK HUNGARY",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "correspondent_bank_swift": {
+                    "value": "CITIUHXCUS",
+                    "source_text": "CITIUHXCUS",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_bank_account": {
+                    "value": "250033001",
+                    "source_text": "250033001",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "notes_/_routing_instructions": {
+                    "value": "· MT103 to be sent to Beneficiary bank with all details of payment including the bank through which they will be covered. · MT202 (Bank to Bank) to be sent to intermediary bank mentioning \"Cover direct payment\".",
+                    "source_text": "Notes / Routing Instructions:\n· MT103 to be sent to Beneficiary bank with all details of payment including the bank through which they will be covered. · MT202 (Bank to Bank) to be sent to intermediary bank mentioning \"Cover direct payment\".",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-013",
+            "fields": {
+                "currency": {
+                    "value": "JPY",
+                    "source_text": "JPY",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary": {
+                    "value": "Danone Corporate Finance Services",
+                    "source_text": "Beneficiary: Danone Corporate Finance Services",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "bank": {
+                    "value": "CITIBANK N.A., LONDON",
+                    "source_text": "CITIBANK N.A., LONDON",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "swift": {
+                    "value": "CITIGB2L",
+                    "source_text": "CITIGB2L",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "iban_/_account_number": {
+                    "value": "GB28CITI18500812558203",
+                    "source_text": "GB28CITI18500812558203",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "correspondent_bank": {
+                    "value": "CITIBANK N.A., TOKYO",
+                    "source_text": "CITIBANK N.A., TOKYO",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "correspondent_bank_swift": {
+                    "value": "CITITJPJT",
+                    "source_text": "CITITJPJT",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_bank_account": {
+                    "value": "0201109418",
+                    "source_text": "0201109418",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "notes_/_routing_instructions": {
+                    "value": "· MT103 to be sent to Beneficiary bank with all details of payment including the bank through which they will be covered. · MT202 (Bank to Bank) to be sent to intermediary bank mentioning \"Cover direct payment\".",
+                    "source_text": "Notes / Routing Instructions:\n· MT103 to be sent to Beneficiary bank with all details of payment including the bank through which they will be covered. · MT202 (Bank to Bank) to be sent to intermediary bank mentioning \"Cover direct payment\".",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-014",
+            "fields": {
+                "currency": {
+                    "value": "MXN",
+                    "source_text": "MXN",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary": {
+                    "value": "Danone Corporate Finance Services",
+                    "source_text": "Beneficiary: Danone Corporate Finance Services",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "bank": {
+                    "value": "CITIBANK N.A., LONDON",
+                    "source_text": "CITIBANK N.A., LONDON",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "swift": {
+                    "value": "CITIGB2L",
+                    "source_text": "CITIGB2L",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "iban_/_account_number": {
+                    "value": "GB28CITI18500812558300",
+                    "source_text": "GB28CITI18500812558300",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "correspondent_bank": {
+                    "value": "CITIBANK MEXICO SA",
+                    "source_text": "CITIBANK MEXICO SA",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "correspondent_bank_swift": {
+                    "value": "CITIMXMMCVT",
+                    "source_text": "CITIMXMMCVT",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_bank_account": {
+                    "value": "F/O CITIBANK LONDON 54674015",
+                    "source_text": "F/O CITIBANK LONDON 54674015",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "notes_/_routing_instructions": {
+                    "value": "· MT103 to be sent to Beneficiary bank with all details of payment including the bank through which they will be covered. · MT202 (Bank to Bank) to be sent to intermediary bank mentioning \"Cover direct payment\".",
+                    "source_text": "Notes / Routing Instructions:\n· MT103 to be sent to Beneficiary bank with all details of payment including the bank through which they will be covered. · MT202 (Bank to Bank) to be sent to intermediary bank mentioning \"Cover direct payment\".",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-015",
+            "fields": {
+                "currency": {
+                    "value": "NOK",
+                    "source_text": "NOK",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary": {
+                    "value": "Danone Corporate Finance Services",
+                    "source_text": "Beneficiary: Danone Corporate Finance Services",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "bank": {
+                    "value": "CITIBANK N.A., LONDON",
+                    "source_text": "CITIBANK N.A., LONDON",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "swift": {
+                    "value": "CITIGB2L",
+                    "source_text": "CITIGB2L",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "iban_/_account_number": {
+                    "value": "GB40CITI18500812558181",
+                    "source_text": "GB40CITI18500812558181",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "correspondent_bank": {
+                    "value": "DEN NORSKE BANK, OSLO",
+                    "source_text": "DEN NORSKE BANK, OSLO",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "correspondent_bank_swift": {
+                    "value": "DNBANOKK",
+                    "source_text": "DNBANOKK",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_bank_account": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "notes_/_routing_instructions": {
+                    "value": "· MT103 to be sent to Beneficiary bank with all details of payment including the bank through which they will be covered. · MT202 (Bank to Bank) to be sent to intermediary bank mentioning \"Cover direct payment\".",
+                    "source_text": "Notes / Routing Instructions:\n· MT103 to be sent to Beneficiary bank with all details of payment including the bank through which they will be covered. · MT202 (Bank to Bank) to be sent to intermediary bank mentioning \"Cover direct payment\".",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-016",
+            "fields": {
+                "currency": {
+                    "value": "NZD",
+                    "source_text": "NZD",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary": {
+                    "value": "Danone Corporate Finance Services",
+                    "source_text": "Beneficiary: Danone Corporate Finance Services",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "bank": {
+                    "value": "CITIBANK N.A., SINGAPORE",
+                    "source_text": "CITIBANK N.A., SINGAPORE",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "swift": {
+                    "value": "CITISGSG",
+                    "source_text": "CITISGSG",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "iban_/_account_number": {
+                    "value": "0 853220 035",
+                    "source_text": "0 853220 035",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "correspondent_bank": {
+                    "value": "CITIBANK N.A., AUCKLAND",
+                    "source_text": "CITIBANK N.A., AUCKLAND",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "correspondent_bank_swift": {
+                    "value": "CITINZ2X",
+                    "source_text": "CITINZ2X",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_bank_account": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "notes_/_routing_instructions": {
+                    "value": "· MT103 to be sent to Beneficiary bank with all details of payment including the bank through which they will be covered. · MT202 (Bank to Bank) to be sent to intermediary bank mentioning \"Cover direct payment\".",
+                    "source_text": "Notes / Routing Instructions:\n· MT103 to be sent to Beneficiary bank with all details of payment including the bank through which they will be covered. · MT202 (Bank to Bank) to be sent to intermediary bank mentioning \"Cover direct payment\".",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-017",
+            "fields": {
+                "currency": {
+                    "value": "USD",
+                    "source_text": "USD",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary": {
+                    "value": "Danone Corporate Finance Services",
+                    "source_text": "Beneficiary: Danone Corporate Finance Services",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "bank": {
+                    "value": "CITIBANK N.A., LONDON",
+                    "source_text": "CITIBANK N.A., LONDON",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "swift": {
+                    "value": "CITIGB2L",
+                    "source_text": "CITIGB2L",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "iban_/_account_number": {
+                    "value": "GB31CITI18500812558246",
+                    "source_text": "GB31CITI18500812558246",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "correspondent_bank": {
+                    "value": "CITIBANK N.A., NEW YORK",
+                    "source_text": "CITIBANK N.A., NEW YORK",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "correspondent_bank_swift": {
+                    "value": "CITIUS33",
+                    "source_text": "CITIUS33",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_bank_account": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "notes_/_routing_instructions": {
+                    "value": "· MT103 to be sent to Beneficiary bank with all details of payment including the bank through which they will be covered. · MT202 (Bank to Bank) to be sent to intermediary bank mentioning \"Cover direct payment\".",
+                    "source_text": "Notes / Routing Instructions:\n· MT103 to be sent to Beneficiary bank with all details of payment including the bank through which they will be covered. · MT202 (Bank to Bank) to be sent to intermediary bank mentioning \"Cover direct payment\".",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-018",
+            "fields": {
+                "currency": {
+                    "value": "ZAR",
+                    "source_text": "ZAR",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary": {
+                    "value": "Danone Corporate Finance Services",
+                    "source_text": "Beneficiary: Danone Corporate Finance Services",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "bank": {
+                    "value": "CITIBANK N.A., LONDON",
+                    "source_text": "CITIBANK N.A., LONDON",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "swift": {
+                    "value": "CITIGB2L",
+                    "source_text": "CITIGB2L",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "iban_/_account_number": {
+                    "value": "GB62CITI18500812558173",
+                    "source_text": "GB62CITI18500812558173",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "correspondent_bank": {
+                    "value": "CITIBANK N.A., JOHANNESBURG",
+                    "source_text": "CITIBANK N.A., JOHANNESBURG",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "correspondent_bank_swift": {
+                    "value": "CITIZAJX",
+                    "source_text": "CITIZAJX",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "beneficiary_bank_account": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "notes_/_routing_instructions": {
+                    "value": "· MT103 to be sent to Beneficiary bank with all details of payment including the bank through which they will be covered. · MT202 (Bank to Bank) to be sent to intermediary bank mentioning \"Cover direct payment\".",
+                    "source_text": "Notes / Routing Instructions:\n· MT103 to be sent to Beneficiary bank with all details of payment including the bank through which they will be covered. · MT202 (Bank to Bank) to be sent to intermediary bank mentioning \"Cover direct payment\".",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        }
+    ]
+}

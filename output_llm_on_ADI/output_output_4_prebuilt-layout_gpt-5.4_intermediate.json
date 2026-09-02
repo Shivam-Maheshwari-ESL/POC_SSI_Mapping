@@ -1,0 +1,1857 @@
+{
+    "promptVersion": "P2_SANTANDER_FMSB_MAPPER_V1.0",
+    "rulesVersion": "Santander-FMSB-v2.0.3-Custom-Final",
+    "documentName": "",
+    "records": [
+        {
+            "recordId": "SSI-001",
+            "sourceBlockId": "page2-EUR-block",
+            "recordScopeStatus": "ACTION_NOT_STATED",
+            "fields": [
+                {
+                    "fieldId": "action",
+                    "fieldName": "Action",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.identifier",
+                    "fieldName": "Instructing Party Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.lei",
+                    "fieldName": "Instructing Entity LEI",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.bic",
+                    "fieldName": "Instructing Party BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.proprietaryIdentification",
+                    "fieldName": "Proprietary Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.proprietarySchemeName",
+                    "fieldName": "Proprietary Scheme Name",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "beneficiary.entityIdentification",
+                    "fieldName": "Beneficiary Entity Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "effectiveDate.parameter",
+                    "fieldName": "Effective Date Parameter",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "effectiveDate.start",
+                    "fieldName": "Effective Start Date",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "effectiveDate.end",
+                    "fieldName": "Effective End Date",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.settlementPurpose",
+                    "fieldName": "Settlement Purpose",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.settlementCountry",
+                    "fieldName": "Settlement Country",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.classificationIdentifier",
+                    "fieldName": "Classification Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.isin",
+                    "fieldName": "ISIN",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.settlementCurrency",
+                    "fieldName": "Settlement Currency",
+                    "mappedValue": "EUR",
+                    "components": [
+                        {
+                            "componentType": "currency",
+                            "value": "EUR"
+                        }
+                    ],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Explicit currency section heading linked to SSI block"
+                    ],
+                    "sourceGroupIds": [
+                        "page2-EUR-block"
+                    ],
+                    "sourceValues": [
+                        "EUR"
+                    ],
+                    "evidence": [
+                        {
+                            "source": "paragraph",
+                            "path": "/paragraphs/113",
+                            "text": "EUR"
+                        }
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.psafeBic",
+                    "fieldName": "PSAFE BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "depository.psetBic",
+                    "fieldName": "PSET Party Identifier - BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party1.identifier",
+                    "fieldName": "Party 1 Party Identifier",
+                    "mappedValue": "BIC",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Source party group contains explicit BIC"
+                    ],
+                    "sourceGroupIds": [
+                        "page2-EUR-intermediary"
+                    ],
+                    "sourceValues": [
+                        "PARBFRPP"
+                    ],
+                    "evidence": [
+                        {
+                            "source": "paragraph",
+                            "path": "/paragraphs/117",
+                            "text": "PARBFRPP"
+                        }
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party1.bic",
+                    "fieldName": "Party 1 BIC",
+                    "mappedValue": "PARBFRPP",
+                    "components": [
+                        {
+                            "componentType": "bic",
+                            "value": "PARBFRPP"
+                        }
+                    ],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Intermediary group BIC"
+                    ],
+                    "sourceGroupIds": [
+                        "page2-EUR-intermediary"
+                    ],
+                    "sourceValues": [
+                        "PARBFRPP"
+                    ],
+                    "evidence": [
+                        {
+                            "source": "paragraph",
+                            "path": "/paragraphs/116",
+                            "text": "BIC:"
+                        },
+                        {
+                            "source": "paragraph",
+                            "path": "/paragraphs/117",
+                            "text": "PARBFRPP"
+                        }
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party1.accountIdentification",
+                    "fieldName": "Party 1 Account Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "page2-EUR-intermediary"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party1.accountName",
+                    "fieldName": "Party 1 Account Name",
+                    "mappedValue": "BNP Paribas Securities Services Paris",
+                    "components": [
+                        {
+                            "componentType": "accountName",
+                            "value": "BNP Paribas Securities Services Paris"
+                        }
+                    ],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Role-labelled institution name under same party group"
+                    ],
+                    "sourceGroupIds": [
+                        "page2-EUR-intermediary"
+                    ],
+                    "sourceValues": [
+                        "BNP Paribas Securities Services Paris"
+                    ],
+                    "evidence": [
+                        {
+                            "source": "paragraph",
+                            "path": "/paragraphs/115",
+                            "text": "BNP Paribas Securities Services Paris"
+                        }
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party2.identifier",
+                    "fieldName": "Party 2 Party Identifier",
+                    "mappedValue": "BIC",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Source party group contains explicit BIC"
+                    ],
+                    "sourceGroupIds": [
+                        "page2-EUR-beneficiary"
+                    ],
+                    "sourceValues": [
+                        "PARBLULL"
+                    ],
+                    "evidence": [
+                        {
+                            "source": "paragraph",
+                            "path": "/paragraphs/121",
+                            "text": "PARBLULL"
+                        }
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party2.bic",
+                    "fieldName": "Party 2 BIC",
+                    "mappedValue": "PARBLULL",
+                    "components": [
+                        {
+                            "componentType": "bic",
+                            "value": "PARBLULL"
+                        }
+                    ],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Beneficiary group BIC"
+                    ],
+                    "sourceGroupIds": [
+                        "page2-EUR-beneficiary"
+                    ],
+                    "sourceValues": [
+                        "PARBLULL"
+                    ],
+                    "evidence": [
+                        {
+                            "source": "paragraph",
+                            "path": "/paragraphs/120",
+                            "text": "BIC:"
+                        },
+                        {
+                            "source": "paragraph",
+                            "path": "/paragraphs/121",
+                            "text": "PARBLULL"
+                        }
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party2.accountIdentification",
+                    "fieldName": "Party 2 Account Identification",
+                    "mappedValue": "IBAN: LU333280373482F00978",
+                    "components": [
+                        {
+                            "componentType": "IBAN",
+                            "value": "LU333280373482F00978"
+                        }
+                    ],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Single explicit IBAN linked to same party group"
+                    ],
+                    "sourceGroupIds": [
+                        "page2-EUR-beneficiary"
+                    ],
+                    "sourceValues": [
+                        "LU333280373482F00978"
+                    ],
+                    "evidence": [
+                        {
+                            "source": "paragraph",
+                            "path": "/paragraphs/122",
+                            "text": "IBAN:"
+                        },
+                        {
+                            "source": "paragraph",
+                            "path": "/paragraphs/123",
+                            "text": "LU333280373482F00978"
+                        }
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party2.accountName",
+                    "fieldName": "Party 2 Account Name",
+                    "mappedValue": "BNP Paribas Securities Services",
+                    "components": [
+                        {
+                            "componentType": "accountName",
+                            "value": "BNP Paribas Securities Services"
+                        }
+                    ],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Role-labelled institution name under same party group"
+                    ],
+                    "sourceGroupIds": [
+                        "page2-EUR-beneficiary"
+                    ],
+                    "sourceValues": [
+                        "BNP Paribas Securities Services"
+                    ],
+                    "evidence": [
+                        {
+                            "source": "paragraph",
+                            "path": "/paragraphs/119",
+                            "text": "BNP Paribas Securities Services"
+                        }
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party3.identifier",
+                    "fieldName": "Party 3 Party Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party3.bic",
+                    "fieldName": "Party 3 BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party3.accountIdentification",
+                    "fieldName": "Party 3 Account Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party3.accountName",
+                    "fieldName": "Party 3 Account Name",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party4.identifier",
+                    "fieldName": "Party 4 Party Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party4.bic",
+                    "fieldName": "Party 4 BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party4.accountIdentification",
+                    "fieldName": "Party 4 Account Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party4.accountName",
+                    "fieldName": "Party 4 Account Name",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                }
+            ],
+            "recordReviewRequired": false,
+            "recordReviewReasonCodes": []
+        },
+        {
+            "recordId": "SSI-002",
+            "sourceBlockId": "page2-GBP-block",
+            "recordScopeStatus": "ACTION_NOT_STATED",
+            "fields": [
+                {
+                    "fieldId": "action",
+                    "fieldName": "Action",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.identifier",
+                    "fieldName": "Instructing Party Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.lei",
+                    "fieldName": "Instructing Entity LEI",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.bic",
+                    "fieldName": "Instructing Party BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.proprietaryIdentification",
+                    "fieldName": "Proprietary Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.proprietarySchemeName",
+                    "fieldName": "Proprietary Scheme Name",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "beneficiary.entityIdentification",
+                    "fieldName": "Beneficiary Entity Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "effectiveDate.parameter",
+                    "fieldName": "Effective Date Parameter",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "effectiveDate.start",
+                    "fieldName": "Effective Start Date",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "effectiveDate.end",
+                    "fieldName": "Effective End Date",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.settlementPurpose",
+                    "fieldName": "Settlement Purpose",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.settlementCountry",
+                    "fieldName": "Settlement Country",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.classificationIdentifier",
+                    "fieldName": "Classification Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.isin",
+                    "fieldName": "ISIN",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.settlementCurrency",
+                    "fieldName": "Settlement Currency",
+                    "mappedValue": "GBP",
+                    "components": [
+                        {
+                            "componentType": "currency",
+                            "value": "GBP"
+                        }
+                    ],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Explicit currency section heading linked to SSI block"
+                    ],
+                    "sourceGroupIds": [
+                        "page2-GBP-block"
+                    ],
+                    "sourceValues": [
+                        "GBP"
+                    ],
+                    "evidence": [
+                        {
+                            "source": "paragraph",
+                            "path": "/paragraphs/126",
+                            "text": "GBP"
+                        }
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.psafeBic",
+                    "fieldName": "PSAFE BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "depository.psetBic",
+                    "fieldName": "PSET Party Identifier - BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party1.identifier",
+                    "fieldName": "Party 1 Party Identifier",
+                    "mappedValue": "BIC",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Source party group contains explicit BIC"
+                    ],
+                    "sourceGroupIds": [
+                        "page2-GBP-intermediary"
+                    ],
+                    "sourceValues": [
+                        "BNPAGB22XXX"
+                    ],
+                    "evidence": [
+                        {
+                            "source": "paragraph",
+                            "path": "/paragraphs/130",
+                            "text": "BNPAGB22XXX"
+                        }
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party1.bic",
+                    "fieldName": "Party 1 BIC",
+                    "mappedValue": "BNPAGB22XXX",
+                    "components": [
+                        {
+                            "componentType": "bic",
+                            "value": "BNPAGB22XXX"
+                        }
+                    ],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Intermediary group BIC"
+                    ],
+                    "sourceGroupIds": [
+                        "page2-GBP-intermediary"
+                    ],
+                    "sourceValues": [
+                        "BNPAGB22XXX"
+                    ],
+                    "evidence": [
+                        {
+                            "source": "paragraph",
+                            "path": "/paragraphs/129",
+                            "text": "BIC:"
+                        },
+                        {
+                            "source": "paragraph",
+                            "path": "/paragraphs/130",
+                            "text": "BNPAGB22XXX"
+                        }
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party1.accountIdentification",
+                    "fieldName": "Party 1 Account Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [
+                        "page2-GBP-intermediary"
+                    ],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party1.accountName",
+                    "fieldName": "Party 1 Account Name",
+                    "mappedValue": "BNP PARIBAS S.A., London Branch",
+                    "components": [
+                        {
+                            "componentType": "accountName",
+                            "value": "BNP PARIBAS S.A., London Branch"
+                        }
+                    ],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Role-labelled institution name under same party group"
+                    ],
+                    "sourceGroupIds": [
+                        "page2-GBP-intermediary"
+                    ],
+                    "sourceValues": [
+                        "BNP PARIBAS S.A., London Branch"
+                    ],
+                    "evidence": [
+                        {
+                            "source": "paragraph",
+                            "path": "/paragraphs/128",
+                            "text": "BNP PARIBAS S.A., London Branch"
+                        }
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party2.identifier",
+                    "fieldName": "Party 2 Party Identifier",
+                    "mappedValue": "BIC",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Source party group contains explicit BIC"
+                    ],
+                    "sourceGroupIds": [
+                        "page2-GBP-beneficiary"
+                    ],
+                    "sourceValues": [
+                        "PARBLULL"
+                    ],
+                    "evidence": [
+                        {
+                            "source": "paragraph",
+                            "path": "/paragraphs/134",
+                            "text": "PARBLULL"
+                        }
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party2.bic",
+                    "fieldName": "Party 2 BIC",
+                    "mappedValue": "PARBLULL",
+                    "components": [
+                        {
+                            "componentType": "bic",
+                            "value": "PARBLULL"
+                        }
+                    ],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Beneficiary group BIC"
+                    ],
+                    "sourceGroupIds": [
+                        "page2-GBP-beneficiary"
+                    ],
+                    "sourceValues": [
+                        "PARBLULL"
+                    ],
+                    "evidence": [
+                        {
+                            "source": "paragraph",
+                            "path": "/paragraphs/133",
+                            "text": "BIC:"
+                        },
+                        {
+                            "source": "paragraph",
+                            "path": "/paragraphs/134",
+                            "text": "PARBLULL"
+                        }
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party2.accountIdentification",
+                    "fieldName": "Party 2 Account Identification",
+                    "mappedValue": "IBAN: LU633280373482F00826",
+                    "components": [
+                        {
+                            "componentType": "IBAN",
+                            "value": "LU633280373482F00826"
+                        }
+                    ],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Single explicit IBAN linked to same party group"
+                    ],
+                    "sourceGroupIds": [
+                        "page2-GBP-beneficiary"
+                    ],
+                    "sourceValues": [
+                        "LU633280373482F00826"
+                    ],
+                    "evidence": [
+                        {
+                            "source": "paragraph",
+                            "path": "/paragraphs/135",
+                            "text": "IBAN:"
+                        },
+                        {
+                            "source": "paragraph",
+                            "path": "/paragraphs/136",
+                            "text": "LU633280373482F00826"
+                        }
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party2.accountName",
+                    "fieldName": "Party 2 Account Name",
+                    "mappedValue": "BNP Paribas Securities Services, Luxembourg",
+                    "components": [
+                        {
+                            "componentType": "accountName",
+                            "value": "BNP Paribas Securities Services, Luxembourg"
+                        }
+                    ],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Role-labelled institution name under same party group"
+                    ],
+                    "sourceGroupIds": [
+                        "page2-GBP-beneficiary"
+                    ],
+                    "sourceValues": [
+                        "BNP Paribas Securities Services, Luxembourg"
+                    ],
+                    "evidence": [
+                        {
+                            "source": "paragraph",
+                            "path": "/paragraphs/132",
+                            "text": "BNP Paribas Securities Services, Luxembourg"
+                        }
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party3.identifier",
+                    "fieldName": "Party 3 Party Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party3.bic",
+                    "fieldName": "Party 3 BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party3.accountIdentification",
+                    "fieldName": "Party 3 Account Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party3.accountName",
+                    "fieldName": "Party 3 Account Name",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party4.identifier",
+                    "fieldName": "Party 4 Party Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party4.bic",
+                    "fieldName": "Party 4 BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party4.accountIdentification",
+                    "fieldName": "Party 4 Account Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party4.accountName",
+                    "fieldName": "Party 4 Account Name",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                }
+            ],
+            "recordReviewRequired": false,
+            "recordReviewReasonCodes": []
+        },
+        {
+            "recordId": "SSI-003",
+            "sourceBlockId": "page2-USD-block",
+            "recordScopeStatus": "ACTION_NOT_STATED",
+            "fields": [
+                {
+                    "fieldId": "action",
+                    "fieldName": "Action",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.identifier",
+                    "fieldName": "Instructing Party Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.lei",
+                    "fieldName": "Instructing Entity LEI",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.bic",
+                    "fieldName": "Instructing Party BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.proprietaryIdentification",
+                    "fieldName": "Proprietary Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.proprietarySchemeName",
+                    "fieldName": "Proprietary Scheme Name",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "beneficiary.entityIdentification",
+                    "fieldName": "Beneficiary Entity Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "effectiveDate.parameter",
+                    "fieldName": "Effective Date Parameter",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "effectiveDate.start",
+                    "fieldName": "Effective Start Date",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "effectiveDate.end",
+                    "fieldName": "Effective End Date",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.settlementPurpose",
+                    "fieldName": "Settlement Purpose",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.settlementCountry",
+                    "fieldName": "Settlement Country",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.classificationIdentifier",
+                    "fieldName": "Classification Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.isin",
+                    "fieldName": "ISIN",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.settlementCurrency",
+                    "fieldName": "Settlement Currency",
+                    "mappedValue": "USD",
+                    "components": [
+                        {
+                            "componentType": "currency",
+                            "value": "USD"
+                        }
+                    ],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Explicit currency section heading linked to SSI block"
+                    ],
+                    "sourceGroupIds": [
+                        "page2-USD-block"
+                    ],
+                    "sourceValues": [
+                        "USD"
+                    ],
+                    "evidence": [
+                        {
+                            "source": "paragraph",
+                            "path": "/paragraphs/139",
+                            "text": "USD"
+                        }
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.psafeBic",
+                    "fieldName": "PSAFE BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "depository.psetBic",
+                    "fieldName": "PSET Party Identifier - BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party1.identifier",
+                    "fieldName": "Party 1 Party Identifier",
+                    "mappedValue": "BIC",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Source party group contains explicit BIC"
+                    ],
+                    "sourceGroupIds": [
+                        "page2-USD-intermediary"
+                    ],
+                    "sourceValues": [
+                        "BNPAUS3N"
+                    ],
+                    "evidence": [
+                        {
+                            "source": "paragraph",
+                            "path": "/paragraphs/143",
+                            "text": "BNPAUS3N"
+                        }
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party1.bic",
+                    "fieldName": "Party 1 BIC",
+                    "mappedValue": "BNPAUS3N",
+                    "components": [
+                        {
+                            "componentType": "bic",
+                            "value": "BNPAUS3N"
+                        }
+                    ],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Intermediary group BIC"
+                    ],
+                    "sourceGroupIds": [
+                        "page2-USD-intermediary"
+                    ],
+                    "sourceValues": [
+                        "BNPAUS3N"
+                    ],
+                    "evidence": [
+                        {
+                            "source": "paragraph",
+                            "path": "/paragraphs/142",
+                            "text": "BIC:"
+                        },
+                        {
+                            "source": "paragraph",
+                            "path": "/paragraphs/143",
+                            "text": "BNPAUS3N"
+                        }
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party1.accountIdentification",
+                    "fieldName": "Party 1 Account Identification",
+                    "mappedValue": "A/C: 026 007 689",
+                    "components": [
+                        {
+                            "componentType": "A/C",
+                            "value": "026 007 689"
+                        },
+                        {
+                            "componentType": "ABA",
+                            "value": "026 007 689"
+                        }
+                    ],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Single explicit account-like value linked to same party group"
+                    ],
+                    "sourceGroupIds": [
+                        "page2-USD-intermediary"
+                    ],
+                    "sourceValues": [
+                        "026 007 689"
+                    ],
+                    "evidence": [
+                        {
+                            "source": "paragraph",
+                            "path": "/paragraphs/144",
+                            "text": "ABA"
+                        },
+                        {
+                            "source": "paragraph",
+                            "path": "/paragraphs/145",
+                            "text": "026 007 689"
+                        }
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party1.accountName",
+                    "fieldName": "Party 1 Account Name",
+                    "mappedValue": "BNP Paribas, New York",
+                    "components": [
+                        {
+                            "componentType": "accountName",
+                            "value": "BNP Paribas, New York"
+                        }
+                    ],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Role-labelled institution name under same party group"
+                    ],
+                    "sourceGroupIds": [
+                        "page2-USD-intermediary"
+                    ],
+                    "sourceValues": [
+                        "BNP Paribas, New York"
+                    ],
+                    "evidence": [
+                        {
+                            "source": "paragraph",
+                            "path": "/paragraphs/141",
+                            "text": "BNP Paribas, New York"
+                        }
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party2.identifier",
+                    "fieldName": "Party 2 Party Identifier",
+                    "mappedValue": "BIC",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Source party group contains explicit BIC"
+                    ],
+                    "sourceGroupIds": [
+                        "page2-USD-beneficiary"
+                    ],
+                    "sourceValues": [
+                        "PARBLULL"
+                    ],
+                    "evidence": [
+                        {
+                            "source": "paragraph",
+                            "path": "/paragraphs/149",
+                            "text": "PARBLULL"
+                        }
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party2.bic",
+                    "fieldName": "Party 2 BIC",
+                    "mappedValue": "PARBLULL",
+                    "components": [
+                        {
+                            "componentType": "bic",
+                            "value": "PARBLULL"
+                        }
+                    ],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Beneficiary group BIC"
+                    ],
+                    "sourceGroupIds": [
+                        "page2-USD-beneficiary"
+                    ],
+                    "sourceValues": [
+                        "PARBLULL"
+                    ],
+                    "evidence": [
+                        {
+                            "source": "paragraph",
+                            "path": "/paragraphs/148",
+                            "text": "BIC:"
+                        },
+                        {
+                            "source": "paragraph",
+                            "path": "/paragraphs/149",
+                            "text": "PARBLULL"
+                        }
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party2.accountIdentification",
+                    "fieldName": "Party 2 Account Identification",
+                    "mappedValue": "IBAN: LU733280373482F00840",
+                    "components": [
+                        {
+                            "componentType": "IBAN",
+                            "value": "LU733280373482F00840"
+                        }
+                    ],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Single explicit IBAN linked to same party group"
+                    ],
+                    "sourceGroupIds": [
+                        "page2-USD-beneficiary"
+                    ],
+                    "sourceValues": [
+                        "LU733280373482F00840"
+                    ],
+                    "evidence": [
+                        {
+                            "source": "paragraph",
+                            "path": "/paragraphs/150",
+                            "text": "IBAN:"
+                        },
+                        {
+                            "source": "paragraph",
+                            "path": "/paragraphs/151",
+                            "text": "LU733280373482F00840"
+                        }
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party2.accountName",
+                    "fieldName": "Party 2 Account Name",
+                    "mappedValue": "BNP Paribas Securities Services",
+                    "components": [
+                        {
+                            "componentType": "accountName",
+                            "value": "BNP Paribas Securities Services"
+                        }
+                    ],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Role-labelled institution name under same party group"
+                    ],
+                    "sourceGroupIds": [
+                        "page2-USD-beneficiary"
+                    ],
+                    "sourceValues": [
+                        "BNP Paribas Securities Services"
+                    ],
+                    "evidence": [
+                        {
+                            "source": "paragraph",
+                            "path": "/paragraphs/147",
+                            "text": "BNP Paribas Securities Services"
+                        }
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party3.identifier",
+                    "fieldName": "Party 3 Party Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party3.bic",
+                    "fieldName": "Party 3 BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party3.accountIdentification",
+                    "fieldName": "Party 3 Account Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party3.accountName",
+                    "fieldName": "Party 3 Account Name",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party4.identifier",
+                    "fieldName": "Party 4 Party Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party4.bic",
+                    "fieldName": "Party 4 BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party4.accountIdentification",
+                    "fieldName": "Party 4 Account Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party4.accountName",
+                    "fieldName": "Party 4 Account Name",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                }
+            ],
+            "recordReviewRequired": false,
+            "recordReviewReasonCodes": []
+        }
+    ],
+    "unmappedAndReview": [
+        {
+            "sourceBlockId": "document-level",
+            "reviewRequired": true,
+            "reason": "ACTION_NOT_STATED",
+            "sourceValues": [
+                "FIR DEA S.A. SICAV-RAIF Standard Settlement Instructions",
+                "Wiring Instructions for Trade Settlements & Principal, Fee and Interest Payments"
+            ],
+            "evidence": [
+                {
+                    "source": "paragraph",
+                    "path": "/paragraphs/112",
+                    "text": "FIR DEA S.A. SICAV-RAIF Standard Settlement Instructions"
+                },
+                {
+                    "source": "paragraph",
+                    "path": "/paragraphs/113",
+                    "text": "Wiring Instructions for Trade Settlements & Principal, Fee and Interest Payments"
+                }
+            ]
+        },
+        {
+            "sourceBlockId": "page2-EUR-block",
+            "reviewRequired": true,
+            "reason": "OUT_OF_SCOPE_FIELD_SOURCE_PRESERVED",
+            "sourceValues": [
+                "FFC: FIR DEA S.A. SICAV-RAIF"
+            ],
+            "evidence": [
+                {
+                    "source": "paragraph",
+                    "path": "/paragraphs/124",
+                    "text": "FFC:"
+                },
+                {
+                    "source": "paragraph",
+                    "path": "/paragraphs/125",
+                    "text": "FIR DEA S.A. SICAV-RAIF"
+                }
+            ]
+        },
+        {
+            "sourceBlockId": "page2-GBP-block",
+            "reviewRequired": true,
+            "reason": "OUT_OF_SCOPE_FIELD_SOURCE_PRESERVED",
+            "sourceValues": [
+                "FFC: FIR DEA S.A. SICAV-RAIF"
+            ],
+            "evidence": [
+                {
+                    "source": "paragraph",
+                    "path": "/paragraphs/137",
+                    "text": "FFC:"
+                },
+                {
+                    "source": "paragraph",
+                    "path": "/paragraphs/138",
+                    "text": "FIR DEA S.A. SICAV-RAIF"
+                }
+            ]
+        },
+        {
+            "sourceBlockId": "page2-USD-block",
+            "reviewRequired": true,
+            "reason": "OUT_OF_SCOPE_FIELD_SOURCE_PRESERVED",
+            "sourceValues": [
+                "FFC: FIR DEA S.A. SICAV-RAIF"
+            ],
+            "evidence": [
+                {
+                    "source": "paragraph",
+                    "path": "/paragraphs/152",
+                    "text": "FFC:"
+                },
+                {
+                    "source": "paragraph",
+                    "path": "/paragraphs/153",
+                    "text": "FIR DEA S.A. SICAV-RAIF"
+                }
+            ]
+        }
+    ]
+}

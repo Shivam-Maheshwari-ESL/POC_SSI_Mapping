@@ -1,0 +1,1224 @@
+{
+    "promptVersion": "P2_SANTANDER_FMSB_MAPPER_V1.0",
+    "rulesVersion": "Santander-FMSB-v2.0.3-Custom-Final",
+    "documentName": "Hana Securities Standard Settlement Instruction",
+    "records": [
+        {
+            "recordId": "SSI-001",
+            "sourceBlockId": "paragraphs/3",
+            "recordScopeStatus": "ACTION_NOT_STATED",
+            "fields": [
+                {
+                    "fieldId": "F-01",
+                    "fieldName": "action",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-02",
+                    "fieldName": "instructingParty.identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-03",
+                    "fieldName": "instructingParty.lei",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-04",
+                    "fieldName": "instructingParty.bic",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-05",
+                    "fieldName": "instructingParty.proprietaryIdentification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-06",
+                    "fieldName": "instructingParty.proprietarySchemeName",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-07",
+                    "fieldName": "beneficiary.entityIdentification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-08",
+                    "fieldName": "effectiveDate.parameter",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-09",
+                    "fieldName": "effectiveDate.start",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-10",
+                    "fieldName": "effectiveDate.end",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-11",
+                    "fieldName": "market.settlementPurpose",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-12",
+                    "fieldName": "market.settlementCountry",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-13",
+                    "fieldName": "market.classificationIdentifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-14",
+                    "fieldName": "market.isin",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-15",
+                    "fieldName": "market.settlementCurrency",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-16",
+                    "fieldName": "market.psafeBic",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-17",
+                    "fieldName": "depository.psetBic",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-18",
+                    "fieldName": "party1.identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-19",
+                    "fieldName": "party1.bic",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-20",
+                    "fieldName": "party1.accountIdentification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-21",
+                    "fieldName": "party1.accountName",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-22",
+                    "fieldName": "party2.identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-23",
+                    "fieldName": "party2.bic",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-24",
+                    "fieldName": "party2.accountIdentification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-25",
+                    "fieldName": "party2.accountName",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-26",
+                    "fieldName": "party3.identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-27",
+                    "fieldName": "party3.bic",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-28",
+                    "fieldName": "party3.accountIdentification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-29",
+                    "fieldName": "party3.accountName",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-30",
+                    "fieldName": "party4.identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-31",
+                    "fieldName": "party4.bic",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-32",
+                    "fieldName": "party4.accountIdentification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "F-33",
+                    "fieldName": "party4.accountName",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                }
+            ],
+            "recordReviewRequired": true,
+            "recordReviewReasonCodes": [
+                "MULTIPLE_CURRENCY_CANDIDATES",
+                "MULTIPLE_ACCOUNT_CANDIDATES",
+                "ACCOUNT_LINKAGE_AMBIGUOUS",
+                "PARTY_LIMIT_EXCEEDED"
+            ]
+        }
+    ],
+    "unmappedAndReview": [
+        {
+            "recordId": "SSI-001",
+            "reviewRequired": true,
+            "reason": "PARTY_LIMIT_EXCEEDED",
+            "sourceGroupId": "tables/1-r3c1",
+            "sourceRole": "Correspondent Bank",
+            "sourceValue": "COMMERZBANK (COBADEFFXXX)",
+            "evidence": [
+                "EUR | COMMERZBANK (COBADEFFXXX)"
+            ]
+        },
+        {
+            "recordId": "SSI-001",
+            "reviewRequired": true,
+            "reason": "PARTY_LIMIT_EXCEEDED",
+            "sourceGroupId": "tables/1-r4c1",
+            "sourceRole": "Correspondent Bank",
+            "sourceValue": "HSBC HK (HSBCHKHHHKH)",
+            "evidence": [
+                "HKD | HSBC HK (HSBCHKHHHKH)"
+            ]
+        },
+        {
+            "recordId": "SSI-001",
+            "reviewRequired": true,
+            "reason": "PARTY_LIMIT_EXCEEDED",
+            "sourceGroupId": "tables/1-r5c1",
+            "sourceRole": "Correspondent Bank",
+            "sourceValue": "STANDARD CHARTERED BANK (SCBLGB2LXXX)",
+            "evidence": [
+                "GBP | STANDARD CHARTERED BANK (SCBLGB2LXXX)"
+            ]
+        },
+        {
+            "recordId": "SSI-001",
+            "reviewRequired": true,
+            "reason": "PARTY_LIMIT_EXCEEDED",
+            "sourceGroupId": "tables/1-r6c1",
+            "sourceRole": "Correspondent Bank",
+            "sourceValue": "ANZ BANKING GROUP LIMITED (ANZBAU3MXXX)",
+            "evidence": [
+                "AUD | ANZ BANKING GROUP LIMITED (ANZBAU3MXXX)"
+            ]
+        },
+        {
+            "recordId": "SSI-001",
+            "reviewRequired": true,
+            "reason": "PARTY_LIMIT_EXCEEDED",
+            "sourceGroupId": "tables/1-r7c1",
+            "sourceRole": "Correspondent Bank",
+            "sourceValue": "BANK OF CHINA SEOUL BRANCH (BKCHKRSEXXX)",
+            "evidence": [
+                "CNY | BANK OF CHINA SEOUL BRANCH (BKCHKRSEXXX)"
+            ]
+        },
+        {
+            "recordId": "SSI-001",
+            "reviewRequired": true,
+            "reason": "OUT_OF_SCOPE_SOURCE_SECTION",
+            "sourceGroupId": "paragraphs/47,tables/2",
+            "sourceRole": "For physical delivery",
+            "sourceValue": "EUROCLEAR 77994; CLEARSTREAM 17341 / 83348; FED WIRE Citibank NYC / CUST / CBNY270514 ABA : 021000089; DTC : 0908(Citibank NYC), Sub a/c : 204726 Agent ID : 27603 / Institutional ID : 64113; KSD 56-0000-01 for collateral in KRW; KSD 56-0000-31 for collateral in USD",
+            "evidence": [
+                "For physical delivery",
+                "Institution | Account Number | Note",
+                "EUROCLEAR | 77994",
+                "CLEARSTREAM | 17341 / 83348",
+                "FED WIRE | Citibank NYC / CUST / CBNY270514 | ABA : 021000089",
+                "DTC | DTC : 0908(Citibank NYC), Sub a/c : 204726 | Agent ID : 27603 / Institutional ID : 64113",
+                "KSD | 56-0000-01 | for collateral in KRW",
+                "KSD | 56-0000-31 | for collateral in USD"
+            ]
+        },
+        {
+            "recordId": "SSI-001",
+            "reason": "NON_APPROVED_FIELDS_RETURNED",
+            "fields": [
+                {
+                    "fieldId": "action",
+                    "fieldName": "Action",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [
+                        "No explicit create/new SSI request wording found"
+                    ],
+                    "sourceGroupIds": [
+                        "paragraphs/3"
+                    ],
+                    "sourceValues": [
+                        "Please find Hana Securities' (HAFVKRS3XXX) Standard Settlement Instruction as follows."
+                    ],
+                    "evidence": [
+                        "Please find Hana Securities' (HAFVKRS3XXX) Standard Settlement Instruction as follows."
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.identifier",
+                    "fieldName": "Instructing Party Identifier",
+                    "mappedValue": "BIC",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Explicit party BIC provided for Hana Securities"
+                    ],
+                    "sourceGroupIds": [
+                        "paragraphs/3"
+                    ],
+                    "sourceValues": [
+                        "Hana Securities' (HAFVKRS3XXX)"
+                    ],
+                    "evidence": [
+                        "Please find Hana Securities' (HAFVKRS3XXX) Standard Settlement Instruction as follows."
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.lei",
+                    "fieldName": "Instructing Entity LEI",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.bic",
+                    "fieldName": "Instructing Party BIC",
+                    "mappedValue": "HAFVKRS3XXX",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Explicit BIC in instructing party context"
+                    ],
+                    "sourceGroupIds": [
+                        "paragraphs/3"
+                    ],
+                    "sourceValues": [
+                        "HAFVKRS3XXX"
+                    ],
+                    "evidence": [
+                        "Please find Hana Securities' (HAFVKRS3XXX) Standard Settlement Instruction as follows."
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.proprietaryIdentification",
+                    "fieldName": "Proprietary Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_APPLICABLE",
+                    "mappingBasis": [
+                        "Instructing party identified by BIC"
+                    ],
+                    "sourceGroupIds": [
+                        "paragraphs/3"
+                    ],
+                    "sourceValues": [
+                        "HAFVKRS3XXX"
+                    ],
+                    "evidence": [
+                        "Please find Hana Securities' (HAFVKRS3XXX) Standard Settlement Instruction as follows."
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "instructingParty.proprietarySchemeName",
+                    "fieldName": "Proprietary Scheme Name",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_APPLICABLE",
+                    "mappingBasis": [
+                        "Instructing party identified by BIC"
+                    ],
+                    "sourceGroupIds": [
+                        "paragraphs/3"
+                    ],
+                    "sourceValues": [
+                        "HAFVKRS3XXX"
+                    ],
+                    "evidence": [
+                        "Please find Hana Securities' (HAFVKRS3XXX) Standard Settlement Instruction as follows."
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "beneficiary.entityIdentification",
+                    "fieldName": "Beneficiary Entity Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [
+                        "No explicit beneficiary entity identifier/reference label found"
+                    ],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "effectiveDate.parameter",
+                    "fieldName": "Effective Date Parameter",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [
+                        "Exact effective date present but no explicit SETT/TRAD basis"
+                    ],
+                    "sourceGroupIds": [
+                        "paragraphs/3"
+                    ],
+                    "sourceValues": [
+                        "effective from 08JUL2022 until further notice"
+                    ],
+                    "evidence": [
+                        "These instructions cover Foreign Exchange, Money Market, or Derivatives transactions and are effective from 08JUL2022 until further notice."
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "effectiveDate.start",
+                    "fieldName": "Effective Start Date",
+                    "mappedValue": "2022-07-08",
+                    "components": [
+                        {
+                            "type": "rawDate",
+                            "value": "08JUL2022"
+                        }
+                    ],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Explicit effective from date"
+                    ],
+                    "sourceGroupIds": [
+                        "paragraphs/3"
+                    ],
+                    "sourceValues": [
+                        "08JUL2022"
+                    ],
+                    "evidence": [
+                        "These instructions cover Foreign Exchange, Money Market, or Derivatives transactions and are effective from 08JUL2022 until further notice."
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "effectiveDate.end",
+                    "fieldName": "Effective End Date",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [
+                        "Source states 'until further notice' not an exact end date"
+                    ],
+                    "sourceGroupIds": [
+                        "paragraphs/3"
+                    ],
+                    "sourceValues": [
+                        "until further notice"
+                    ],
+                    "evidence": [
+                        "These instructions cover Foreign Exchange, Money Market, or Derivatives transactions and are effective from 08JUL2022 until further notice."
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.settlementPurpose",
+                    "fieldName": "Settlement Purpose",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [
+                        "No explicit approved settlement purpose wording such as STMT/COLL/SECL"
+                    ],
+                    "sourceGroupIds": [
+                        "paragraphs/3"
+                    ],
+                    "sourceValues": [
+                        "Foreign Exchange, Money Market, or Derivatives transactions"
+                    ],
+                    "evidence": [
+                        "These instructions cover Foreign Exchange, Money Market, or Derivatives transactions and are effective from 08JUL2022 until further notice."
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.settlementCountry",
+                    "fieldName": "Settlement Country",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [
+                        "No explicit settlement country/market linked to a securities SSI record"
+                    ],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.classificationIdentifier",
+                    "fieldName": "Classification Identifier",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [
+                        "No explicit ISIN/CFI/Alternate Classification scheme provided"
+                    ],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.isin",
+                    "fieldName": "ISIN",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "market.settlementCurrency",
+                    "fieldName": "Settlement Currency",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "MANUAL_REVIEW_REQUIRED",
+                    "mappingBasis": [
+                        "Multiple currencies present in document without a single securities SSI record currency"
+                    ],
+                    "sourceGroupIds": [
+                        "tables/0",
+                        "tables/1"
+                    ],
+                    "sourceValues": [
+                        "KRW",
+                        "USD",
+                        "JPY",
+                        "EUR",
+                        "HKD",
+                        "GBP",
+                        "AUD",
+                        "CAD",
+                        "SGD",
+                        "CNY",
+                        "SEK"
+                    ],
+                    "evidence": [
+                        "For local cash delivery",
+                        "For offshore cash delivery"
+                    ],
+                    "reviewRequired": true,
+                    "reviewReasonCodes": [
+                        "MULTIPLE_CURRENCY_CANDIDATES"
+                    ]
+                },
+                {
+                    "fieldId": "market.psafeBic",
+                    "fieldName": "PSAFE BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [
+                        "No explicit PSAFE / Place of Safekeeping BIC wording found"
+                    ],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "depository.psetBic",
+                    "fieldName": "PSET Party Identifier - BIC",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "NOT_AVAILABLE",
+                    "mappingBasis": [
+                        "No explicit PSET / Place of Settlement / Depository BIC wording found"
+                    ],
+                    "sourceGroupIds": [],
+                    "sourceValues": [],
+                    "evidence": [],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party1.identifier",
+                    "fieldName": "Party 1 Party Identifier",
+                    "mappedValue": "BIC",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "First source party group in source order under local cash delivery"
+                    ],
+                    "sourceGroupIds": [
+                        "tables/0-r1c1-r1c2"
+                    ],
+                    "sourceValues": [
+                        "KEB Hana Bank (KOEXKRSEXXX)",
+                        "358-810001 - 85501"
+                    ],
+                    "evidence": [
+                        "KRW | KEB Hana Bank (KOEXKRSEXXX) | 358-810001 - 85501"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party1.bic",
+                    "fieldName": "Party 1 BIC",
+                    "mappedValue": "KOEXKRSEXXX",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "BIC present in first source party group"
+                    ],
+                    "sourceGroupIds": [
+                        "tables/0-r1c1"
+                    ],
+                    "sourceValues": [
+                        "KOEXKRSEXXX"
+                    ],
+                    "evidence": [
+                        "KEB Hana Bank (KOEXKRSEXXX)"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party1.accountIdentification",
+                    "fieldName": "Party 1 Account Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "MANUAL_REVIEW_REQUIRED",
+                    "mappingBasis": [
+                        "Multiple distinct accounts linked to same party across source groups"
+                    ],
+                    "sourceGroupIds": [
+                        "tables/0-r1c2",
+                        "tables/0-r3c2",
+                        "tables/0-r6c2",
+                        "tables/1-r1c2",
+                        "tables/1-r2c2"
+                    ],
+                    "sourceValues": [
+                        "358-810001 - 85501",
+                        "140-021731 - 00732",
+                        "140 - 910001 - 26538",
+                        "KEB Hana Bank (KOEXKRSEXXX) 140 - 021731 - 00732",
+                        "KEB Hana Bank (KOEXKRSEXXX) 140 - 910001 - 26538 ** Multi-Currency Account"
+                    ],
+                    "evidence": [
+                        "KRW | KEB Hana Bank (KOEXKRSEXXX) | 358-810001 - 85501",
+                        "USD | KEB Hana Bank (KOEXKRSEXXX) | 140-021731 - 00732",
+                        "HKD | 140 - 910001 - 26538",
+                        "USD | Citibank NY (CITIUS33XXX) | KEB Hana Bank (KOEXKRSEXXX) 140 - 021731 - 00732",
+                        "JPY | BANK OF TOKYO-MITSUBISHI (BOTKJPJTXXX) | KEB Hana Bank (KOEXKRSEXXX) 140 - 910001 - 26538 ** Multi-Currency Account"
+                    ],
+                    "reviewRequired": true,
+                    "reviewReasonCodes": [
+                        "MULTIPLE_ACCOUNT_CANDIDATES"
+                    ]
+                },
+                {
+                    "fieldId": "party1.accountName",
+                    "fieldName": "Party 1 Account Name",
+                    "mappedValue": "KEB Hana Bank",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Institution name under first source party group used as account name per priority 2"
+                    ],
+                    "sourceGroupIds": [
+                        "tables/0-r1c1"
+                    ],
+                    "sourceValues": [
+                        "KEB Hana Bank"
+                    ],
+                    "evidence": [
+                        "KEB Hana Bank (KOEXKRSEXXX)"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party2.identifier",
+                    "fieldName": "Party 2 Party Identifier",
+                    "mappedValue": "BIC",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Second distinct source party group in source order"
+                    ],
+                    "sourceGroupIds": [
+                        "tables/0-r2c1-r2c2"
+                    ],
+                    "sourceValues": [
+                        "Bank of Korea (BOKRKRSEXXX)",
+                        "8245"
+                    ],
+                    "evidence": [
+                        "KRW | Bank of Korea (BOKRKRSEXXX) | 8245"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party2.bic",
+                    "fieldName": "Party 2 BIC",
+                    "mappedValue": "BOKRKRSEXXX",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "BIC present in second source party group"
+                    ],
+                    "sourceGroupIds": [
+                        "tables/0-r2c1"
+                    ],
+                    "sourceValues": [
+                        "BOKRKRSEXXX"
+                    ],
+                    "evidence": [
+                        "Bank of Korea (BOKRKRSEXXX)"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party2.accountIdentification",
+                    "fieldName": "Party 2 Account Identification",
+                    "mappedValue": "8245",
+                    "components": [
+                        {
+                            "type": "accountNumber",
+                            "value": "8245"
+                        }
+                    ],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Single account linked to second source party group"
+                    ],
+                    "sourceGroupIds": [
+                        "tables/0-r2c2"
+                    ],
+                    "sourceValues": [
+                        "8245"
+                    ],
+                    "evidence": [
+                        "KRW | Bank of Korea (BOKRKRSEXXX) | 8245"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party2.accountName",
+                    "fieldName": "Party 2 Account Name",
+                    "mappedValue": "Bank of Korea",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Institution name under second source party group used as account name per priority 2"
+                    ],
+                    "sourceGroupIds": [
+                        "tables/0-r2c1"
+                    ],
+                    "sourceValues": [
+                        "Bank of Korea"
+                    ],
+                    "evidence": [
+                        "Bank of Korea (BOKRKRSEXXX)"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party3.identifier",
+                    "fieldName": "Party 3 Party Identifier",
+                    "mappedValue": "BIC",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Third distinct source party group in source order"
+                    ],
+                    "sourceGroupIds": [
+                        "tables/1-r1c1-r1c2"
+                    ],
+                    "sourceValues": [
+                        "Citibank NY (CITIUS33XXX)",
+                        "KEB Hana Bank (KOEXKRSEXXX) 140 - 021731 - 00732"
+                    ],
+                    "evidence": [
+                        "USD | Citibank NY (CITIUS33XXX) | KEB Hana Bank (KOEXKRSEXXX) 140 - 021731 - 00732"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party3.bic",
+                    "fieldName": "Party 3 BIC",
+                    "mappedValue": "CITIUS33XXX",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "BIC present in third source party group"
+                    ],
+                    "sourceGroupIds": [
+                        "tables/1-r1c1"
+                    ],
+                    "sourceValues": [
+                        "CITIUS33XXX"
+                    ],
+                    "evidence": [
+                        "Citibank NY (CITIUS33XXX)"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party3.accountIdentification",
+                    "fieldName": "Party 3 Account Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "MANUAL_REVIEW_REQUIRED",
+                    "mappingBasis": [
+                        "Account cell contains another institution plus account, not a clean single account for this party group"
+                    ],
+                    "sourceGroupIds": [
+                        "tables/1-r1c2"
+                    ],
+                    "sourceValues": [
+                        "KEB Hana Bank (KOEXKRSEXXX) 140 - 021731 - 00732"
+                    ],
+                    "evidence": [
+                        "USD | Citibank NY (CITIUS33XXX) | KEB Hana Bank (KOEXKRSEXXX) 140 - 021731 - 00732"
+                    ],
+                    "reviewRequired": true,
+                    "reviewReasonCodes": [
+                        "ACCOUNT_LINKAGE_AMBIGUOUS"
+                    ]
+                },
+                {
+                    "fieldId": "party3.accountName",
+                    "fieldName": "Party 3 Account Name",
+                    "mappedValue": "Citibank NY",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Institution name under third source party group used as account name per priority 2"
+                    ],
+                    "sourceGroupIds": [
+                        "tables/1-r1c1"
+                    ],
+                    "sourceValues": [
+                        "Citibank NY"
+                    ],
+                    "evidence": [
+                        "Citibank NY (CITIUS33XXX)"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party4.identifier",
+                    "fieldName": "Party 4 Party Identifier",
+                    "mappedValue": "BIC",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Fourth distinct source party group in source order"
+                    ],
+                    "sourceGroupIds": [
+                        "tables/1-r2c1-r2c2"
+                    ],
+                    "sourceValues": [
+                        "BANK OF TOKYO-MITSUBISHI (BOTKJPJTXXX)",
+                        "KEB Hana Bank (KOEXKRSEXXX) 140 - 910001 - 26538 ** Multi-Currency Account"
+                    ],
+                    "evidence": [
+                        "JPY | BANK OF TOKYO-MITSUBISHI (BOTKJPJTXXX) | KEB Hana Bank (KOEXKRSEXXX) 140 - 910001 - 26538 ** Multi-Currency Account"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party4.bic",
+                    "fieldName": "Party 4 BIC",
+                    "mappedValue": "BOTKJPJTXXX",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "BIC present in fourth source party group"
+                    ],
+                    "sourceGroupIds": [
+                        "tables/1-r2c1"
+                    ],
+                    "sourceValues": [
+                        "BOTKJPJTXXX"
+                    ],
+                    "evidence": [
+                        "BANK OF TOKYO-MITSUBISHI (BOTKJPJTXXX)"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                },
+                {
+                    "fieldId": "party4.accountIdentification",
+                    "fieldName": "Party 4 Account Identification",
+                    "mappedValue": null,
+                    "components": [],
+                    "mappingStatus": "MANUAL_REVIEW_REQUIRED",
+                    "mappingBasis": [
+                        "Account cell contains another institution plus account and note, not a clean single account for this party group"
+                    ],
+                    "sourceGroupIds": [
+                        "tables/1-r2c2"
+                    ],
+                    "sourceValues": [
+                        "KEB Hana Bank (KOEXKRSEXXX) 140 - 910001 - 26538 ** Multi-Currency Account"
+                    ],
+                    "evidence": [
+                        "JPY | BANK OF TOKYO-MITSUBISHI (BOTKJPJTXXX) | KEB Hana Bank (KOEXKRSEXXX) 140 - 910001 - 26538 ** Multi-Currency Account"
+                    ],
+                    "reviewRequired": true,
+                    "reviewReasonCodes": [
+                        "ACCOUNT_LINKAGE_AMBIGUOUS"
+                    ]
+                },
+                {
+                    "fieldId": "party4.accountName",
+                    "fieldName": "Party 4 Account Name",
+                    "mappedValue": "BANK OF TOKYO-MITSUBISHI",
+                    "components": [],
+                    "mappingStatus": "FOUND",
+                    "mappingBasis": [
+                        "Institution name under fourth source party group used as account name per priority 2"
+                    ],
+                    "sourceGroupIds": [
+                        "tables/1-r2c1"
+                    ],
+                    "sourceValues": [
+                        "BANK OF TOKYO-MITSUBISHI"
+                    ],
+                    "evidence": [
+                        "BANK OF TOKYO-MITSUBISHI (BOTKJPJTXXX)"
+                    ],
+                    "reviewRequired": false,
+                    "reviewReasonCodes": []
+                }
+            ]
+        }
+    ]
+}

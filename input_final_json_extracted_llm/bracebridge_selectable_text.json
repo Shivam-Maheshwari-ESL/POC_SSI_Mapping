@@ -1,0 +1,203 @@
+{
+    "document_metadata": {
+        "total_pages": 2,
+        "processing_mode": "native_text"
+    },
+    "ssi_records": [
+        {
+            "ssi_id": "SSI-001",
+            "fields": {
+                "currency": {
+                    "value": "AUD",
+                    "source_text": "AUD",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Bank": {
+                    "value": "Citibank Melbourne",
+                    "source_text": "Bank: Citibank Melbourne",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "BIC_1": {
+                    "value": "CITIAU2X",
+                    "source_text": "BIC: CITIAU2X",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "A/C": {
+                    "value": "Citigroup Global Markets Inc.",
+                    "source_text": "A/C: Citigroup Global Markets Inc.",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "BIC_2": {
+                    "value": "BSINYU33",
+                    "source_text": "BIC: BSINYU33",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Cash A/C": {
+                    "value": "021000003",
+                    "source_text": "Cash A/C: 021000003",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "FFC": {
+                    "value": "Fund Name & Account Number (according to Schedule A)",
+                    "source_text": "FFC: Fund Name & Account Number (according to Schedule A)",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "Two separate BIC fields are explicitly present within this SSI and were retained as BIC_1 and BIC_2 to avoid inference about their roles."
+            ]
+        },
+        {
+            "ssi_id": "SSI-002",
+            "fields": {
+                "currency": {
+                    "value": "CAD",
+                    "source_text": "CAD",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Bank": {
+                    "value": "Citibank Toronto, Canada",
+                    "source_text": "Bank: Citibank Toronto, Canada",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "A/C": {
+                    "value": "Citigroup Global Markets Inc.",
+                    "source_text": "A/C: Citigroup Global Markets Inc.",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "BIC": {
+                    "value": "CITICATT",
+                    "source_text": "BIC: CITICATT",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Cash A/C": {
+                    "value": "2-010896-046",
+                    "source_text": "Cash A/C: 2-010896-046",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "FFC": {
+                    "value": "Fund Name & Account Number (according to Schedule A)",
+                    "source_text": "FFC: Fund Name & Account Number (according to Schedule A)",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-003",
+            "fields": {
+                "currency": {
+                    "value": "CHF",
+                    "source_text": "CHF",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Bank": {
+                    "value": "Citi London",
+                    "source_text": "Bank: Citi London",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "BIC": {
+                    "value": "CITIGB2LXXX",
+                    "source_text": "BIC: CITIGB2LXXX",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "A/C_1": {
+                    "value": "Citibank N.A. London,",
+                    "source_text": "A/C: Citibank N.A. London,",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "address_or_location": {
+                    "value": "Cayley Wharf E14",
+                    "source_text": "Cayley Wharf E14",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "A/C_2": {
+                    "value": "10547557",
+                    "source_text": "A/C: 10547557",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "IBAN": {
+                    "value": "GB62CITI18500810547557",
+                    "source_text": "IBAN: GB62CITI18500810547557",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "FFC": {
+                    "value": "Fund Name & Account Number (according to Schedule A)",
+                    "source_text": "FFC: Fund Name & Account Number (according to Schedule A)",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "Two separate A/C fields are explicitly present within this SSI and were retained as A/C_1 and A/C_2 to avoid inference about their roles.",
+                "The line 'Cayley Wharf E14' is included as a standalone field because it appears between two A/C lines and is explicitly present, but no explicit label is provided."
+            ]
+        },
+        {
+            "ssi_id": "SSI-004",
+            "fields": {
+                "currency": {
+                    "value": "CZK",
+                    "source_text": "CZK",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Bank": {
+                    "value": "Citibank Prague",
+                    "source_text": "Bank: Citibank Prague",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "A/C": {
+                    "value": "Citigroup Global Markets Inc.",
+                    "source_text": "A/C: Citigroup Global Markets Inc.",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "BIC": {
+                    "value": "CITICZPX",
+                    "source_text": "BIC: CITICZPX",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "Cash A/C": {
+                    "value": "201369037",
+                    "source_text": "Cash A/C: 201369037",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "FFC": {
+                    "value": "Fund Name & Account Number (according to Schedule A)",
+                    "source_text": "FFC: Fund Name & Account Number (according to Schedule A)",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        }
+    ]
+}

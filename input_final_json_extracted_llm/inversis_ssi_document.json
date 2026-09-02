@@ -1,0 +1,1067 @@
+{
+    "document_metadata": {
+        "total_pages": 1,
+        "processing_mode": "native_text"
+    },
+    "ssi_records": [
+        {
+            "ssi_id": "SSI-001",
+            "fields": {
+                "COUNTRY": {
+                    "value": "AUSTRALIAN",
+                    "source_text": "AUSTRALIAN",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "PSET": {
+                    "value": "ACLRAU2S",
+                    "source_text": "ACLRAU2S",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Security Type": {
+                    "value": "Equity",
+                    "source_text": "Equity",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Account Name": {
+                    "value": "IICs AUSTRALIA",
+                    "source_text": "IICs AUSTRALIA",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Bic Code": {
+                    "value": "INVLESMMXXX",
+                    "source_text": "INVLESMMXXX",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Account Number": {
+                    "value": "2066650005",
+                    "source_text": "2066650005",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Bank Name": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Global Custodian Swift Address": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Local Custodian Swift Address": {
+                    "value": "CITIAU3X",
+                    "source_text": "CITIAU3X",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Clearing Agent": {
+                    "value": "Citibank, N.A., Australian Branch",
+                    "source_text": "Citibank, N.A., Australian Branch",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Local Sub A/ C": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Market Part. ID": {
+                    "value": "CITIAU3X",
+                    "source_text": "CITIAU3X",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "Extracted from table row 2.",
+                "COUNTRY is recorded exactly as shown: 'AUSTRALIAN'."
+            ]
+        },
+        {
+            "ssi_id": "SSI-002",
+            "fields": {
+                "COUNTRY": {
+                    "value": "AUSTRIA",
+                    "source_text": "AUSTRIA",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "PSET": {
+                    "value": "DAKVDEFF",
+                    "source_text": "DAKVDEFF",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Security Type": {
+                    "value": "Equity",
+                    "source_text": "Equity",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Account Name": {
+                    "value": "IICs AUSTRIA",
+                    "source_text": "IICs AUSTRIA",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Bic Code": {
+                    "value": "INVLESMMXXX",
+                    "source_text": "INVLESMMXXX",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Account Number": {
+                    "value": "4773002",
+                    "source_text": "4773002",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Bank Name": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Global Custodian Swift Address": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Local Custodian Swift Address": {
+                    "value": "INVLESMM",
+                    "source_text": "INVLESMM",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Clearing Agent": {
+                    "value": "Inversis Banco",
+                    "source_text": "Inversis Banco",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Local Sub A/ C": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Market Part. ID": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "Extracted from table row 3."
+            ]
+        },
+        {
+            "ssi_id": "SSI-003",
+            "fields": {
+                "COUNTRY": {
+                    "value": "AUSTRIA Securities non Eligible in T2S",
+                    "source_text": "AUSTRIA Securities non Eligible in T2S",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "PSET": {
+                    "value": "CEDELULL",
+                    "source_text": "CEDELULL",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Security Type": {
+                    "value": "Fixed Income",
+                    "source_text": "Fixed Income",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Account Name": {
+                    "value": "INVERSIS IIC CLEARSTREAM",
+                    "source_text": "INVERSIS IIC CLEARSTREAM",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Bic Code": {
+                    "value": "INVLESMMXXX",
+                    "source_text": "INVLESMMXXX",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Account Number": {
+                    "value": "Documented Acc: CBL 26724 Non-Documented Acc: CBL 26882",
+                    "source_text": "Documented Acc: CBL 26724 Non-Documented Acc: CBL 26882",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Bank Name": {
+                    "value": "Documented Acc: CBL 26724 Non-Documented Acc: CBL 26882",
+                    "source_text": "Documented Acc: CBL 26724 Non-Documented Acc: CBL 26882",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Global Custodian Swift Address": {
+                    "value": "CEDELULL",
+                    "source_text": "CEDELULL",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Local Custodian Swift Address": {
+                    "value": "CEDELULL",
+                    "source_text": "CEDELULL",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Clearing Agent": {
+                    "value": "Clearstream Banking S.A.",
+                    "source_text": "Clearstream Banking S.A.",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Local Sub A/ C": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Market Part. ID": {
+                    "value": "Documented Acc: CBL 26724 Non- Documented Acc: CBL 26882",
+                    "source_text": "Documented Acc: CBL 26724 Non- Documented Acc: CBL 26882",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "Extracted from table row 4.",
+                "The row label includes settlement scope text and is preserved exactly.",
+                "Spacing differs between Account Number/Bank Name and Market Part. ID cells ('Non-Documented' vs 'Non- Documented'); preserved exactly as shown."
+            ]
+        },
+        {
+            "ssi_id": "SSI-004",
+            "fields": {
+                "COUNTRY": {
+                    "value": "BELGIUM",
+                    "source_text": "BELGIUM",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "PSET": {
+                    "value": "DAKVDEFF",
+                    "source_text": "DAKVDEFF",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Security Type": {
+                    "value": "Equity",
+                    "source_text": "Equity",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Account Name": {
+                    "value": "IICs BELGIUM",
+                    "source_text": "IICs BELGIUM",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Bic Code": {
+                    "value": "INVLESMMXXX",
+                    "source_text": "INVLESMMXXX",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Account Number": {
+                    "value": "4773002",
+                    "source_text": "4773002",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Bank Name": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Global Custodian Swift Address": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Local Custodian Swift Address": {
+                    "value": "INVLESMM",
+                    "source_text": "INVLESMM",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Clearing Agent": {
+                    "value": "Inversis Banco",
+                    "source_text": "Inversis Banco",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Local Sub A/ C": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Market Part. ID": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "Extracted from table row 5."
+            ]
+        },
+        {
+            "ssi_id": "SSI-005",
+            "fields": {
+                "COUNTRY": {
+                    "value": "CANADA",
+                    "source_text": "CANADA",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "PSET": {
+                    "value": "CDSLCATT",
+                    "source_text": "CDSLCATT",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Security Type": {
+                    "value": "Equity",
+                    "source_text": "Equity",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Account Name": {
+                    "value": "IICs CANADA",
+                    "source_text": "IICs CANADA",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Bic Code": {
+                    "value": "INVLESMMXXX",
+                    "source_text": "INVLESMMXXX",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Account Number": {
+                    "value": "6014136009",
+                    "source_text": "6014136009",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Bank Name": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Global Custodian Swift Address": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Local Custodian Swift Address": {
+                    "value": "CITICATT",
+                    "source_text": "CITICATT",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Clearing Agent": {
+                    "value": "Citibank Canada",
+                    "source_text": "Citibank Canada",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Local Sub A/ C": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Market Part. ID": {
+                    "value": "OTC",
+                    "source_text": "OTC",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "Extracted from table row 6."
+            ]
+        },
+        {
+            "ssi_id": "SSI-006",
+            "fields": {
+                "COUNTRY": {
+                    "value": "DENMARK",
+                    "source_text": "DENMARK",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "PSET": {
+                    "value": "VPDKDKKK",
+                    "source_text": "VPDKDKKK",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Security Type": {
+                    "value": "Equity",
+                    "source_text": "Equity",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Account Name": {
+                    "value": "IICs DENMARK",
+                    "source_text": "IICs DENMARK",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Bic Code": {
+                    "value": "INVLESMMXXX",
+                    "source_text": "INVLESMMXXX",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Account Number": {
+                    "value": "5192690015",
+                    "source_text": "5192690015",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Bank Name": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Global Custodian Swift Address": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Local Custodian Swift Address": {
+                    "value": "CITIIEA1XXX",
+                    "source_text": "CITIIEA1XXX",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Clearing Agent": {
+                    "value": "Citiban Europe PLC",
+                    "source_text": "Citiban Europe PLC",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Local Sub A/ C": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Market Part. ID": {
+                    "value": "01250",
+                    "source_text": "01250",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "Extracted from table row 7.",
+                "Clearing Agent is preserved exactly as OCR/table text shows: 'Citiban Europe PLC'."
+            ]
+        },
+        {
+            "ssi_id": "SSI-007",
+            "fields": {
+                "COUNTRY": {
+                    "value": "FINLAND",
+                    "source_text": "FINLAND",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "PSET": {
+                    "value": "APKEFIHH",
+                    "source_text": "APKEFIHH",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Security Type": {
+                    "value": "Equity",
+                    "source_text": "Equity",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Account Name": {
+                    "value": "Fund Name FINLAND",
+                    "source_text": "Fund Name FINLAND",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Bic Code": {
+                    "value": "INVLESMMXXX",
+                    "source_text": "INVLESMMXXX",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Account Number": {
+                    "value": "one account per fund",
+                    "source_text": "one account per fund",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Bank Name": {
+                    "value": "Citibank",
+                    "source_text": "Citibank",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Global Custodian Swift Address": {
+                    "value": "CITIIE2XXXX",
+                    "source_text": "CITIIE2XXXX",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Local Custodian Swift Address": {
+                    "value": "CITIIE2XXXX",
+                    "source_text": "CITIIE2XXXX",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Clearing Agent": {
+                    "value": "Citiban Europe PLC",
+                    "source_text": "Citiban Europe PLC",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Local Sub A/ C": {
+                    "value": "880000320",
+                    "source_text": "880000320",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Market Part. ID": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "Extracted from table row 8.",
+                "Clearing Agent is preserved exactly as OCR/table text shows: 'Citiban Europe PLC'."
+            ]
+        },
+        {
+            "ssi_id": "SSI-008",
+            "fields": {
+                "COUNTRY": {
+                    "value": "FRANCE",
+                    "source_text": "FRANCE",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "PSET": {
+                    "value": "SICVFRPPXXX",
+                    "source_text": "SICVFRPPXXX",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Security Type": {
+                    "value": "Equity",
+                    "source_text": "Equity",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Account Name": {
+                    "value": "IICs FRANCE",
+                    "source_text": "IICs FRANCE",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Bic Code": {
+                    "value": "INVLESMMXXX",
+                    "source_text": "INVLESMMXXX",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Account Number": {
+                    "value": "0654716099 15% 0654716218 26.5% 0654716269 0%",
+                    "source_text": "0654716099 15% 0654716218 26.5% 0654716269 0%",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Bank Name": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Global Custodian Swift Address": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Local Custodian Swift Address": {
+                    "value": "CITTGB2LXXX",
+                    "source_text": "CITTGB2LXXX",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Clearing Agent": {
+                    "value": "Inversis Banco",
+                    "source_text": "Inversis Banco",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Local Sub A/ C": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Market Part. ID": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "Extracted from table row 9.",
+                "Account Number contains multiple account/tax-rate pairs in a single cell and is preserved exactly as one value."
+            ]
+        },
+        {
+            "ssi_id": "SSI-009",
+            "fields": {
+                "COUNTRY": {
+                    "value": "GERMANY",
+                    "source_text": "GERMANY",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "PSET": {
+                    "value": "DAKVDEFF",
+                    "source_text": "DAKVDEFF",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Security Type": {
+                    "value": "Equity",
+                    "source_text": "Equity",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Account Name": {
+                    "value": "IICS GERMANY",
+                    "source_text": "IICS GERMANY",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Bic Code": {
+                    "value": "INVLESMMXXX",
+                    "source_text": "INVLESMMXXX",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Account Number": {
+                    "value": "T2S 0011997309 - NON T2S CBL 68641",
+                    "source_text": "T2S 0011997309 - NON T2S CBL 68641",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Bank Name": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Global Custodian Swift Address": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Local Custodian Swift Address": {
+                    "value": "INVLESMM",
+                    "source_text": "INVLESMM",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Clearing Agent": {
+                    "value": "Citibank Europe PLC",
+                    "source_text": "Citibank Europe PLC",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Local Sub A/ C": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Market Part. ID": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "Extracted from table row 10."
+            ]
+        },
+        {
+            "ssi_id": "SSI-010",
+            "fields": {
+                "COUNTRY": {
+                    "value": "HONG KONG",
+                    "source_text": "HONG KONG",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "PSET": {
+                    "value": "XHKCHKH1",
+                    "source_text": "XHKCHKH1",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Security Type": {
+                    "value": "Equity",
+                    "source_text": "Equity",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Account Name": {
+                    "value": "IICS HONG KONG",
+                    "source_text": "IICS HONG KONG",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Bic Code": {
+                    "value": "INVLESMMXXX",
+                    "source_text": "INVLESMMXXX",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Account Number": {
+                    "value": "9615310001",
+                    "source_text": "9615310001",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Bank Name": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Global Custodian Swift Address": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Local Custodian Swift Address": {
+                    "value": "CITIHKHX",
+                    "source_text": "CITIHKHX",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Clearing Agent": {
+                    "value": "Citibank N.A, Hong Kong.",
+                    "source_text": "Citibank N.A, Hong Kong.",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Local Sub A/ C": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Market Part. ID": {
+                    "value": "CCASS Participant Id : C00010",
+                    "source_text": "CCASS Participant Id : C00010",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "Extracted from table row 11."
+            ]
+        },
+        {
+            "ssi_id": "SSI-011",
+            "fields": {
+                "COUNTRY": {
+                    "value": "ITALY",
+                    "source_text": "ITALY",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "PSET": {
+                    "value": "MOTIITMM",
+                    "source_text": "MOTIITMM",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Security Type": {
+                    "value": "Equity",
+                    "source_text": "Equity",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Account Name": {
+                    "value": "IICS ITALY",
+                    "source_text": "IICS ITALY",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Bic Code": {
+                    "value": "INVLESMMXXX",
+                    "source_text": "INVLESMMXXX",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Account Number": {
+                    "value": "0001248739",
+                    "source_text": "0001248739",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Bank Name": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Global Custodian Swift Address": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Local Custodian Swift Address": {
+                    "value": "CITIITMX",
+                    "source_text": "CITIITMX",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Clearing Agent": {
+                    "value": "Citibank, N.A, Milano",
+                    "source_text": "Citibank, N.A, Milano",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Local Sub A/ C": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Market Part. ID": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "Extracted from table row 12."
+            ]
+        },
+        {
+            "ssi_id": "SSI-012",
+            "fields": {
+                "COUNTRY": {
+                    "value": "JAPAN",
+                    "source_text": "JAPAN",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "PSET": {
+                    "value": "IJSDJPJT",
+                    "source_text": "IJSDJPJT",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Security Type": {
+                    "value": "Equity",
+                    "source_text": "Equity",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Account Name": {
+                    "value": "IICS JAPAN",
+                    "source_text": "IICS JAPAN",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Bic Code": {
+                    "value": "INVLESMMXXX",
+                    "source_text": "INVLESMMXXX",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Account Number": {
+                    "value": "319093",
+                    "source_text": "319093",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Bank Name": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Global Custodian Swift Address": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Local Custodian Swift Address": {
+                    "value": "CITIJPJT",
+                    "source_text": "CITIJPJT",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Clearing Agent": {
+                    "value": "Citibank N.A, Tokyo Branch",
+                    "source_text": "Citibank N.A, Tokyo Branch",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Local Sub A/ C": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Market Part. ID": {
+                    "value": "Clearing Code: 0040180",
+                    "source_text": "Clearing Code: 0040180",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "Extracted from table row 13."
+            ]
+        },
+        {
+            "ssi_id": "SSI-013",
+            "fields": {
+                "COUNTRY": {
+                    "value": "NETHERLANDS",
+                    "source_text": "NETHERLANDS",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "PSET": {
+                    "value": "DAKVDEFF",
+                    "source_text": "DAKVDEFF",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Security Type": {
+                    "value": "Equity",
+                    "source_text": "Equity",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Account Name": {
+                    "value": "IICs NETHERLANDS",
+                    "source_text": "IICs NETHERLANDS",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Bic Code": {
+                    "value": "INVLESMMXXX",
+                    "source_text": "INVLESMMXXX",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Account Number": {
+                    "value": "4773002",
+                    "source_text": "4773002",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Bank Name": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Global Custodian Swift Address": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Local Custodian Swift Address": {
+                    "value": "INVLESMM",
+                    "source_text": "INVLESMM",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Clearing Agent": {
+                    "value": "Inversis Banco",
+                    "source_text": "Inversis Banco",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Local Sub A/ C": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Market Part. ID": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "Extracted from table row 14."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,360 @@
+{
+    "document_metadata": {
+        "total_pages": 1,
+        "processing_mode": "native_text"
+    },
+    "ssi_records": [
+        {
+            "ssi_id": "SSI-001",
+            "fields": {
+                "section": {
+                    "value": "For local cash delivery",
+                    "source_text": "For local cash delivery",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "CCY": {
+                    "value": "KRW",
+                    "source_text": "KRW",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Beneficiary Bank": {
+                    "value": "KEB Hana Bank (KOEXKRSEXXX)\nBank of Korea (BOKRKRSEXXX)",
+                    "source_text": "KEB Hana Bank (KOEXKRSEXXX)\nBank of Korea (BOKRKRSEXXX)",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Account # at beneficiary Bank": {
+                    "value": "358-810001 - 85501\n8245",
+                    "source_text": "358-810001 - 85501\n8245",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "The local cash delivery table shows KRW as a row spanning two beneficiary bank/account lines; both lines were preserved together as presented."
+            ]
+        },
+        {
+            "ssi_id": "SSI-002",
+            "fields": {
+                "section": {
+                    "value": "For local cash delivery",
+                    "source_text": "For local cash delivery",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "CCY": {
+                    "value": "USD",
+                    "source_text": "USD",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Beneficiary Bank": {
+                    "value": "KEB Hana Bank (KOEXKRSEXXX)",
+                    "source_text": "KEB Hana Bank (KOEXKRSEXXX)",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Account # at beneficiary Bank": {
+                    "value": "140-021731 - 00732",
+                    "source_text": "140-021731 - 00732",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-003",
+            "fields": {
+                "section": {
+                    "value": "For local cash delivery",
+                    "source_text": "For local cash delivery",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "CCY": {
+                    "value": "JPY\nEUR\nHKD\nGBP\nAUD\nCAD\nSGD\nCNY\nSEK",
+                    "source_text": "JPY\nEUR\nHKD\nGBP\nAUD\nCAD\nSGD\nCNY\nSEK",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Beneficiary Bank": {
+                    "value": "KEB Hana Bank (KOEXKRSEXXX)",
+                    "source_text": "KEB Hana Bank (KOEXKRSEXXX)",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Account # at beneficiary Bank": {
+                    "value": "140 - 910001 - 26538",
+                    "source_text": "140 - 910001 - 26538",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "The local cash delivery table presents multiple currencies associated with the same account through merged/blank cells. They were preserved together in one SSI record because the document explicitly groups them under one shared instruction."
+            ]
+        },
+        {
+            "ssi_id": "SSI-004",
+            "fields": {
+                "section": {
+                    "value": "For offshore cash delivery",
+                    "source_text": "For offshore cash delivery",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "CCY": {
+                    "value": "USD",
+                    "source_text": "USD",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Correspondent Bank": {
+                    "value": "Citibank NY (CITIUS33XXX)",
+                    "source_text": "Citibank NY (CITIUS33XXX)",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Account # at Beneficiary Bank": {
+                    "value": "KEB Hana Bank (KOEXKRSEXXX) 140 - 021731 - 00732",
+                    "source_text": "KEB Hana Bank (KOEXKRSEXXX) 140 - 021731 - 00732",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-005",
+            "fields": {
+                "section": {
+                    "value": "For offshore cash delivery",
+                    "source_text": "For offshore cash delivery",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "CCY": {
+                    "value": "JPY\nEUR\nHKD\nGBP\nAUD\nCNY",
+                    "source_text": "JPY\nEUR\nHKD\nGBP\nAUD\nCNY",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Correspondent Bank": {
+                    "value": "BANK OF TOKYO-MITSUBISHI (BOTKJPJTXXX)\nCOMMERZBANK (COBADEFFXXX)\nHSBC HK (HSBCHKHHHKH)\nSTANDARD CHARTERED BANK (SCBLGB2LXXX)\nANZ BANKING GROUP LIMITED (ANZBAU3MXXX)\nBANK OF CHINA SEOUL BRANCH (BKCHKRSEXXX)",
+                    "source_text": "BANK OF TOKYO-MITSUBISHI (BOTKJPJTXXX)\nCOMMERZBANK (COBADEFFXXX)\nHSBC HK (HSBCHKHHHKH)\nSTANDARD CHARTERED BANK (SCBLGB2LXXX)\nANZ BANKING GROUP LIMITED (ANZBAU3MXXX)\nBANK OF CHINA SEOUL BRANCH (BKCHKRSEXXX)",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Account # at Beneficiary Bank": {
+                    "value": "KEB Hana Bank (KOEXKRSEXXX) 140 - 910001 - 26538 ** Multi-Currency Account",
+                    "source_text": "KEB Hana Bank (KOEXKRSEXXX) 140 - 910001 - 26538 ** Multi-Currency Account",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "The offshore cash delivery table shows one shared beneficiary bank/account cell spanning JPY, EUR, HKD, GBP, AUD, and CNY. These currencies were preserved together in one SSI record because the document explicitly groups them under the same shared instruction.",
+                "The leading '**' in '** Multi-Currency Account' has very low OCR confidence at word level, but the full line is present in the extracted paragraph/table content."
+            ]
+        },
+        {
+            "ssi_id": "SSI-006",
+            "fields": {
+                "section": {
+                    "value": "For physical delivery",
+                    "source_text": "For physical delivery",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Institution": {
+                    "value": "EUROCLEAR",
+                    "source_text": "EUROCLEAR",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Account Number": {
+                    "value": "77994",
+                    "source_text": "77994",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Note": {
+                    "value": null,
+                    "source_text": "",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "Note cell is blank in the table."
+            ]
+        },
+        {
+            "ssi_id": "SSI-007",
+            "fields": {
+                "section": {
+                    "value": "For physical delivery",
+                    "source_text": "For physical delivery",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Institution": {
+                    "value": "CLEARSTREAM",
+                    "source_text": "CLEARSTREAM",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Account Number": {
+                    "value": "17341 / 83348",
+                    "source_text": "17341 / 83348",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Note": {
+                    "value": null,
+                    "source_text": "",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "Note cell is blank in the table."
+            ]
+        },
+        {
+            "ssi_id": "SSI-008",
+            "fields": {
+                "section": {
+                    "value": "For physical delivery",
+                    "source_text": "For physical delivery",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Institution": {
+                    "value": "FED WIRE",
+                    "source_text": "FED WIRE",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Account Number": {
+                    "value": "Citibank NYC / CUST / CBNY270514",
+                    "source_text": "Citibank NYC / CUST / CBNY270514",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Note": {
+                    "value": "ABA : 021000089",
+                    "source_text": "ABA : 021000089",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-009",
+            "fields": {
+                "section": {
+                    "value": "For physical delivery",
+                    "source_text": "For physical delivery",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Institution": {
+                    "value": "DTC",
+                    "source_text": "DTC",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Account Number": {
+                    "value": "DTC : 0908(Citibank NYC), Sub a/c : 204726",
+                    "source_text": "DTC : 0908(Citibank NYC), Sub a/c : 204726",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Note": {
+                    "value": "Agent ID : 27603 / Institutional ID : 64113",
+                    "source_text": "Agent ID : 27603 / Institutional ID : 64113",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-010",
+            "fields": {
+                "section": {
+                    "value": "For physical delivery",
+                    "source_text": "For physical delivery",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Institution": {
+                    "value": "KSD",
+                    "source_text": "KSD",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Account Number": {
+                    "value": "56-0000-01",
+                    "source_text": "56-0000-01",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Note": {
+                    "value": "for collateral in KRW",
+                    "source_text": "for collateral in KRW",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        },
+        {
+            "ssi_id": "SSI-011",
+            "fields": {
+                "section": {
+                    "value": "For physical delivery",
+                    "source_text": "For physical delivery",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Institution": {
+                    "value": "KSD",
+                    "source_text": "KSD",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Account Number": {
+                    "value": "56-0000-31",
+                    "source_text": "56-0000-31",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "Note": {
+                    "value": "for collateral in USD",
+                    "source_text": "for collateral in USD",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": []
+        }
+    ]
+}

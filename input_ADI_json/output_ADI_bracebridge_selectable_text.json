@@ -1,0 +1,4275 @@
+{
+    "apiVersion": "2024-11-30",
+    "modelId": "prebuilt-layout",
+    "stringIndexType": "textElements",
+    "content": "FFI Fund Ltd. FYI Ltd. Olifant Fund Ltd.\nLegal Address c/o dms Corporate Services Ltd. dms House, 20 Genesis Close P.O. Box 1344 George Town Grand Cayman KY1-1108 Cayman Islands\nMailing Address Bracebridge Capital 888 Boylston St, 15th floor Boston, MA 02199\nForeign Currency Payment Instructions:\nAUD Bank: Citibank Melbourne\nBIC: CITIAU2X\nA/C: Citigroup Global Markets Inc.\nBIC: BSINYU33\nCash A/C: 021000003\nFFC: Fund Name & Account Number (according to Schedule A)\nCAD Bank: Citibank Toronto, Canada A/C: Citigroup Global Markets Inc. BIC: CITICATT Cash A/C: 2-010896-046\nFFC: Fund Name & Account Number (according to Schedule A)\nCHF Bank: Citi London\nBIC: CITIGB2LXXX A/C: Citibank N.A. London, Cayley Wharf E14 A/C: 10547557\nIBAN: GB62CITI18500810547557 FFC: Fund Name & Account Number (according to Schedule A)\nCZK\nBank: Citibank Prague\nA/C: Citigroup Global Markets Inc.\nBIC: CITICZPX Cash A/C: 201369037 FFC: Fund Name & Account Number (according to Schedule A)\n888 Boylston St, 15th, Boston, MA 02199 Phone: 617-349-2000 · Fax: 617-349-3708",
+    "pages": [
+        {
+            "pageNumber": 1,
+            "angle": -0.034299999475479126,
+            "width": 8.2639,
+            "height": 11.6806,
+            "unit": "inch",
+            "words": [
+                {
+                    "content": "FFI",
+                    "polygon": [
+                        1.0765,
+                        1.0938,
+                        1.2728,
+                        1.094,
+                        1.2729,
+                        1.2433,
+                        1.0768,
+                        1.2425
+                    ],
+                    "confidence": 0.955,
+                    "span": {
+                        "offset": 0,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "Fund",
+                    "polygon": [
+                        1.3341,
+                        1.0945,
+                        1.6604,
+                        1.0946,
+                        1.6604,
+                        1.2433,
+                        1.3343,
+                        1.2433
+                    ],
+                    "confidence": 0.991,
+                    "span": {
+                        "offset": 4,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Ltd.",
+                    "polygon": [
+                        1.7217,
+                        1.0941,
+                        1.9747,
+                        1.0933,
+                        1.9747,
+                        1.2433,
+                        1.7218,
+                        1.2433
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 9,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "FYI",
+                    "polygon": [
+                        1.0764,
+                        1.321,
+                        1.2765,
+                        1.3203,
+                        1.2765,
+                        1.4616,
+                        1.0766,
+                        1.4628
+                    ],
+                    "confidence": 0.974,
+                    "span": {
+                        "offset": 14,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "Ltd.",
+                    "polygon": [
+                        1.3393,
+                        1.3203,
+                        1.5923,
+                        1.3186,
+                        1.5923,
+                        1.4628,
+                        1.3393,
+                        1.4621
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 18,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Olifant",
+                    "polygon": [
+                        1.0768,
+                        1.5364,
+                        1.5404,
+                        1.536,
+                        1.5409,
+                        1.6918,
+                        1.0774,
+                        1.6927
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 23,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Fund",
+                    "polygon": [
+                        1.5964,
+                        1.5359,
+                        1.9224,
+                        1.5365,
+                        1.9228,
+                        1.6914,
+                        1.5969,
+                        1.6916
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 31,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Ltd.",
+                    "polygon": [
+                        1.9835,
+                        1.5364,
+                        2.2429,
+                        1.5341,
+                        2.2429,
+                        1.6912,
+                        1.9838,
+                        1.6907
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 36,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Legal",
+                    "polygon": [
+                        1.0729,
+                        1.9863,
+                        1.4436,
+                        1.9855,
+                        1.4436,
+                        2.1464,
+                        1.0733,
+                        2.1473
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 41,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "Address",
+                    "polygon": [
+                        1.4988,
+                        1.9849,
+                        2.066,
+                        1.9871,
+                        2.066,
+                        2.1446,
+                        1.4987,
+                        2.1467
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 47,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "c/o",
+                    "polygon": [
+                        1.0741,
+                        2.2135,
+                        1.2839,
+                        2.2126,
+                        1.2843,
+                        2.3715,
+                        1.0757,
+                        2.3716
+                    ],
+                    "confidence": 0.98,
+                    "span": {
+                        "offset": 55,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "dms",
+                    "polygon": [
+                        1.3364,
+                        2.2122,
+                        1.6222,
+                        2.2113,
+                        1.6224,
+                        2.3711,
+                        1.3367,
+                        2.3714
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 59,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "Corporate",
+                    "polygon": [
+                        1.6747,
+                        2.2111,
+                        2.3617,
+                        2.2086,
+                        2.3617,
+                        2.3687,
+                        1.6749,
+                        2.3711
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 63,
+                        "length": 9
+                    }
+                },
+                {
+                    "content": "Services",
+                    "polygon": [
+                        2.4168,
+                        2.2085,
+                        2.9911,
+                        2.2054,
+                        2.9909,
+                        2.366,
+                        2.4167,
+                        2.3684
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 73,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "Ltd.",
+                    "polygon": [
+                        3.0487,
+                        2.2047,
+                        3.2987,
+                        2.2029,
+                        3.2987,
+                        2.3626,
+                        3.0487,
+                        2.3654
+                    ],
+                    "confidence": 0.988,
+                    "span": {
+                        "offset": 82,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "dms",
+                    "polygon": [
+                        1.0757,
+                        2.4308,
+                        1.3664,
+                        2.4322,
+                        1.3662,
+                        2.589,
+                        1.0757,
+                        2.5892
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 87,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "House,",
+                    "polygon": [
+                        1.3975,
+                        2.4321,
+                        1.8907,
+                        2.4302,
+                        1.8908,
+                        2.5893,
+                        1.3974,
+                        2.589
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 91,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "20",
+                    "polygon": [
+                        1.9478,
+                        2.4301,
+                        2.1114,
+                        2.4303,
+                        2.1114,
+                        2.5887,
+                        1.9479,
+                        2.5889
+                    ],
+                    "confidence": 0.998,
+                    "span": {
+                        "offset": 98,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "Genesis",
+                    "polygon": [
+                        2.1685,
+                        2.4305,
+                        2.7084,
+                        2.4293,
+                        2.7073,
+                        2.5887,
+                        2.1683,
+                        2.5884
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 101,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Close",
+                    "polygon": [
+                        2.7603,
+                        2.4295,
+                        3.1446,
+                        2.4294,
+                        3.1446,
+                        2.5856,
+                        2.7594,
+                        2.5885
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 109,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "P.O.",
+                    "polygon": [
+                        1.075,
+                        2.6512,
+                        1.3504,
+                        2.6517,
+                        1.3504,
+                        2.8004,
+                        1.0751,
+                        2.8004
+                    ],
+                    "confidence": 0.988,
+                    "span": {
+                        "offset": 115,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Box",
+                    "polygon": [
+                        1.4168,
+                        2.6525,
+                        1.6651,
+                        2.6519,
+                        1.6652,
+                        2.8004,
+                        1.4168,
+                        2.8004
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 120,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "1344",
+                    "polygon": [
+                        1.7217,
+                        2.6513,
+                        2.0717,
+                        2.6508,
+                        2.0717,
+                        2.8004,
+                        1.7218,
+                        2.8004
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 124,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "George",
+                    "polygon": [
+                        1.0755,
+                        2.8747,
+                        1.5848,
+                        2.8744,
+                        1.5848,
+                        3.03,
+                        1.0755,
+                        3.0313
+                    ],
+                    "confidence": 0.998,
+                    "span": {
+                        "offset": 129,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "Town",
+                    "polygon": [
+                        1.6284,
+                        2.8745,
+                        2.0089,
+                        2.8727,
+                        2.0089,
+                        3.0307,
+                        1.6284,
+                        3.0298
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 136,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Grand",
+                    "polygon": [
+                        1.077,
+                        3.092,
+                        1.4951,
+                        3.0919,
+                        1.4949,
+                        3.2529,
+                        1.077,
+                        3.2539
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 141,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "Cayman",
+                    "polygon": [
+                        1.5533,
+                        3.0917,
+                        2.1142,
+                        3.0898,
+                        2.1141,
+                        3.251,
+                        1.5532,
+                        3.2529
+                    ],
+                    "confidence": 0.998,
+                    "span": {
+                        "offset": 147,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "KY1-1108",
+                    "polygon": [
+                        2.1751,
+                        3.0895,
+                        2.8364,
+                        3.0858,
+                        2.8364,
+                        3.2461,
+                        2.175,
+                        3.2503
+                    ],
+                    "confidence": 0.984,
+                    "span": {
+                        "offset": 154,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "Cayman",
+                    "polygon": [
+                        1.0769,
+                        3.3145,
+                        1.6442,
+                        3.3145,
+                        1.6445,
+                        3.4776,
+                        1.0768,
+                        3.4787
+                    ],
+                    "confidence": 0.998,
+                    "span": {
+                        "offset": 163,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "Islands",
+                    "polygon": [
+                        1.7058,
+                        3.3153,
+                        2.1902,
+                        3.3127,
+                        2.1901,
+                        3.477,
+                        1.706,
+                        3.4766
+                    ],
+                    "confidence": 0.963,
+                    "span": {
+                        "offset": 170,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Mailing",
+                    "polygon": [
+                        1.075,
+                        3.7567,
+                        1.5682,
+                        3.7582,
+                        1.5682,
+                        3.9182,
+                        1.0749,
+                        3.9182
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 178,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Address",
+                    "polygon": [
+                        1.6185,
+                        3.7578,
+                        2.1858,
+                        3.759,
+                        2.1858,
+                        3.9175,
+                        1.6185,
+                        3.9182
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 186,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Bracebridge",
+                    "polygon": [
+                        1.0755,
+                        3.9771,
+                        1.9189,
+                        3.9755,
+                        1.9187,
+                        4.1464,
+                        1.0758,
+                        4.1454
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 194,
+                        "length": 11
+                    }
+                },
+                {
+                    "content": "Capital",
+                    "polygon": [
+                        1.972,
+                        3.9752,
+                        2.4598,
+                        3.9767,
+                        2.4598,
+                        4.1456,
+                        1.9718,
+                        4.1464
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 206,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "888",
+                    "polygon": [
+                        1.0754,
+                        4.1999,
+                        1.3407,
+                        4.2008,
+                        1.3405,
+                        4.368,
+                        1.0753,
+                        4.3675
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 214,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "Boylston",
+                    "polygon": [
+                        1.4008,
+                        4.2002,
+                        1.9807,
+                        4.1988,
+                        1.9807,
+                        4.3661,
+                        1.4007,
+                        4.3679
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 218,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "St,",
+                    "polygon": [
+                        2.0408,
+                        4.1991,
+                        2.2104,
+                        4.1991,
+                        2.2104,
+                        4.365,
+                        2.0409,
+                        4.3656
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 227,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "15th",
+                    "polygon": [
+                        2.2733,
+                        4.1986,
+                        2.5742,
+                        4.1974,
+                        2.5736,
+                        4.3634,
+                        2.2733,
+                        4.365
+                    ],
+                    "confidence": 0.983,
+                    "span": {
+                        "offset": 231,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "floor",
+                    "polygon": [
+                        2.6261,
+                        4.1972,
+                        2.9563,
+                        4.1973,
+                        2.9563,
+                        4.3614,
+                        2.6256,
+                        4.3632
+                    ],
+                    "confidence": 0.998,
+                    "span": {
+                        "offset": 236,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "Boston,",
+                    "polygon": [
+                        1.0758,
+                        4.4255,
+                        1.5938,
+                        4.4241,
+                        1.5941,
+                        4.5841,
+                        1.076,
+                        4.5849
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 242,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "MA",
+                    "polygon": [
+                        1.6569,
+                        4.4238,
+                        1.8647,
+                        4.4223,
+                        1.8649,
+                        4.5829,
+                        1.6572,
+                        4.5837
+                    ],
+                    "confidence": 0.998,
+                    "span": {
+                        "offset": 250,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "02199",
+                    "polygon": [
+                        1.912,
+                        4.4219,
+                        2.3513,
+                        4.4191,
+                        2.3513,
+                        4.5815,
+                        1.9123,
+                        4.5826
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 253,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "Foreign",
+                    "polygon": [
+                        1.0759,
+                        4.8666,
+                        1.5949,
+                        4.8677,
+                        1.5945,
+                        5.039,
+                        1.0755,
+                        5.0382
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 259,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Currency",
+                    "polygon": [
+                        1.6513,
+                        4.8671,
+                        2.2719,
+                        4.8673,
+                        2.2714,
+                        5.0409,
+                        1.6509,
+                        5.0389
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 267,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "Payment",
+                    "polygon": [
+                        2.3312,
+                        4.8675,
+                        2.9349,
+                        4.866,
+                        2.9343,
+                        5.0394,
+                        2.3307,
+                        5.0408
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 276,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Instructions:",
+                    "polygon": [
+                        2.9885,
+                        4.8662,
+                        3.8409,
+                        4.8675,
+                        3.8409,
+                        5.0363,
+                        2.9879,
+                        5.0391
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 284,
+                        "length": 13
+                    }
+                },
+                {
+                    "content": "AUD",
+                    "polygon": [
+                        1.0711,
+                        5.3204,
+                        1.3868,
+                        5.3189,
+                        1.3868,
+                        5.4622,
+                        1.0712,
+                        5.4639
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 298,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "Bank:",
+                    "polygon": [
+                        1.0756,
+                        5.5367,
+                        1.4643,
+                        5.5353,
+                        1.4642,
+                        5.6929,
+                        1.0758,
+                        5.6936
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 302,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "Citibank",
+                    "polygon": [
+                        1.5264,
+                        5.5354,
+                        2.0783,
+                        5.537,
+                        2.078,
+                        5.6941,
+                        1.5263,
+                        5.6931
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 308,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "Melbourne",
+                    "polygon": [
+                        2.112,
+                        5.537,
+                        2.8764,
+                        5.5384,
+                        2.8764,
+                        5.6957,
+                        2.1116,
+                        5.6943
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 317,
+                        "length": 9
+                    }
+                },
+                {
+                    "content": "BIC:",
+                    "polygon": [
+                        1.0759,
+                        5.7516,
+                        1.3469,
+                        5.7518,
+                        1.3467,
+                        5.9058,
+                        1.0764,
+                        5.906
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 327,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "CITIAU2X",
+                    "polygon": [
+                        1.4076,
+                        5.7523,
+                        2.0603,
+                        5.7493,
+                        2.0603,
+                        5.9054,
+                        1.4076,
+                        5.9055
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 332,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "A/C:",
+                    "polygon": [
+                        1.0712,
+                        5.9734,
+                        1.3539,
+                        5.9755,
+                        1.3534,
+                        6.1417,
+                        1.0709,
+                        6.1415
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 341,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Citigroup",
+                    "polygon": [
+                        1.4143,
+                        5.976,
+                        2.04,
+                        5.9745,
+                        2.0397,
+                        6.1423,
+                        1.4137,
+                        6.1419
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 346,
+                        "length": 9
+                    }
+                },
+                {
+                    "content": "Global",
+                    "polygon": [
+                        2.0921,
+                        5.9745,
+                        2.5202,
+                        5.9743,
+                        2.5198,
+                        6.1422,
+                        2.0919,
+                        6.1423
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 356,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "Markets",
+                    "polygon": [
+                        2.5833,
+                        5.9747,
+                        3.124,
+                        5.9737,
+                        3.1233,
+                        6.1403,
+                        2.5828,
+                        6.142
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 363,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Inc.",
+                    "polygon": [
+                        3.1816,
+                        5.9734,
+                        3.4243,
+                        5.9724,
+                        3.4243,
+                        6.1387,
+                        3.181,
+                        6.1397
+                    ],
+                    "confidence": 0.974,
+                    "span": {
+                        "offset": 371,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "BIC:",
+                    "polygon": [
+                        1.0766,
+                        6.1971,
+                        1.3467,
+                        6.1974,
+                        1.3468,
+                        6.3517,
+                        1.0771,
+                        6.3523
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 376,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "BSINYU33",
+                    "polygon": [
+                        1.413,
+                        6.1975,
+                        2.1002,
+                        6.1947,
+                        2.1002,
+                        6.3506,
+                        1.4132,
+                        6.3518
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 381,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "Cash",
+                    "polygon": [
+                        1.0754,
+                        6.4215,
+                        1.4152,
+                        6.4203,
+                        1.4152,
+                        6.5758,
+                        1.0755,
+                        6.576
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 390,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "A/C:",
+                    "polygon": [
+                        1.4663,
+                        6.4205,
+                        1.7397,
+                        6.4195,
+                        1.7397,
+                        6.5755,
+                        1.4663,
+                        6.5757
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 395,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "021000003",
+                    "polygon": [
+                        1.801,
+                        6.4198,
+                        2.5967,
+                        6.4178,
+                        2.5967,
+                        6.5736,
+                        1.801,
+                        6.5749
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 400,
+                        "length": 9
+                    }
+                },
+                {
+                    "content": "FFC:",
+                    "polygon": [
+                        1.0755,
+                        6.6356,
+                        1.3728,
+                        6.6374,
+                        1.3725,
+                        6.8051,
+                        1.0753,
+                        6.8036
+                    ],
+                    "confidence": 0.991,
+                    "span": {
+                        "offset": 410,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Fund",
+                    "polygon": [
+                        1.4374,
+                        6.6377,
+                        1.7628,
+                        6.6388,
+                        1.7623,
+                        6.8056,
+                        1.437,
+                        6.8051
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 415,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Name",
+                    "polygon": [
+                        1.8245,
+                        6.639,
+                        2.2201,
+                        6.6397,
+                        2.2195,
+                        6.8078,
+                        1.824,
+                        6.8059
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 420,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "&",
+                    "polygon": [
+                        2.2734,
+                        6.6398,
+                        2.3743,
+                        6.6399,
+                        2.3738,
+                        6.8083,
+                        2.2728,
+                        6.808
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 425,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "Account",
+                    "polygon": [
+                        2.4192,
+                        6.6399,
+                        2.9719,
+                        6.6389,
+                        2.9712,
+                        6.8102,
+                        2.4187,
+                        6.8083
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 427,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Number",
+                    "polygon": [
+                        3.0056,
+                        6.639,
+                        3.5891,
+                        6.6393,
+                        3.5882,
+                        6.8119,
+                        3.0048,
+                        6.8103
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 435,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "(according",
+                    "polygon": [
+                        3.6368,
+                        6.6393,
+                        4.3549,
+                        6.6389,
+                        4.3542,
+                        6.8124,
+                        3.6359,
+                        6.812
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 442,
+                        "length": 10
+                    }
+                },
+                {
+                    "content": "to",
+                    "polygon": [
+                        4.4082,
+                        6.6388,
+                        4.5429,
+                        6.6386,
+                        4.5422,
+                        6.8129,
+                        4.4075,
+                        6.8126
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 453,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "Schedule",
+                    "polygon": [
+                        4.5962,
+                        6.6385,
+                        5.2246,
+                        6.6383,
+                        5.2234,
+                        6.8129,
+                        4.5954,
+                        6.8127
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 456,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "A)",
+                    "polygon": [
+                        5.2723,
+                        6.6384,
+                        5.4275,
+                        6.6388,
+                        5.4275,
+                        6.8132,
+                        5.2712,
+                        6.813
+                    ],
+                    "confidence": 0.971,
+                    "span": {
+                        "offset": 465,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "CAD",
+                    "polygon": [
+                        1.0762,
+                        7.0933,
+                        1.3868,
+                        7.0929,
+                        1.3868,
+                        7.2376,
+                        1.0765,
+                        7.2376
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 468,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "Bank:",
+                    "polygon": [
+                        1.0748,
+                        7.3103,
+                        1.4639,
+                        7.3091,
+                        1.4638,
+                        7.4683,
+                        1.0751,
+                        7.4679
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 472,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "Citibank",
+                    "polygon": [
+                        1.5265,
+                        7.3088,
+                        2.0906,
+                        7.3096,
+                        2.0902,
+                        7.4699,
+                        1.5264,
+                        7.468
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 478,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "Toronto,",
+                    "polygon": [
+                        2.1271,
+                        7.3096,
+                        2.7069,
+                        7.3106,
+                        2.7064,
+                        7.4702,
+                        2.1268,
+                        7.4701
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 487,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "Canada",
+                    "polygon": [
+                        2.7643,
+                        7.311,
+                        3.293,
+                        7.3096,
+                        3.293,
+                        7.4679,
+                        2.7638,
+                        7.4699
+                    ],
+                    "confidence": 0.998,
+                    "span": {
+                        "offset": 496,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "A/C:",
+                    "polygon": [
+                        1.0718,
+                        7.5302,
+                        1.3525,
+                        7.5315,
+                        1.3519,
+                        7.6975,
+                        1.0714,
+                        7.6971
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 503,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Citigroup",
+                    "polygon": [
+                        1.4124,
+                        7.5318,
+                        2.0392,
+                        7.5314,
+                        2.039,
+                        7.6989,
+                        1.4118,
+                        7.6977
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 508,
+                        "length": 9
+                    }
+                },
+                {
+                    "content": "Global",
+                    "polygon": [
+                        2.091,
+                        7.5315,
+                        2.5188,
+                        7.5313,
+                        2.5185,
+                        7.6981,
+                        2.0908,
+                        7.6988
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 518,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "Markets",
+                    "polygon": [
+                        2.5842,
+                        7.5313,
+                        3.1238,
+                        7.531,
+                        3.1233,
+                        7.6961,
+                        2.5839,
+                        7.6983
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 525,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Inc.",
+                    "polygon": [
+                        3.181,
+                        7.5309,
+                        3.4243,
+                        7.5311,
+                        3.4243,
+                        7.6942,
+                        3.1807,
+                        7.6957
+                    ],
+                    "confidence": 0.973,
+                    "span": {
+                        "offset": 533,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "BIC:",
+                    "polygon": [
+                        1.0759,
+                        7.7525,
+                        1.3468,
+                        7.753,
+                        1.3467,
+                        7.9069,
+                        1.0764,
+                        7.9069
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 538,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "CITICATT",
+                    "polygon": [
+                        1.4076,
+                        7.7534,
+                        2.0431,
+                        7.7521,
+                        2.0431,
+                        7.9079,
+                        1.4076,
+                        7.9071
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 543,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "Cash",
+                    "polygon": [
+                        1.0726,
+                        7.978,
+                        1.415,
+                        7.9777,
+                        1.4152,
+                        8.1305,
+                        1.0729,
+                        8.1326
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 552,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "A/C:",
+                    "polygon": [
+                        1.4654,
+                        7.9776,
+                        1.7398,
+                        7.9778,
+                        1.74,
+                        8.1309,
+                        1.4656,
+                        8.1304
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 557,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "2-010896-046",
+                    "polygon": [
+                        1.8003,
+                        7.9781,
+                        2.7847,
+                        7.9747,
+                        2.7847,
+                        8.1272,
+                        1.8004,
+                        8.1308
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 562,
+                        "length": 12
+                    }
+                },
+                {
+                    "content": "FFC:",
+                    "polygon": [
+                        1.0745,
+                        8.1955,
+                        1.3719,
+                        8.1973,
+                        1.3717,
+                        8.3603,
+                        1.0743,
+                        8.3596
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 575,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Fund",
+                    "polygon": [
+                        1.4353,
+                        8.1973,
+                        1.763,
+                        8.1971,
+                        1.7626,
+                        8.3606,
+                        1.435,
+                        8.3603
+                    ],
+                    "confidence": 0.991,
+                    "span": {
+                        "offset": 580,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Name",
+                    "polygon": [
+                        1.8263,
+                        8.1972,
+                        2.2202,
+                        8.1973,
+                        2.2197,
+                        8.3633,
+                        1.8259,
+                        8.361
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 585,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "&",
+                    "polygon": [
+                        2.2752,
+                        8.1973,
+                        2.3744,
+                        8.1973,
+                        2.3739,
+                        8.3639,
+                        2.2748,
+                        8.3636
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 590,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "Account",
+                    "polygon": [
+                        2.4185,
+                        8.1972,
+                        2.983,
+                        8.1971,
+                        2.9826,
+                        8.3655,
+                        2.418,
+                        8.364
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 592,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Number",
+                    "polygon": [
+                        3.0381,
+                        8.1972,
+                        3.5889,
+                        8.198,
+                        3.5884,
+                        8.3669,
+                        3.0376,
+                        8.3656
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 600,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "(according",
+                    "polygon": [
+                        3.6385,
+                        8.1979,
+                        4.3546,
+                        8.1972,
+                        4.354,
+                        8.3669,
+                        3.638,
+                        8.3669
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 607,
+                        "length": 10
+                    }
+                },
+                {
+                    "content": "to",
+                    "polygon": [
+                        4.4096,
+                        8.1972,
+                        4.5446,
+                        8.1969,
+                        4.5441,
+                        8.3669,
+                        4.4091,
+                        8.3669
+                    ],
+                    "confidence": 0.998,
+                    "span": {
+                        "offset": 618,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "Schedule",
+                    "polygon": [
+                        4.5969,
+                        8.1965,
+                        5.2221,
+                        8.1961,
+                        5.2215,
+                        8.3669,
+                        4.5964,
+                        8.3669
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 621,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "A)",
+                    "polygon": [
+                        5.2717,
+                        8.1961,
+                        5.4275,
+                        8.1963,
+                        5.4275,
+                        8.3669,
+                        5.2711,
+                        8.3669
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 630,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "CHF",
+                    "polygon": [
+                        1.0761,
+                        8.6452,
+                        1.364,
+                        8.6434,
+                        1.364,
+                        8.7832,
+                        1.0761,
+                        8.7832
+                    ],
+                    "confidence": 0.999,
+                    "span": {
+                        "offset": 633,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "Bank:",
+                    "polygon": [
+                        1.0751,
+                        8.8629,
+                        1.4644,
+                        8.8627,
+                        1.4644,
+                        9.014,
+                        1.0754,
+                        9.0137
+                    ],
+                    "confidence": 0.998,
+                    "span": {
+                        "offset": 637,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "Citi",
+                    "polygon": [
+                        1.5264,
+                        8.863,
+                        1.7372,
+                        8.8627,
+                        1.7371,
+                        9.0141,
+                        1.5264,
+                        9.0138
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 643,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "London",
+                    "polygon": [
+                        1.8016,
+                        8.8633,
+                        2.3114,
+                        8.8642,
+                        2.3114,
+                        9.0141,
+                        1.8016,
+                        9.0146
+                    ],
+                    "confidence": 0.998,
+                    "span": {
+                        "offset": 648,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "BIC:",
+                    "polygon": [
+                        1.0749,
+                        9.0833,
+                        1.3471,
+                        9.0845,
+                        1.347,
+                        9.2332,
+                        1.0753,
+                        9.2334
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 655,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "CITIGB2LXXX",
+                    "polygon": [
+                        1.4083,
+                        9.0847,
+                        2.3342,
+                        9.0833,
+                        2.3342,
+                        9.2332,
+                        1.4084,
+                        9.2329
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 660,
+                        "length": 11
+                    }
+                },
+                {
+                    "content": "A/C:",
+                    "polygon": [
+                        1.07,
+                        9.3054,
+                        1.3522,
+                        9.3073,
+                        1.3519,
+                        9.4624,
+                        1.0698,
+                        9.4611
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 672,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Citibank",
+                    "polygon": [
+                        1.4138,
+                        9.3071,
+                        1.9603,
+                        9.3069,
+                        1.9601,
+                        9.4628,
+                        1.4135,
+                        9.4624
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 677,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "N.A.",
+                    "polygon": [
+                        2.0039,
+                        9.3071,
+                        2.2989,
+                        9.3068,
+                        2.2984,
+                        9.4648,
+                        2.0036,
+                        9.4631
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 686,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "London,",
+                    "polygon": [
+                        2.363,
+                        9.3072,
+                        2.9106,
+                        9.3093,
+                        2.9106,
+                        9.4664,
+                        2.3625,
+                        9.4647
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 691,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Cayley",
+                    "polygon": [
+                        1.0738,
+                        9.533,
+                        1.5484,
+                        9.5324,
+                        1.5488,
+                        9.6928,
+                        1.0739,
+                        9.6931
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 699,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "Wharf",
+                    "polygon": [
+                        1.5956,
+                        9.5322,
+                        2.0151,
+                        9.5283,
+                        2.0155,
+                        9.689,
+                        1.5961,
+                        9.6925
+                    ],
+                    "confidence": 0.998,
+                    "span": {
+                        "offset": 706,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "E14",
+                    "polygon": [
+                        2.065,
+                        9.528,
+                        2.3285,
+                        9.5272,
+                        2.3285,
+                        9.6859,
+                        2.0652,
+                        9.6885
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 712,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "A/C:",
+                    "polygon": [
+                        1.0703,
+                        9.753,
+                        1.3545,
+                        9.754,
+                        1.3542,
+                        9.901,
+                        1.0703,
+                        9.9011
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 716,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "10547557",
+                    "polygon": [
+                        1.4219,
+                        9.754,
+                        2.1173,
+                        9.7539,
+                        2.1173,
+                        9.8993,
+                        1.4216,
+                        9.9011
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 721,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "IBAN:",
+                    "polygon": [
+                        1.0734,
+                        9.9766,
+                        1.4504,
+                        9.977,
+                        1.4503,
+                        10.1235,
+                        1.0736,
+                        10.1235
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 730,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "GB62CITI18500810547557",
+                    "polygon": [
+                        1.5104,
+                        9.9771,
+                        3.3884,
+                        9.9733,
+                        3.3877,
+                        10.1206,
+                        1.5102,
+                        10.1233
+                    ],
+                    "confidence": 0.991,
+                    "span": {
+                        "offset": 736,
+                        "length": 22
+                    }
+                },
+                {
+                    "content": "FFC:",
+                    "polygon": [
+                        1.075,
+                        10.1943,
+                        1.3732,
+                        10.1955,
+                        1.3731,
+                        10.3518,
+                        1.075,
+                        10.3517
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 759,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Fund",
+                    "polygon": [
+                        1.436,
+                        10.1956,
+                        1.7629,
+                        10.1962,
+                        1.7627,
+                        10.3517,
+                        1.4359,
+                        10.3517
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 764,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Name",
+                    "polygon": [
+                        1.8257,
+                        10.1962,
+                        2.2206,
+                        10.1972,
+                        2.2204,
+                        10.3541,
+                        1.8255,
+                        10.3519
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 769,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "&",
+                    "polygon": [
+                        2.2729,
+                        10.1975,
+                        2.3723,
+                        10.1977,
+                        2.3721,
+                        10.3547,
+                        2.2727,
+                        10.3544
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 774,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "Account",
+                    "polygon": [
+                        2.4194,
+                        10.1977,
+                        2.9843,
+                        10.1977,
+                        2.9842,
+                        10.3561,
+                        2.4191,
+                        10.3547
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 776,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Number",
+                    "polygon": [
+                        3.0392,
+                        10.1978,
+                        3.5885,
+                        10.198,
+                        3.5884,
+                        10.3574,
+                        3.0391,
+                        10.3562
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 784,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "(according",
+                    "polygon": [
+                        3.6382,
+                        10.1978,
+                        4.3548,
+                        10.1967,
+                        4.3545,
+                        10.3574,
+                        3.638,
+                        10.3574
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 791,
+                        "length": 10
+                    }
+                },
+                {
+                    "content": "to",
+                    "polygon": [
+                        4.4098,
+                        10.1966,
+                        4.5431,
+                        10.1964,
+                        4.5428,
+                        10.3574,
+                        4.4094,
+                        10.3574
+                    ],
+                    "confidence": 0.999,
+                    "span": {
+                        "offset": 802,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "Schedule",
+                    "polygon": [
+                        4.5981,
+                        10.1963,
+                        5.2232,
+                        10.1954,
+                        5.2227,
+                        10.3574,
+                        4.5977,
+                        10.3574
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 805,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "A)",
+                    "polygon": [
+                        5.2702,
+                        10.1954,
+                        5.4275,
+                        10.1953,
+                        5.4275,
+                        10.3574,
+                        5.2698,
+                        10.3574
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 814,
+                        "length": 2
+                    }
+                }
+            ],
+            "lines": [
+                {
+                    "content": "FFI Fund Ltd.",
+                    "polygon": [
+                        1.0765,
+                        1.0933,
+                        1.9737,
+                        1.0932,
+                        1.9737,
+                        1.2426,
+                        1.0765,
+                        1.2427
+                    ],
+                    "spans": [
+                        {
+                            "offset": 0,
+                            "length": 13
+                        }
+                    ]
+                },
+                {
+                    "content": "FYI Ltd.",
+                    "polygon": [
+                        1.0764,
+                        1.3188,
+                        1.591,
+                        1.3186,
+                        1.591,
+                        1.4603,
+                        1.0765,
+                        1.4606
+                    ],
+                    "spans": [
+                        {
+                            "offset": 14,
+                            "length": 8
+                        }
+                    ]
+                },
+                {
+                    "content": "Olifant Fund Ltd.",
+                    "polygon": [
+                        1.0768,
+                        1.5364,
+                        2.2372,
+                        1.534,
+                        2.2375,
+                        1.6885,
+                        1.0771,
+                        1.6909
+                    ],
+                    "spans": [
+                        {
+                            "offset": 23,
+                            "length": 17
+                        }
+                    ]
+                },
+                {
+                    "content": "Legal Address",
+                    "polygon": [
+                        1.0729,
+                        1.9853,
+                        2.0627,
+                        1.9848,
+                        2.0629,
+                        2.1438,
+                        1.0731,
+                        2.1448
+                    ],
+                    "spans": [
+                        {
+                            "offset": 41,
+                            "length": 13
+                        }
+                    ]
+                },
+                {
+                    "content": "c/o dms Corporate Services Ltd.",
+                    "polygon": [
+                        1.0741,
+                        2.2132,
+                        3.2981,
+                        2.2027,
+                        3.2987,
+                        2.3619,
+                        1.0749,
+                        2.3724
+                    ],
+                    "spans": [
+                        {
+                            "offset": 55,
+                            "length": 31
+                        }
+                    ]
+                },
+                {
+                    "content": "dms House, 20 Genesis Close",
+                    "polygon": [
+                        1.0756,
+                        2.4308,
+                        3.1408,
+                        2.4288,
+                        3.141,
+                        2.5859,
+                        1.0757,
+                        2.5879
+                    ],
+                    "spans": [
+                        {
+                            "offset": 87,
+                            "length": 27
+                        }
+                    ]
+                },
+                {
+                    "content": "P.O. Box 1344",
+                    "polygon": [
+                        1.075,
+                        2.6512,
+                        2.0683,
+                        2.6505,
+                        2.0684,
+                        2.7997,
+                        1.0751,
+                        2.8004
+                    ],
+                    "spans": [
+                        {
+                            "offset": 115,
+                            "length": 13
+                        }
+                    ]
+                },
+                {
+                    "content": "George Town",
+                    "polygon": [
+                        1.0753,
+                        2.8733,
+                        2.0085,
+                        2.8726,
+                        2.0086,
+                        3.028,
+                        1.0755,
+                        3.0287
+                    ],
+                    "spans": [
+                        {
+                            "offset": 129,
+                            "length": 11
+                        }
+                    ]
+                },
+                {
+                    "content": "Grand Cayman KY1-1108",
+                    "polygon": [
+                        1.0764,
+                        3.092,
+                        2.8355,
+                        3.0855,
+                        2.8361,
+                        3.2462,
+                        1.077,
+                        3.253
+                    ],
+                    "spans": [
+                        {
+                            "offset": 141,
+                            "length": 21
+                        }
+                    ]
+                },
+                {
+                    "content": "Cayman Islands",
+                    "polygon": [
+                        1.0764,
+                        3.3145,
+                        2.1861,
+                        3.3118,
+                        2.1865,
+                        3.4742,
+                        1.0768,
+                        3.4769
+                    ],
+                    "spans": [
+                        {
+                            "offset": 163,
+                            "length": 14
+                        }
+                    ]
+                },
+                {
+                    "content": "Mailing Address",
+                    "polygon": [
+                        1.075,
+                        3.7567,
+                        2.1838,
+                        3.7575,
+                        2.1836,
+                        3.9182,
+                        1.0749,
+                        3.918
+                    ],
+                    "spans": [
+                        {
+                            "offset": 178,
+                            "length": 15
+                        }
+                    ]
+                },
+                {
+                    "content": "Bracebridge Capital",
+                    "polygon": [
+                        1.0755,
+                        3.9764,
+                        2.4593,
+                        3.9746,
+                        2.4595,
+                        4.1447,
+                        1.0757,
+                        4.1464
+                    ],
+                    "spans": [
+                        {
+                            "offset": 194,
+                            "length": 19
+                        }
+                    ]
+                },
+                {
+                    "content": "888 Boylston St, 15th floor",
+                    "polygon": [
+                        1.075,
+                        4.1999,
+                        2.9509,
+                        4.1961,
+                        2.9512,
+                        4.3625,
+                        1.0753,
+                        4.3663
+                    ],
+                    "spans": [
+                        {
+                            "offset": 214,
+                            "length": 27
+                        }
+                    ]
+                },
+                {
+                    "content": "Boston, MA 02199",
+                    "polygon": [
+                        1.0754,
+                        4.4234,
+                        2.3505,
+                        4.419,
+                        2.3511,
+                        4.5788,
+                        1.076,
+                        4.5833
+                    ],
+                    "spans": [
+                        {
+                            "offset": 242,
+                            "length": 16
+                        }
+                    ]
+                },
+                {
+                    "content": "Foreign Currency Payment Instructions:",
+                    "polygon": [
+                        1.0754,
+                        4.8666,
+                        3.8405,
+                        4.8653,
+                        3.8405,
+                        5.038,
+                        1.0755,
+                        5.0393
+                    ],
+                    "spans": [
+                        {
+                            "offset": 259,
+                            "length": 38
+                        }
+                    ]
+                },
+                {
+                    "content": "AUD",
+                    "polygon": [
+                        1.0702,
+                        5.3198,
+                        1.3867,
+                        5.3178,
+                        1.3868,
+                        5.4598,
+                        1.0712,
+                        5.4619
+                    ],
+                    "spans": [
+                        {
+                            "offset": 298,
+                            "length": 3
+                        }
+                    ]
+                },
+                {
+                    "content": "Bank: Citibank Melbourne",
+                    "polygon": [
+                        1.0757,
+                        5.5338,
+                        2.8749,
+                        5.5365,
+                        2.8747,
+                        5.6938,
+                        1.0754,
+                        5.6911
+                    ],
+                    "spans": [
+                        {
+                            "offset": 302,
+                            "length": 24
+                        }
+                    ]
+                },
+                {
+                    "content": "BIC: CITIAU2X",
+                    "polygon": [
+                        1.0759,
+                        5.7493,
+                        2.0563,
+                        5.7487,
+                        2.0564,
+                        5.9028,
+                        1.076,
+                        5.9034
+                    ],
+                    "spans": [
+                        {
+                            "offset": 327,
+                            "length": 13
+                        }
+                    ]
+                },
+                {
+                    "content": "A/C: Citigroup Global Markets Inc.",
+                    "polygon": [
+                        1.0708,
+                        5.9734,
+                        3.4215,
+                        5.9724,
+                        3.4216,
+                        6.1393,
+                        1.0709,
+                        6.1403
+                    ],
+                    "spans": [
+                        {
+                            "offset": 341,
+                            "length": 34
+                        }
+                    ]
+                },
+                {
+                    "content": "BIC: BSINYU33",
+                    "polygon": [
+                        1.0766,
+                        6.1971,
+                        2.0948,
+                        6.1939,
+                        2.0953,
+                        6.3482,
+                        1.0771,
+                        6.3515
+                    ],
+                    "spans": [
+                        {
+                            "offset": 376,
+                            "length": 13
+                        }
+                    ]
+                },
+                {
+                    "content": "Cash A/C: 021000003",
+                    "polygon": [
+                        1.0751,
+                        6.4213,
+                        2.5925,
+                        6.4168,
+                        2.5929,
+                        6.5723,
+                        1.0755,
+                        6.576
+                    ],
+                    "spans": [
+                        {
+                            "offset": 390,
+                            "length": 19
+                        }
+                    ]
+                },
+                {
+                    "content": "FFC: Fund Name & Account Number (according to Schedule A)",
+                    "polygon": [
+                        1.0754,
+                        6.6356,
+                        5.426,
+                        6.6382,
+                        5.4259,
+                        6.8108,
+                        1.0753,
+                        6.8083
+                    ],
+                    "spans": [
+                        {
+                            "offset": 410,
+                            "length": 57
+                        }
+                    ]
+                },
+                {
+                    "content": "CAD",
+                    "polygon": [
+                        1.0762,
+                        7.0914,
+                        1.3836,
+                        7.0915,
+                        1.3835,
+                        7.2353,
+                        1.0762,
+                        7.2352
+                    ],
+                    "spans": [
+                        {
+                            "offset": 468,
+                            "length": 3
+                        }
+                    ]
+                },
+                {
+                    "content": "Bank: Citibank Toronto, Canada",
+                    "polygon": [
+                        1.0748,
+                        7.3078,
+                        3.2882,
+                        7.3096,
+                        3.2881,
+                        7.4685,
+                        1.0746,
+                        7.4667
+                    ],
+                    "spans": [
+                        {
+                            "offset": 472,
+                            "length": 30
+                        }
+                    ]
+                },
+                {
+                    "content": "A/C: Citigroup Global Markets Inc.",
+                    "polygon": [
+                        1.0715,
+                        7.5302,
+                        3.4209,
+                        7.5309,
+                        3.4208,
+                        7.697,
+                        1.0714,
+                        7.6963
+                    ],
+                    "spans": [
+                        {
+                            "offset": 503,
+                            "length": 34
+                        }
+                    ]
+                },
+                {
+                    "content": "BIC: CITICATT",
+                    "polygon": [
+                        1.0759,
+                        7.7511,
+                        2.0405,
+                        7.752,
+                        2.0403,
+                        7.9052,
+                        1.0757,
+                        7.9044
+                    ],
+                    "spans": [
+                        {
+                            "offset": 538,
+                            "length": 13
+                        }
+                    ]
+                },
+                {
+                    "content": "Cash A/C: 2-010896-046",
+                    "polygon": [
+                        1.0726,
+                        7.9773,
+                        2.7813,
+                        7.9746,
+                        2.7815,
+                        8.1273,
+                        1.0729,
+                        8.13
+                    ],
+                    "spans": [
+                        {
+                            "offset": 552,
+                            "length": 22
+                        }
+                    ]
+                },
+                {
+                    "content": "FFC: Fund Name & Account Number (according to Schedule A)",
+                    "polygon": [
+                        1.0743,
+                        8.1955,
+                        5.4258,
+                        8.1952,
+                        5.4258,
+                        8.3647,
+                        1.0743,
+                        8.365
+                    ],
+                    "spans": [
+                        {
+                            "offset": 575,
+                            "length": 57
+                        }
+                    ]
+                },
+                {
+                    "content": "CHF",
+                    "polygon": [
+                        1.076,
+                        8.6432,
+                        1.364,
+                        8.643,
+                        1.364,
+                        8.7821,
+                        1.0761,
+                        8.7823
+                    ],
+                    "spans": [
+                        {
+                            "offset": 633,
+                            "length": 3
+                        }
+                    ]
+                },
+                {
+                    "content": "Bank: Citi London",
+                    "polygon": [
+                        1.0751,
+                        8.8613,
+                        2.3069,
+                        8.8629,
+                        2.3067,
+                        9.0132,
+                        1.0749,
+                        9.0115
+                    ],
+                    "spans": [
+                        {
+                            "offset": 637,
+                            "length": 17
+                        }
+                    ]
+                },
+                {
+                    "content": "BIC: CITIGB2LXXX",
+                    "polygon": [
+                        1.0749,
+                        9.0833,
+                        2.3285,
+                        9.083,
+                        2.3285,
+                        9.2312,
+                        1.075,
+                        9.2315
+                    ],
+                    "spans": [
+                        {
+                            "offset": 655,
+                            "length": 16
+                        }
+                    ]
+                },
+                {
+                    "content": "A/C: Citibank N.A. London,",
+                    "polygon": [
+                        1.07,
+                        9.3034,
+                        2.9096,
+                        9.3083,
+                        2.9092,
+                        9.464,
+                        1.0696,
+                        9.4591
+                    ],
+                    "spans": [
+                        {
+                            "offset": 672,
+                            "length": 26
+                        }
+                    ]
+                },
+                {
+                    "content": "Cayley Wharf E14",
+                    "polygon": [
+                        1.0731,
+                        9.533,
+                        2.3254,
+                        9.5267,
+                        2.3262,
+                        9.6863,
+                        1.0739,
+                        9.6926
+                    ],
+                    "spans": [
+                        {
+                            "offset": 699,
+                            "length": 16
+                        }
+                    ]
+                },
+                {
+                    "content": "A/C: 10547557",
+                    "polygon": [
+                        1.0703,
+                        9.753,
+                        2.1153,
+                        9.7528,
+                        2.1154,
+                        9.8998,
+                        1.0703,
+                        9.8999
+                    ],
+                    "spans": [
+                        {
+                            "offset": 716,
+                            "length": 13
+                        }
+                    ]
+                },
+                {
+                    "content": "IBAN: GB62CITI18500810547557",
+                    "polygon": [
+                        1.0734,
+                        9.9766,
+                        3.3853,
+                        9.9733,
+                        3.3856,
+                        10.1188,
+                        1.0736,
+                        10.1221
+                    ],
+                    "spans": [
+                        {
+                            "offset": 730,
+                            "length": 28
+                        }
+                    ]
+                },
+                {
+                    "content": "FFC: Fund Name & Account Number (according to Schedule A)",
+                    "polygon": [
+                        1.075,
+                        10.1936,
+                        5.425,
+                        10.1953,
+                        5.425,
+                        10.3568,
+                        1.075,
+                        10.3551
+                    ],
+                    "spans": [
+                        {
+                            "offset": 759,
+                            "length": 57
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 816
+                }
+            ]
+        },
+        {
+            "pageNumber": 2,
+            "angle": -0.07800000160932541,
+            "width": 8.2639,
+            "height": 11.6806,
+            "unit": "inch",
+            "words": [
+                {
+                    "content": "CZK",
+                    "polygon": [
+                        1.0803,
+                        1.5457,
+                        1.3868,
+                        1.5439,
+                        1.3868,
+                        1.6825,
+                        1.0801,
+                        1.6825
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 817,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "Bank:",
+                    "polygon": [
+                        1.0761,
+                        1.7645,
+                        1.4637,
+                        1.7624,
+                        1.4634,
+                        1.922,
+                        1.076,
+                        1.9199
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 821,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "Citibank",
+                    "polygon": [
+                        1.5266,
+                        1.7625,
+                        2.0896,
+                        1.7643,
+                        2.0884,
+                        1.9245,
+                        1.5262,
+                        1.9223
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 827,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "Prague",
+                    "polygon": [
+                        2.142,
+                        1.764,
+                        2.631,
+                        1.7652,
+                        2.631,
+                        1.9261,
+                        2.1407,
+                        1.9249
+                    ],
+                    "confidence": 0.998,
+                    "span": {
+                        "offset": 836,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "A/C:",
+                    "polygon": [
+                        1.0714,
+                        1.9858,
+                        1.353,
+                        1.9853,
+                        1.3523,
+                        2.1502,
+                        1.0709,
+                        2.15
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 843,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Citigroup",
+                    "polygon": [
+                        1.4125,
+                        1.9851,
+                        2.0406,
+                        1.9838,
+                        2.0404,
+                        2.1496,
+                        1.4117,
+                        2.1502
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 848,
+                        "length": 9
+                    }
+                },
+                {
+                    "content": "Global",
+                    "polygon": [
+                        2.092,
+                        1.984,
+                        2.5198,
+                        1.9838,
+                        2.5189,
+                        2.1483,
+                        2.0918,
+                        2.1491
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 858,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "Markets",
+                    "polygon": [
+                        2.5848,
+                        1.9839,
+                        3.1235,
+                        1.9817,
+                        3.1227,
+                        2.1461,
+                        2.5837,
+                        2.1483
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 865,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Inc.",
+                    "polygon": [
+                        3.1804,
+                        1.9817,
+                        3.4243,
+                        1.9811,
+                        3.4243,
+                        2.1462,
+                        3.1796,
+                        2.146
+                    ],
+                    "confidence": 0.973,
+                    "span": {
+                        "offset": 873,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "BIC:",
+                    "polygon": [
+                        1.0758,
+                        2.2074,
+                        1.3485,
+                        2.208,
+                        1.3485,
+                        2.3555,
+                        1.0761,
+                        2.3555
+                    ],
+                    "confidence": 0.987,
+                    "span": {
+                        "offset": 878,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "CITICZPX",
+                    "polygon": [
+                        1.4075,
+                        2.2081,
+                        2.0489,
+                        2.2059,
+                        2.0489,
+                        2.3555,
+                        1.4074,
+                        2.3555
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 883,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "Cash",
+                    "polygon": [
+                        1.0763,
+                        2.4313,
+                        1.4141,
+                        2.4301,
+                        1.4139,
+                        2.5822,
+                        1.0765,
+                        2.5836
+                    ],
+                    "confidence": 0.98,
+                    "span": {
+                        "offset": 892,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "A/C:",
+                    "polygon": [
+                        1.4642,
+                        2.4304,
+                        1.7419,
+                        2.4291,
+                        1.7417,
+                        2.5819,
+                        1.464,
+                        2.5819
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 897,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "201369037",
+                    "polygon": [
+                        1.8019,
+                        2.4293,
+                        2.5967,
+                        2.4271,
+                        2.5967,
+                        2.5793,
+                        1.8017,
+                        2.5818
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 902,
+                        "length": 9
+                    }
+                },
+                {
+                    "content": "FFC:",
+                    "polygon": [
+                        1.0752,
+                        2.6478,
+                        1.3739,
+                        2.6495,
+                        1.3736,
+                        2.812,
+                        1.075,
+                        2.8121
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 912,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Fund",
+                    "polygon": [
+                        1.4369,
+                        2.6495,
+                        1.763,
+                        2.6494,
+                        1.7627,
+                        2.8119,
+                        1.4366,
+                        2.812
+                    ],
+                    "confidence": 0.991,
+                    "span": {
+                        "offset": 917,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Name",
+                    "polygon": [
+                        1.8261,
+                        2.6493,
+                        2.2207,
+                        2.6496,
+                        2.2203,
+                        2.8134,
+                        1.8257,
+                        2.812
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 922,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "&",
+                    "polygon": [
+                        2.2755,
+                        2.6497,
+                        2.3741,
+                        2.6498,
+                        2.3736,
+                        2.8143,
+                        2.2751,
+                        2.8137
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 927,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "Account",
+                    "polygon": [
+                        2.418,
+                        2.6498,
+                        2.9825,
+                        2.6488,
+                        2.9818,
+                        2.8168,
+                        2.4175,
+                        2.8145
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 929,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Number",
+                    "polygon": [
+                        3.0373,
+                        2.6489,
+                        3.5881,
+                        2.6489,
+                        3.5875,
+                        2.8175,
+                        3.0365,
+                        2.8168
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 937,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "(according",
+                    "polygon": [
+                        3.6374,
+                        2.6489,
+                        4.3554,
+                        2.6485,
+                        4.3544,
+                        2.8175,
+                        3.6368,
+                        2.8175
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 944,
+                        "length": 10
+                    }
+                },
+                {
+                    "content": "to",
+                    "polygon": [
+                        4.4102,
+                        2.6484,
+                        4.5445,
+                        2.6482,
+                        4.5435,
+                        2.8175,
+                        4.4093,
+                        2.8175
+                    ],
+                    "confidence": 0.998,
+                    "span": {
+                        "offset": 955,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "Schedule",
+                    "polygon": [
+                        4.5966,
+                        2.6481,
+                        5.2241,
+                        2.6476,
+                        5.2228,
+                        2.8162,
+                        4.5955,
+                        2.8175
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 958,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "A)",
+                    "polygon": [
+                        5.2707,
+                        2.6475,
+                        5.4332,
+                        2.6473,
+                        5.4332,
+                        2.8161,
+                        5.2694,
+                        2.8161
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 967,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "888",
+                    "polygon": [
+                        1.0744,
+                        3.0896,
+                        1.3388,
+                        3.0904,
+                        1.3384,
+                        3.2536,
+                        1.0741,
+                        3.2544
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 970,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "Boylston",
+                    "polygon": [
+                        1.4002,
+                        3.0906,
+                        1.9798,
+                        3.0897,
+                        1.9794,
+                        3.2535,
+                        1.3999,
+                        3.2537
+                    ],
+                    "confidence": 0.977,
+                    "span": {
+                        "offset": 974,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "St,",
+                    "polygon": [
+                        2.0412,
+                        3.0902,
+                        2.2095,
+                        3.0906,
+                        2.209,
+                        3.2532,
+                        2.0409,
+                        3.2534
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 983,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "15th,",
+                    "polygon": [
+                        2.2736,
+                        3.0906,
+                        2.6154,
+                        3.0894,
+                        2.6145,
+                        3.2532,
+                        2.273,
+                        3.2531
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 987,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "Boston,",
+                    "polygon": [
+                        2.6822,
+                        3.0895,
+                        3.1843,
+                        3.089,
+                        3.1836,
+                        3.251,
+                        2.6811,
+                        3.2533
+                    ],
+                    "confidence": 0.998,
+                    "span": {
+                        "offset": 993,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "MA",
+                    "polygon": [
+                        3.2484,
+                        3.0896,
+                        3.454,
+                        3.0901,
+                        3.4536,
+                        3.2506,
+                        3.2478,
+                        3.251
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 1001,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "02199",
+                    "polygon": [
+                        3.5021,
+                        3.0901,
+                        3.9436,
+                        3.0847,
+                        3.9436,
+                        3.2475,
+                        3.5017,
+                        3.2504
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 1004,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "Phone:",
+                    "polygon": [
+                        1.0744,
+                        3.3115,
+                        1.5458,
+                        3.3128,
+                        1.5456,
+                        3.4676,
+                        1.0745,
+                        3.4677
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 1010,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "617-349-2000",
+                    "polygon": [
+                        1.6073,
+                        3.3123,
+                        2.5784,
+                        3.3106,
+                        2.5776,
+                        3.4673,
+                        1.6071,
+                        3.4673
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 1017,
+                        "length": 12
+                    }
+                },
+                {
+                    "content": "·",
+                    "polygon": [
+                        2.645,
+                        3.3107,
+                        2.6937,
+                        3.3108,
+                        2.6927,
+                        3.4674,
+                        2.6441,
+                        3.4673
+                    ],
+                    "confidence": 0.649,
+                    "span": {
+                        "offset": 1030,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "Fax:",
+                    "polygon": [
+                        2.7628,
+                        3.3109,
+                        3.037,
+                        3.3109,
+                        3.0364,
+                        3.4664,
+                        2.7619,
+                        3.4674
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 1032,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "617-349-3708",
+                    "polygon": [
+                        3.0985,
+                        3.3108,
+                        4.0806,
+                        3.3072,
+                        4.0806,
+                        3.4659,
+                        3.098,
+                        3.4664
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 1037,
+                        "length": 12
+                    }
+                }
+            ],
+            "lines": [
+                {
+                    "content": "CZK",
+                    "polygon": [
+                        1.0798,
+                        1.5441,
+                        1.3833,
+                        1.5435,
+                        1.3836,
+                        1.6806,
+                        1.0802,
+                        1.6813
+                    ],
+                    "spans": [
+                        {
+                            "offset": 817,
+                            "length": 3
+                        }
+                    ]
+                },
+                {
+                    "content": "Bank: Citibank Prague",
+                    "polygon": [
+                        1.0762,
+                        1.76,
+                        2.63,
+                        1.7652,
+                        2.6294,
+                        1.9248,
+                        1.0756,
+                        1.9196
+                    ],
+                    "spans": [
+                        {
+                            "offset": 821,
+                            "length": 21
+                        }
+                    ]
+                },
+                {
+                    "content": "A/C: Citigroup Global Markets Inc.",
+                    "polygon": [
+                        1.0707,
+                        1.9844,
+                        3.4239,
+                        1.9811,
+                        3.4241,
+                        2.1462,
+                        1.0709,
+                        2.1495
+                    ],
+                    "spans": [
+                        {
+                            "offset": 843,
+                            "length": 34
+                        }
+                    ]
+                },
+                {
+                    "content": "BIC: CITICZPX",
+                    "polygon": [
+                        1.0758,
+                        2.2064,
+                        2.0478,
+                        2.2056,
+                        2.0479,
+                        2.3545,
+                        1.0759,
+                        2.3553
+                    ],
+                    "spans": [
+                        {
+                            "offset": 878,
+                            "length": 13
+                        }
+                    ]
+                },
+                {
+                    "content": "Cash A/C: 201369037",
+                    "polygon": [
+                        1.076,
+                        2.431,
+                        2.5913,
+                        2.4261,
+                        2.5918,
+                        2.5776,
+                        1.0765,
+                        2.5825
+                    ],
+                    "spans": [
+                        {
+                            "offset": 892,
+                            "length": 19
+                        }
+                    ]
+                },
+                {
+                    "content": "FFC: Fund Name & Account Number (according to Schedule A)",
+                    "polygon": [
+                        1.075,
+                        2.6478,
+                        5.4286,
+                        2.6473,
+                        5.4286,
+                        2.8163,
+                        1.075,
+                        2.8168
+                    ],
+                    "spans": [
+                        {
+                            "offset": 912,
+                            "length": 57
+                        }
+                    ]
+                },
+                {
+                    "content": "888 Boylston St, 15th, Boston, MA 02199",
+                    "polygon": [
+                        1.0739,
+                        3.0896,
+                        3.9418,
+                        3.0847,
+                        3.942,
+                        3.2485,
+                        1.0742,
+                        3.2534
+                    ],
+                    "spans": [
+                        {
+                            "offset": 970,
+                            "length": 39
+                        }
+                    ]
+                },
+                {
+                    "content": "Phone: 617-349-2000 · Fax: 617-349-3708",
+                    "polygon": [
+                        1.0743,
+                        3.3115,
+                        4.0801,
+                        3.3072,
+                        4.0803,
+                        3.4637,
+                        1.0745,
+                        3.4677
+                    ],
+                    "spans": [
+                        {
+                            "offset": 1010,
+                            "length": 39
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 817,
+                    "length": 232
+                }
+            ]
+        }
+    ],
+    "tables": [],
+    "paragraphs": [
+        {
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 40
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.0757,
+                        1.0933,
+                        2.2363,
+                        1.0909,
+                        2.2375,
+                        1.6885,
+                        1.077,
+                        1.6909
+                    ]
+                }
+            ],
+            "content": "FFI Fund Ltd. FYI Ltd. Olifant Fund Ltd."
+        },
+        {
+            "spans": [
+                {
+                    "offset": 41,
+                    "length": 136
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.0727,
+                        1.9853,
+                        3.2978,
+                        1.98,
+                        3.3014,
+                        3.4716,
+                        1.0762,
+                        3.4769
+                    ]
+                }
+            ],
+            "content": "Legal Address c/o dms Corporate Services Ltd. dms House, 20 Genesis Close P.O. Box 1344 George Town Grand Cayman KY1-1108 Cayman Islands"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 178,
+                    "length": 80
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.0741,
+                        3.7567,
+                        2.95,
+                        3.7529,
+                        2.9517,
+                        4.5795,
+                        1.0757,
+                        4.5833
+                    ]
+                }
+            ],
+            "content": "Mailing Address Bracebridge Capital 888 Boylston St, 15th floor Boston, MA 02199"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 259,
+                    "length": 38
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.0754,
+                        4.8666,
+                        3.8405,
+                        4.8653,
+                        3.8405,
+                        5.038,
+                        1.0755,
+                        5.0393
+                    ]
+                }
+            ],
+            "content": "Foreign Currency Payment Instructions:"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 298,
+                    "length": 28
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.0702,
+                        5.3173,
+                        2.8753,
+                        5.32,
+                        2.8747,
+                        5.6938,
+                        1.0697,
+                        5.6911
+                    ]
+                }
+            ],
+            "content": "AUD Bank: Citibank Melbourne"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 327,
+                    "length": 13
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.0759,
+                        5.7493,
+                        2.0563,
+                        5.7487,
+                        2.0564,
+                        5.9028,
+                        1.076,
+                        5.9034
+                    ]
+                }
+            ],
+            "content": "BIC: CITIAU2X"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 341,
+                    "length": 34
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.0708,
+                        5.9734,
+                        3.4215,
+                        5.9724,
+                        3.4216,
+                        6.1393,
+                        1.0709,
+                        6.1403
+                    ]
+                }
+            ],
+            "content": "A/C: Citigroup Global Markets Inc."
+        },
+        {
+            "spans": [
+                {
+                    "offset": 376,
+                    "length": 13
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.0766,
+                        6.1971,
+                        2.0948,
+                        6.1937,
+                        2.0953,
+                        6.3482,
+                        1.0771,
+                        6.3515
+                    ]
+                }
+            ],
+            "content": "BIC: BSINYU33"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 390,
+                    "length": 19
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.0751,
+                        6.4213,
+                        2.5925,
+                        6.4168,
+                        2.5929,
+                        6.5723,
+                        1.0755,
+                        6.5768
+                    ]
+                }
+            ],
+            "content": "Cash A/C: 021000003"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 410,
+                    "length": 57
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.0754,
+                        6.6356,
+                        5.426,
+                        6.6382,
+                        5.4259,
+                        6.8108,
+                        1.0753,
+                        6.8083
+                    ]
+                }
+            ],
+            "content": "FFC: Fund Name & Account Number (according to Schedule A)"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 468,
+                    "length": 106
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.0716,
+                        7.0914,
+                        3.421,
+                        7.0921,
+                        3.4207,
+                        8.1308,
+                        1.0713,
+                        8.13
+                    ]
+                }
+            ],
+            "content": "CAD Bank: Citibank Toronto, Canada A/C: Citigroup Global Markets Inc. BIC: CITICATT Cash A/C: 2-010896-046"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 575,
+                    "length": 57
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.0743,
+                        8.1955,
+                        5.4258,
+                        8.1952,
+                        5.4258,
+                        8.3647,
+                        1.0743,
+                        8.365
+                    ]
+                }
+            ],
+            "content": "FFC: Fund Name & Account Number (according to Schedule A)"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 633,
+                    "length": 21
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.0754,
+                        8.6426,
+                        2.3072,
+                        8.6442,
+                        2.3067,
+                        9.0132,
+                        1.0749,
+                        9.0115
+                    ]
+                }
+            ],
+            "content": "CHF Bank: Citi London"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 655,
+                    "length": 74
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.0695,
+                        9.0833,
+                        2.9095,
+                        9.0829,
+                        2.9097,
+                        9.8996,
+                        1.0697,
+                        9.9
+                    ]
+                }
+            ],
+            "content": "BIC: CITIGB2LXXX A/C: Citibank N.A. London, Cayley Wharf E14 A/C: 10547557"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 730,
+                    "length": 86
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        1.0734,
+                        9.9724,
+                        5.4251,
+                        9.9741,
+                        5.425,
+                        10.3568,
+                        1.0732,
+                        10.3551
+                    ]
+                }
+            ],
+            "content": "IBAN: GB62CITI18500810547557 FFC: Fund Name & Account Number (according to Schedule A)"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 817,
+                    "length": 3
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 2,
+                    "polygon": [
+                        1.0798,
+                        1.5441,
+                        1.3833,
+                        1.5435,
+                        1.3836,
+                        1.6806,
+                        1.0802,
+                        1.6813
+                    ]
+                }
+            ],
+            "content": "CZK"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 821,
+                    "length": 21
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 2,
+                    "polygon": [
+                        1.0762,
+                        1.76,
+                        2.63,
+                        1.7652,
+                        2.6294,
+                        1.9248,
+                        1.0756,
+                        1.9196
+                    ]
+                }
+            ],
+            "content": "Bank: Citibank Prague"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 843,
+                    "length": 34
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 2,
+                    "polygon": [
+                        1.0707,
+                        1.9844,
+                        3.4239,
+                        1.9811,
+                        3.4241,
+                        2.1462,
+                        1.0709,
+                        2.1495
+                    ]
+                }
+            ],
+            "content": "A/C: Citigroup Global Markets Inc."
+        },
+        {
+            "spans": [
+                {
+                    "offset": 878,
+                    "length": 91
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 2,
+                    "polygon": [
+                        1.0749,
+                        2.2057,
+                        5.4285,
+                        2.2052,
+                        5.4286,
+                        2.8163,
+                        1.075,
+                        2.8169
+                    ]
+                }
+            ],
+            "content": "BIC: CITICZPX Cash A/C: 201369037 FFC: Fund Name & Account Number (according to Schedule A)"
+        },
+        {
+            "spans": [
+                {
+                    "offset": 970,
+                    "length": 79
+                }
+            ],
+            "boundingRegions": [
+                {
+                    "pageNumber": 2,
+                    "polygon": [
+                        1.0739,
+                        3.0885,
+                        4.0798,
+                        3.0846,
+                        4.0803,
+                        3.4637,
+                        1.0744,
+                        3.4677
+                    ]
+                }
+            ],
+            "content": "888 Boylston St, 15th, Boston, MA 02199 Phone: 617-349-2000 · Fax: 617-349-3708"
+        }
+    ],
+    "styles": [],
+    "contentFormat": "text",
+    "sections": [
+        {
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 1049
+                }
+            ],
+            "elements": [
+                "/paragraphs/0",
+                "/paragraphs/1",
+                "/paragraphs/2",
+                "/paragraphs/3",
+                "/paragraphs/4",
+                "/paragraphs/5",
+                "/paragraphs/6",
+                "/paragraphs/7",
+                "/paragraphs/8",
+                "/paragraphs/9",
+                "/paragraphs/10",
+                "/paragraphs/11",
+                "/paragraphs/12",
+                "/paragraphs/13",
+                "/paragraphs/14",
+                "/paragraphs/15",
+                "/paragraphs/16",
+                "/paragraphs/17",
+                "/paragraphs/18",
+                "/paragraphs/19"
+            ]
+        }
+    ]
+}

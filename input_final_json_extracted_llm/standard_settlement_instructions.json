@@ -1,0 +1,916 @@
+{
+    "document_metadata": {
+        "total_pages": 2,
+        "processing_mode": "native_text"
+    },
+    "ssi_records": [
+        {
+            "ssi_id": "SSI-001",
+            "fields": {
+                "CURRENCY": {
+                    "value": "AUD",
+                    "source_text": "AUD",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "CASH CORRESPONDENT": {
+                    "value": "National Australia Bank Ltd., Melbourne",
+                    "source_text": "National Australia Bank Ltd., Melbourne",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "SWIFT ADDRESS (FIELD 54)": {
+                    "value": "NATAAU33",
+                    "source_text": "NATAAU33",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "CORRESPONDENT CASH ACCOUNT": {
+                    "value": "181307283300",
+                    "source_text": "181307283300",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "INTERMEDIARY BANK": {
+                    "value": "The Bank of New York Mellon, NY",
+                    "source_text": "The Bank of New York Mellon, NY",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "SWIFT ADDRESS (FIELD 56)": {
+                    "value": "IRVTUS3N",
+                    "source_text": "IRVTUS3N",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "BENEFICIARY BANK": {
+                    "value": "BANCO INVERSIS S.A.",
+                    "source_text": "BANCO INVERSIS S.A.",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "SWIFT ADDRESS (FIELD 57)": {
+                    "value": "INVLESMM",
+                    "source_text": "INVLESMM",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "CASH ACCOUNT": {
+                    "value": "8033121858",
+                    "source_text": "8033121858",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "BENEFICIARY ACC. / NAME (FIELD 59)": {
+                    "value": "A/C: Final Beneficiary's Account & Name",
+                    "source_text": "A/C: Final Beneficiary's Account & Name",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "CUT- OFF (D-1)": {
+                    "value": "16:00",
+                    "source_text": "16:00",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "CUT- OFF (D)": {
+                    "value": null,
+                    "source_text": "",
+                    "source_page": 1,
+                    "confidence": "LOW"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "Table row on page 1 shows no explicit value in column 'CUT- OFF (D)'."
+            ]
+        },
+        {
+            "ssi_id": "SSI-002",
+            "fields": {
+                "CURRENCY": {
+                    "value": "CAD",
+                    "source_text": "CAD",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "CASH CORRESPONDENT": {
+                    "value": "Royal Bank of Canada, Toronto",
+                    "source_text": "Royal Bank of Canada, Toronto",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "SWIFT ADDRESS (FIELD 54)": {
+                    "value": "ROYCCAT2",
+                    "source_text": "ROYCCAT2",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "CORRESPONDENT CASH ACCOUNT": {
+                    "value": "095911306541",
+                    "source_text": "095911306541",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "INTERMEDIARY BANK": {
+                    "value": "The Bank of New York Mellon, NY",
+                    "source_text": "The Bank of New York Mellon, NY",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "SWIFT ADDRESS (FIELD 56)": {
+                    "value": "IRVTUS3N",
+                    "source_text": "IRVTUS3N",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "BENEFICIARY BANK": {
+                    "value": "BANCO INVERSIS S.A.",
+                    "source_text": "BANCO INVERSIS S.A.",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "SWIFT ADDRESS (FIELD 57)": {
+                    "value": "INVLESMM",
+                    "source_text": "INVLESMM",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "CASH ACCOUNT": {
+                    "value": "8033121866",
+                    "source_text": "8033121866",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "BENEFICIARY ACC. / NAME (FIELD 59)": {
+                    "value": "A/C: Final Beneficiary's Account & Name",
+                    "source_text": "A/C: Final Beneficiary's Account & Name",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "CUT- OFF (D-1)": {
+                    "value": "--",
+                    "source_text": "--",
+                    "source_page": 1,
+                    "confidence": "MEDIUM"
+                },
+                "CUT- OFF (D)": {
+                    "value": "15:00",
+                    "source_text": "15:00",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "Value '--' for 'CUT- OFF (D-1)' is explicitly present but OCR confidence is lower than surrounding fields."
+            ]
+        },
+        {
+            "ssi_id": "SSI-003",
+            "fields": {
+                "CURRENCY": {
+                    "value": "CHF",
+                    "source_text": "CHF",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "CASH CORRESPONDENT": {
+                    "value": "UBS, Switzerland",
+                    "source_text": "UBS, Switzerland",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "SWIFT ADDRESS (FIELD 54)": {
+                    "value": "UBSWCHZH80A",
+                    "source_text": "UBSWCHZH80A",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "CORRESPONDENT CASH ACCOUNT": {
+                    "value": "CH540023003007910000H",
+                    "source_text": "CH540023003007910000H",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "INTERMEDIARY BANK": {
+                    "value": "The Bank of New York Mellon, NY",
+                    "source_text": "The Bank of New York Mellon, NY",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "SWIFT ADDRESS (FIELD 56)": {
+                    "value": "IRVTUS3N",
+                    "source_text": "IRVTUS3N",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "BENEFICIARY BANK": {
+                    "value": "BANCO INVERSIS S.A.",
+                    "source_text": "BANCO INVERSIS S.A.",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "SWIFT ADDRESS (FIELD 57)": {
+                    "value": "INVLESMM",
+                    "source_text": "INVLESMM",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "CASH ACCOUNT": {
+                    "value": "8033121874",
+                    "source_text": "8033121874",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "BENEFICIARY ACC. / NAME (FIELD 59)": {
+                    "value": "A/C: Final Beneficiary's Account & Name",
+                    "source_text": "A/C: Final Beneficiary's Account & Name",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "CUT- OFF (D-1)": {
+                    "value": null,
+                    "source_text": "",
+                    "source_page": 1,
+                    "confidence": "LOW"
+                },
+                "CUT- OFF (D)": {
+                    "value": "13:00",
+                    "source_text": "13:00",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "Table row on page 1 shows no explicit value in column 'CUT- OFF (D-1)'."
+            ]
+        },
+        {
+            "ssi_id": "SSI-004",
+            "fields": {
+                "CURRENCY": {
+                    "value": "DKK",
+                    "source_text": "DKK",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "CASH CORRESPONDENT": {
+                    "value": "Nordea Bank Danmark A/S, Copenhagen",
+                    "source_text": "Nordea Bank Danmark A/S, Copenhagen",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "SWIFT ADDRESS (FIELD 54)": {
+                    "value": "NDEADKKK",
+                    "source_text": "NDEADKKK",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "CORRESPONDENT CASH ACCOUNT": {
+                    "value": "DK1020005000102139",
+                    "source_text": "DK1020005000102139",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "INTERMEDIARY BANK": {
+                    "value": "The Bank of New York Mellon, NY",
+                    "source_text": "The Bank of New York Mellon, NY",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "SWIFT ADDRESS (FIELD 56)": {
+                    "value": "IRVTUS3N",
+                    "source_text": "IRVTUS3N",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "BENEFICIARY BANK": {
+                    "value": "BANCO INVERSIS S.A.",
+                    "source_text": "BANCO INVERSIS S.A.",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "SWIFT ADDRESS (FIELD 57)": {
+                    "value": "INVLESMM",
+                    "source_text": "INVLESMM",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "CASH ACCOUNT": {
+                    "value": "8033121882",
+                    "source_text": "8033121882",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "BENEFICIARY ACC. / NAME (FIELD 59)": {
+                    "value": "A/C: Final Beneficiary's Account & Name",
+                    "source_text": "A/C: Final Beneficiary's Account & Name",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "CUT- OFF (D-1)": {
+                    "value": null,
+                    "source_text": "",
+                    "source_page": 1,
+                    "confidence": "LOW"
+                },
+                "CUT- OFF (D)": {
+                    "value": "13:00",
+                    "source_text": "13:00",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "Table row on page 1 shows no explicit value in column 'CUT- OFF (D-1)'."
+            ]
+        },
+        {
+            "ssi_id": "SSI-005",
+            "fields": {
+                "CURRENCY": {
+                    "value": "EUR",
+                    "source_text": "EUR",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "CASH CORRESPONDENT": {
+                    "value": "--",
+                    "source_text": "--",
+                    "source_page": 1,
+                    "confidence": "MEDIUM"
+                },
+                "SWIFT ADDRESS (FIELD 54)": {
+                    "value": null,
+                    "source_text": "",
+                    "source_page": 1,
+                    "confidence": "LOW"
+                },
+                "CORRESPONDENT CASH ACCOUNT": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "LOW"
+                },
+                "INTERMEDIARY BANK": {
+                    "value": null,
+                    "source_text": "",
+                    "source_page": 1,
+                    "confidence": "LOW"
+                },
+                "SWIFT ADDRESS (FIELD 56)": {
+                    "value": "-",
+                    "source_text": "-",
+                    "source_page": 1,
+                    "confidence": "MEDIUM"
+                },
+                "BENEFICIARY BANK": {
+                    "value": "BANCO INVERSIS S.A.",
+                    "source_text": "BANCO INVERSIS S.A.",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "SWIFT ADDRESS (FIELD 57)": {
+                    "value": "INVLESMM",
+                    "source_text": "INVLESMM",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "CASH ACCOUNT": {
+                    "value": "TARGET2",
+                    "source_text": "TARGET2",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "BENEFICIARY ACC. / NAME (FIELD 59)": {
+                    "value": "A/C: Final Beneficiary's Account & Name",
+                    "source_text": "A/C: Final Beneficiary's Account & Name",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "CUT- OFF (D-1)": {
+                    "value": "--",
+                    "source_text": "--",
+                    "source_page": 1,
+                    "confidence": "MEDIUM"
+                },
+                "CUT- OFF (D)": {
+                    "value": "15:00",
+                    "source_text": "15:00",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "Column 'SWIFT ADDRESS (FIELD 54)' is empty in the table row.",
+                "Column 'INTERMEDIARY BANK' is empty in the table row.",
+                "Value '--' in 'CASH CORRESPONDENT' has lower OCR confidence.",
+                "Value '-' in 'CORRESPONDENT CASH ACCOUNT' has low OCR confidence.",
+                "Value '-' in 'SWIFT ADDRESS (FIELD 56)' has moderate OCR confidence.",
+                "Value '--' in 'CUT- OFF (D-1)' has lower OCR confidence."
+            ]
+        },
+        {
+            "ssi_id": "SSI-006",
+            "fields": {
+                "CURRENCY": {
+                    "value": "GBP",
+                    "source_text": "GBP",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "CASH CORRESPONDENT": {
+                    "value": "--",
+                    "source_text": "--",
+                    "source_page": 1,
+                    "confidence": "MEDIUM"
+                },
+                "SWIFT ADDRESS (FIELD 54)": {
+                    "value": null,
+                    "source_text": "",
+                    "source_page": 1,
+                    "confidence": "LOW"
+                },
+                "CORRESPONDENT CASH ACCOUNT": {
+                    "value": null,
+                    "source_text": "",
+                    "source_page": 1,
+                    "confidence": "LOW"
+                },
+                "INTERMEDIARY BANK": {
+                    "value": "The Bank of New York Mellon, NY",
+                    "source_text": "The Bank of New York Mellon, NY",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "SWIFT ADDRESS (FIELD 56)": {
+                    "value": "IRVTGB2X",
+                    "source_text": "IRVTGB2X",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "BENEFICIARY BANK": {
+                    "value": "BANCO INVERSIS S.A.",
+                    "source_text": "BANCO INVERSIS S.A.",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "SWIFT ADDRESS (FIELD 57)": {
+                    "value": "INVLESMM",
+                    "source_text": "INVLESMM",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "CASH ACCOUNT": {
+                    "value": "GB95IRVT0022555055724",
+                    "source_text": "GB95IRVT0022555055724",
+                    "source_page": 1,
+                    "confidence": "MEDIUM"
+                },
+                "BENEFICIARY ACC. / NAME (FIELD 59)": {
+                    "value": "A/C: Final Beneficiary's Account & Name",
+                    "source_text": "A/C: Final Beneficiary's Account & Name",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "CUT- OFF (D-1)": {
+                    "value": null,
+                    "source_text": "",
+                    "source_page": 1,
+                    "confidence": "LOW"
+                },
+                "CUT- OFF (D)": {
+                    "value": "15:00",
+                    "source_text": "15:00",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "Column 'SWIFT ADDRESS (FIELD 54)' is empty in the table row.",
+                "Column 'CORRESPONDENT CASH ACCOUNT' is empty in the table row.",
+                "Column 'CUT- OFF (D-1)' is empty in the table row.",
+                "Value '--' in 'CASH CORRESPONDENT' has lower OCR confidence.",
+                "Cash account 'GB95IRVT0022555055724' is explicit but word-level OCR confidence is lower than surrounding fields."
+            ]
+        },
+        {
+            "ssi_id": "SSI-007",
+            "fields": {
+                "CURRENCY": {
+                    "value": "HKD",
+                    "source_text": "HKD",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "CASH CORRESPONDENT": {
+                    "value": "Hang Seng Bk Limited, Hong Kong",
+                    "source_text": "Hang Seng Bk Limited, Hong Kong",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "SWIFT ADDRESS (FIELD 54)": {
+                    "value": "HASEHKHH",
+                    "source_text": "HASEHKHH",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "CORRESPONDENT CASH ACCOUNT": {
+                    "value": "25011193001",
+                    "source_text": "25011193001",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "INTERMEDIARY BANK": {
+                    "value": "The Bank of New York Mellon, NY",
+                    "source_text": "The Bank of New York Mellon, NY",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "SWIFT ADDRESS (FIELD 56)": {
+                    "value": "IRVTUS3N",
+                    "source_text": "IRVTUS3N",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "BENEFICIARY BANK": {
+                    "value": "BANCO INVERSIS S.A.",
+                    "source_text": "BANCO INVERSIS S.A.",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "SWIFT ADDRESS (FIELD 57)": {
+                    "value": "INVLESMM",
+                    "source_text": "INVLESMM",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "CASH ACCOUNT": {
+                    "value": "8033121890",
+                    "source_text": "8033121890",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "BENEFICIARY ACC. / NAME (FIELD 59)": {
+                    "value": "A/C: Final Beneficiary's Account & Name",
+                    "source_text": "A/C: Final Beneficiary's Account & Name",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "CUT- OFF (D-1)": {
+                    "value": "16:00",
+                    "source_text": "16:00",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "CUT- OFF (D)": {
+                    "value": null,
+                    "source_text": "",
+                    "source_page": 1,
+                    "confidence": "LOW"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "Table row on page 1 shows no explicit value in column 'CUT- OFF (D)'."
+            ]
+        },
+        {
+            "ssi_id": "SSI-008",
+            "fields": {
+                "CURRENCY": {
+                    "value": "JPY",
+                    "source_text": "JPY",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "CASH CORRESPONDENT": {
+                    "value": "Mizuho Bank, Ltd., Tokyo",
+                    "source_text": "Mizuho Bank, Ltd., Tokyo",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "SWIFT ADDRESS (FIELD 54)": {
+                    "value": "MizHJPJT",
+                    "source_text": "MizHJPJT",
+                    "source_page": 1,
+                    "confidence": "MEDIUM"
+                },
+                "CORRESPONDENT CASH ACCOUNT": {
+                    "value": "0321020",
+                    "source_text": "0321020",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "INTERMEDIARY BANK": {
+                    "value": "The Bank of New York Mellon, NY",
+                    "source_text": "The Bank of New York Mellon, NY",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "SWIFT ADDRESS (FIELD 56)": {
+                    "value": "IRVTUS3N",
+                    "source_text": "IRVTUS3N",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "BENEFICIARY BANK": {
+                    "value": "BANCO INVERSIS S.A.",
+                    "source_text": "BANCO INVERSIS S.A.",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "SWIFT ADDRESS (FIELD 57)": {
+                    "value": "INVLESMM",
+                    "source_text": "INVLESMM",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "CASH ACCOUNT": {
+                    "value": "8033121904",
+                    "source_text": "8033121904",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "BENEFICIARY ACC. / NAME (FIELD 59)": {
+                    "value": "A/C: Final Beneficiary's Account & Name",
+                    "source_text": "A/C: Final Beneficiary's Account & Name",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "CUT- OFF (D-1)": {
+                    "value": "16:00",
+                    "source_text": "16:00",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "CUT- OFF (D)": {
+                    "value": null,
+                    "source_text": "",
+                    "source_page": 1,
+                    "confidence": "LOW"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "SWIFT code 'MizHJPJT' is explicit but has lower OCR confidence than surrounding fields.",
+                "Table row on page 1 shows no explicit value in column 'CUT- OFF (D)'."
+            ]
+        },
+        {
+            "ssi_id": "SSI-009",
+            "fields": {
+                "CURRENCY": {
+                    "value": "MXN",
+                    "source_text": "MXN",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "CASH CORRESPONDENT": {
+                    "value": "BBVA Bancomer, S.A., Mexico",
+                    "source_text": "BBVA Bancomer, S.A., Mexico",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "SWIFT ADDRESS (FIELD 54)": {
+                    "value": "BBRMMXMMCXR",
+                    "source_text": "BBRMMXMMCXR",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "CORRESPONDENT CASH ACCOUNT": {
+                    "value": "0018001288",
+                    "source_text": "0018001288",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "INTERMEDIARY BANK": {
+                    "value": "The Bank of New York Mellon, NY",
+                    "source_text": "The Bank of New York Mellon, NY",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "SWIFT ADDRESS (FIELD 56)": {
+                    "value": "IRVTUS3N",
+                    "source_text": "IRVTUS3N",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "BENEFICIARY BANK": {
+                    "value": "BANCO INVERSIS S.A.",
+                    "source_text": "BANCO INVERSIS S.A.",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "SWIFT ADDRESS (FIELD 57)": {
+                    "value": "INVLESMM",
+                    "source_text": "INVLESMM",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "CASH ACCOUNT": {
+                    "value": "8033121912",
+                    "source_text": "8033121912",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "BENEFICIARY ACC. / NAME (FIELD 59)": {
+                    "value": "A/C: Final Beneficiary's Account & Name",
+                    "source_text": "A/C: Final Beneficiary's Account & Name",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "CUT- OFF (D-1)": {
+                    "value": null,
+                    "source_text": "",
+                    "source_page": 1,
+                    "confidence": "LOW"
+                },
+                "CUT- OFF (D)": {
+                    "value": "13:00",
+                    "source_text": "13:00",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "Table row on page 1 shows no explicit value in column 'CUT- OFF (D-1)'."
+            ]
+        },
+        {
+            "ssi_id": "SSI-010",
+            "fields": {
+                "CURRENCY": {
+                    "value": "USD",
+                    "source_text": "USD",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "CASH CORRESPONDENT": {
+                    "value": null,
+                    "source_text": "",
+                    "source_page": 1,
+                    "confidence": "LOW"
+                },
+                "SWIFT ADDRESS (FIELD 54)": {
+                    "value": null,
+                    "source_text": "",
+                    "source_page": 1,
+                    "confidence": "LOW"
+                },
+                "CORRESPONDENT CASH ACCOUNT": {
+                    "value": null,
+                    "source_text": "",
+                    "source_page": 1,
+                    "confidence": "LOW"
+                },
+                "INTERMEDIARY BANK": {
+                    "value": "The Bank of New York Mellon, NY",
+                    "source_text": "The Bank of New York Mellon, NY",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "SWIFT ADDRESS (FIELD 56)": {
+                    "value": "IRVTUS3N",
+                    "source_text": "IRVTUS3N",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "BENEFICIARY BANK": {
+                    "value": "BANCO INVERSIS S.A.",
+                    "source_text": "BANCO INVERSIS S.A.",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "SWIFT ADDRESS (FIELD 57)": {
+                    "value": "INVLESMM",
+                    "source_text": "INVLESMM",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "CASH ACCOUNT": {
+                    "value": "9901700385",
+                    "source_text": "9901700385",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "BENEFICIARY ACC. / NAME (FIELD 59)": {
+                    "value": "A/C: Final Beneficiary's Account & Name",
+                    "source_text": "A/C: Final Beneficiary's Account & Name",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                },
+                "CUT- OFF (D-1)": {
+                    "value": null,
+                    "source_text": "",
+                    "source_page": 1,
+                    "confidence": "LOW"
+                },
+                "CUT- OFF (D)": {
+                    "value": "16:00",
+                    "source_text": "16:00",
+                    "source_page": 1,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "Columns 'CASH CORRESPONDENT', 'SWIFT ADDRESS (FIELD 54)', 'CORRESPONDENT CASH ACCOUNT', and 'CUT- OFF (D-1)' are empty in the table row."
+            ]
+        },
+        {
+            "ssi_id": "SSI-011",
+            "fields": {
+                "CURRENCY": {
+                    "value": "ZAR",
+                    "source_text": "ZAR",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "CASH CORRESPONDENT": {
+                    "value": "Standard Bank of South Africa Ltd.",
+                    "source_text": "Standard Bank of South Africa Ltd.",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "SWIFT ADDRESS (FIELD 54)": {
+                    "value": "SBZAZAJJ",
+                    "source_text": "SBZAZAJJ",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "CORRESPONDENT CASH ACCOUNT": {
+                    "value": "7557945",
+                    "source_text": "7557945",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "INTERMEDIARY BANK": {
+                    "value": "The Bank of New York Mellon, NY",
+                    "source_text": "The Bank of New York Mellon, NY",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "SWIFT ADDRESS (FIELD 56)": {
+                    "value": "IRVTUS3N",
+                    "source_text": "IRVTUS3N",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "BENEFICIARY BANK": {
+                    "value": "BANCO INVERSIS S.A.",
+                    "source_text": "BANCO INVERSIS S.A.",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "SWIFT ADDRESS (FIELD 57)": {
+                    "value": "INVLESMM",
+                    "source_text": "INVLESMM",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "CASH ACCOUNT": {
+                    "value": "8033121998",
+                    "source_text": "8033121998",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "BENEFICIARY ACC. / NAME (FIELD 59)": {
+                    "value": "A/C: Final Beneficiary's Account & Name",
+                    "source_text": "A/C: Final Beneficiary's Account & Name",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "CUT- OFF (D-1)": {
+                    "value": null,
+                    "source_text": "",
+                    "source_page": 2,
+                    "confidence": "LOW"
+                },
+                "CUT- OFF (D)": {
+                    "value": "8:00",
+                    "source_text": "8:00",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                },
+                "note": {
+                    "value": "* Cut-Off Times: All cut-off times are indicated in Central European Time (CET). D-1 denotes business day prior to settlement; D denotes value same day. For fields specifying \"Final Beneficiary's Account and Name\" (Field 59), ensure complete formatting is strictly adhered to in order to prevent delays or rejection by clearing networks.",
+                    "source_text": "* Cut-Off Times: All cut-off times are indicated in Central European Time (CET). D-1 denotes business day prior to settlement; D denotes value same day. For fields specifying \"Final Beneficiary's Account and Name\" (Field 59), ensure complete formatting is strictly adhered to in order to prevent delays or rejection by clearing networks.",
+                    "source_page": 2,
+                    "confidence": "HIGH"
+                }
+            },
+            "tables": [],
+            "extraction_notes": [
+                "Table row on page 2 shows no explicit value in column 'CUT- OFF (D-1)'.",
+                "Document footnote on page 2 retained as related settlement note."
+            ]
+        }
+    ]
+}
